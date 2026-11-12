@@ -4,7 +4,7 @@
 veille quotidienne géopolitique, défense et affaires maritimes, une page par jour avec
 des résumés courts et les liens vers les sources (au moins une par actu).
 
-**Site :** https://matthieugrr.github.io/zeraq/
+**Site :** https://zeraq.georger.ovh/
 
 ## Organisation
 
