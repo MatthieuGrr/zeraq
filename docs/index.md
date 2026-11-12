@@ -5,7 +5,79 @@ hide:
   - toc
 ---
 
-*Aucune veille publiée pour l'instant.*
+## Jeudi 12 novembre 2026
+
+
+
+### Ukraine : les émissaires américains chez Poutine, puis chez Zelensky
+
+Steve Witkoff et Jared Kushner sont à Moscou ce jeudi 12 novembre pour rencontrer Vladimir Poutine, avant de voir Volodymyr Zelensky le même jour à Dublin. Ces rencontres suivent deux jours de discussions directes russo-ukrainiennes à Abou Dhabi, les premières depuis plus de huit mois, qui ont débouché sur un nouvel échange massif de prisonniers mais pas sur un accord de fond. Les deux camps restent opposés sur la place de l'Europe dans les négociations ; le chef de la délégation russe, Vladimir Medinski, dit viser un nouveau « système de sécurité » européen comparable à Yalta et Potsdam.
+
+[Source : lemonde.fr](https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html) · [Source 2 : lapresse.ca](https://www.lapresse.ca/international/europe/2026-11-11/guerre-en-ukraine/les-emissaires-americains-vont-rencontrer-poutine-puis-zelensky.php)
+{ .source-link }
+
+### RDC : une loi référendaire qui rouvre la question d'un troisième mandat
+
+Le président Félix Tshisekedi a promulgué le 9 novembre une loi qui organise les référendums et prévoit une procédure pour soumettre une nouvelle Constitution aux électeurs. La Constitution actuelle limite le chef de l'État à deux mandats et son article 220 interdit d'en modifier le nombre ou la durée ; une nouvelle Constitution permettrait de contourner ce verrou avant l'échéance présidentielle de 2028. L'opposition (camps Fayulu et Katumbi) dénonce une manœuvre, et le sujet pèse aussi sur les négociations de paix menées à Doha.
+
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261111-rdc-promulgation-de-la-loi-sur-l-organisation-du-r%C3%A9f%C3%A9rendum-ce-que-cela-peut-changer) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/12/en-rdc-felix-tshisekedi-promulgue-une-loi-controversee-qui-lui-ouvre-la-voie-a-un-troisieme-mandat_6809048_3210.html)
+{ .source-link }
+
+### Paris-Moscou : deux députés et deux journalistes français interdits de séjour en Russie
+
+Le ministère russe des affaires étrangères a interdit d'entrée les députés Sacha Houlié et Arthur Delaporte ainsi que les journalistes Ariane Chemin (Le Monde) et Paul Gogo. Moscou leur reproche un « harcèlement » de Xenia Fedorova, ancienne figure de RT France aujourd'hui salariée du groupe Bolloré. La mesure marque une nouvelle étape dans la dégradation des relations franco-russes.
+
+[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/11/quatre-journalistes-et-deputes-francais-interdits-de-sejour-en-russie-une-nouvelle-etape-dans-la-degradation-des-relations-entre-paris-et-moscou_6809031_3210.html)
+{ .source-link }
+
+### Accords d'Abraham : Maroc et Émirats assument leur coopération militaire avec Israël
+
+Une importante délégation du ministère israélien de la Défense est cette semaine au Maroc pour « intensifier » la coopération signée en 2021. Une usine israélienne de drones kamikazes (BlueBird Aero Systems) tourne près de Casablanca et huit industriels israéliens, dont Elbit et Rafael, exposaient au Marrakech Air Show en octobre. Rabat achète désormais artillerie, missiles et défense antiaérienne israéliens, là où la France et les États-Unis dominaient, malgré une opinion publique hostile depuis la guerre de Gaza.
+
+[Source : rfi.fr](https://www.rfi.fr/fr/moyen-orient/20261111-accords-d-abraham-une-coop%C3%A9ration-militaire-massive-et-assum%C3%A9e-entre-isra%C3%ABl-et-certains-de-ses-alli%C3%A9s-arabes)
+{ .source-link }
+
+### Océan Indien : Washington veut contrer l'influence russe autour du canal du Mozambique
+
+Le commandant adjoint de l'Africom, le lieutenant-général John Brennan Jr, s'est rendu à Madagascar et au Mozambique du 3 au 7 novembre. Il dit craindre que la Russie étende à l'Afrique de l'Est et à l'océan Indien le modèle sécuritaire appliqué au Sahel. Moscou multiplie livraisons d'armes et formations à Madagascar depuis la transition d'octobre 2025, et ses échanges avec le Mozambique ont presque doublé entre janvier et août 2026 ; le canal du Mozambique est une route maritime majeure.
+
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261111-face-%C3%A0-la-russie-les-%C3%A9tats-unis-veulent-renforcer-leur-influence-dans-l-oc%C3%A9an-indien)
+{ .source-link }
+
+### Espace militaire : la DGA commande les satellites d'observation IRIS
+
+La Direction générale de l'armement a attribué 1,5 milliard d'euros à Airbus Defence and Space et Thales Alenia Space pour deux satellites d'observation à très haute résolution du programme IRIS. Ils remplaceront les trois satellites de la Composante spatiale optique (CSO), avec des images plus nettes et un accès plus rapide. Le premier doit être opérationnel en 2033, les deux en orbite d'ici 2035.
+
+[Source : breakingdefense.com](https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/)
+{ .source-link }
+
+### Successeur du Leclerc : un rapport parlementaire conteste le châssis allemand
+
+Faute d'avancée du programme franco-allemand MGCS, la France prépare une « capacité intermédiaire » (CAPINT) pour éviter une rupture capacitaire vers 2037, quand les Leclerc commenceront à être retirés. La DGA a retenu la tourelle ASCALON de KNDS France (canon de 120 ou 140 mm) sur un châssis dérivé du Leopard 2A8. Dans son avis budgétaire, le député François Cormier-Bouligeon juge risqué de dépendre de l'Allemagne et demande une étude de faisabilité pour un châssis souverain ; la DGA rappelle que la France n'a plus l'outil industriel pour produire la partie chenillée.
+
+[Source : opex360.com](https://www.opex360.com/2026/11/11/un-rapport-parlementaire-remet-en-cause-le-choix-dun-chassis-allemand-pour-le-successeur-du-char-leclerc/) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html)
+{ .source-link }
+
+### Pologne : vers une base américaine permanente
+
+Après un entretien avec le secrétaire américain à la Défense Pete Hegseth au Pentagone le 10 novembre, le ministre polonais Władysław Kosiniak-Kamysz évoque un « feu vert » pour une présence militaire américaine permanente. Varsovie a identifié quatre sites possibles pour une base de 5 000 soldats et leurs familles et propose jusqu'à 4,4 milliards de dollars d'infrastructures. La décision finale revient à la Maison Blanche, attendue début décembre.
+
+[Source : breakingdefense.com](https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/)
+{ .source-link }
+
+### Philippines : des drones de surface américains pour les fusiliers marins
+
+Les États-Unis ont livré à Subic Bay deux drones de surface MARTAC T38 Devil Ray au corps des fusiliers marins philippins, troisième transfert de ce type depuis 2024. La marine philippine opère déjà un T38, quatre MANTIS T12 et quatre Triton. Ces moyens servent la surveillance maritime face à la Chine en mer de Chine méridionale et dans le détroit de Luçon, points de passage de la première chaîne d'îles.
+
+[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/)
+{ .source-link }
+
+### Irak : la Turquie va rendre la base de Bachiqa
+
+Ankara a annoncé dans une déclaration commune avec Bagdad le transfert progressif de la base de Bachiqa-Zilkan, dans le nord de l'Irak, occupée par des troupes turques depuis 2015 et source de frictions entre les deux pays. Un comité conjoint doit vérifier l'élimination du PKK dans la zone. Les analystes y voient un geste politique fort pour la souveraineté irakienne, à la portée militaire immédiate limitée.
+
+[Source : breakingdefense.com](https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts/)
+{ .source-link }
 
 
 ---
