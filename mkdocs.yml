@@ -1,0 +1,74 @@
+site_name: Zeraq ⚓
+site_description: Veille quotidienne géopolitique, défense et affaires maritimes
+site_url: https://matthieugrr.github.io/zeraq/
+repo_url: https://github.com/MatthieuGrr/zeraq
+repo_name: MatthieuGrr/zeraq
+copyright: Veille quotidienne · chaque actu renvoie à ses sources originales
+
+theme:
+  name: material
+  language: fr
+  icon:
+    logo: material/anchor
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.tooltips
+
+plugins:
+  - search:
+      lang: fr
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - assets/zeraq.css
+extra_javascript:
+  - assets/favoris.js
+
+# Les pages de jour ne figurent pas dans la nav : on y accède par l'accueil,
+# les archives, les tags et les liens précédente/suivante en bas de chaque veille.
+not_in_nav: |
+  /20*/**
+
+# La navigation ci-dessous est régénérée par scripts/publish.py : ne pas l'éditer à la main.
+# BEGIN NAV
+nav:
+  - Accueil: index.md
+  - Archives: archives.md
+  - Tags: tags.md
+  - Sources: sources.md
+  - Favoris: favoris.md
+# END NAV
