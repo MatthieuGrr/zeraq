@@ -5,79 +5,85 @@ hide:
   - toc
 ---
 
-## Jeudi 12 novembre 2026
+## Vendredi 13 novembre 2026
 
 
 
-### Ukraine : les émissaires américains chez Poutine, puis chez Zelensky
+### Ukraine : les Européens annoncés aux prochaines négociations de paix
 
-Steve Witkoff et Jared Kushner sont à Moscou ce jeudi 12 novembre pour rencontrer Vladimir Poutine, avant de voir Volodymyr Zelensky le même jour à Dublin. Ces rencontres suivent deux jours de discussions directes russo-ukrainiennes à Abou Dhabi, les premières depuis plus de huit mois, qui ont débouché sur un nouvel échange massif de prisonniers mais pas sur un accord de fond. Les deux camps restent opposés sur la place de l'Europe dans les négociations ; le chef de la délégation russe, Vladimir Medinski, dit viser un nouveau « système de sécurité » européen comparable à Yalta et Potsdam.
+Les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, ont rencontré Vladimir Poutine à Moscou puis Volodymyr Zelensky à Dublin jeudi soir. Ils assurent que les Européens, qui réclament depuis des mois une place à la table, seront associés aux prochaines réunions, mais Moscou n'a pas confirmé son accord et les émissaires repartent de Russie avec peu d'éléments nouveaux. En parallèle, Kiev se plaint pour la deuxième fois en un mois de bridages du service satellitaire Starshield de SpaceX, qui dément toute modification.
 
-[Source : lemonde.fr](https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-sont-a-moscou-pour-rencontrer-vladimir-poutine_6808609_3210.html) · [Source 2 : lapresse.ca](https://www.lapresse.ca/international/europe/2026-11-11/guerre-en-ukraine/les-emissaires-americains-vont-rencontrer-poutine-puis-zelensky.php)
+[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html) · [Source 2 : twz.com](https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin)
 { .source-link }
 
-### RDC : une loi référendaire qui rouvre la question d'un troisième mandat
+### Sahara occidental : le Polisario décrète la mobilisation générale
 
-Le président Félix Tshisekedi a promulgué le 9 novembre une loi qui organise les référendums et prévoit une procédure pour soumettre une nouvelle Constitution aux électeurs. La Constitution actuelle limite le chef de l'État à deux mandats et son article 220 interdit d'en modifier le nombre ou la durée ; une nouvelle Constitution permettrait de contourner ce verrou avant l'échéance présidentielle de 2028. L'opposition (camps Fayulu et Katumbi) dénonce une manœuvre, et le sujet pèse aussi sur les négociations de paix menées à Doha.
+Le 10 novembre, Brahim Ghali, chef du Front Polisario, a appelé tous les Sahraouis à se tenir prêts à « défendre leur terre », en réponse à des activités militaires marocaines jugées dangereuses le long du mur des Sables. Le contexte est inédit : le mandat de la Minurso, mission de l'ONU présente depuis plus de trente ans, a expiré le 31 octobre après des vetos russe et américain sur des résolutions rivales. Le Maroc contrôle l'essentiel de ce territoire riche en phosphates, revendiqué par le Polisario soutenu par l'Algérie ; sans force onusienne, les deux belligérants se font désormais face directement.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261111-rdc-promulgation-de-la-loi-sur-l-organisation-du-r%C3%A9f%C3%A9rendum-ce-que-cela-peut-changer) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/12/en-rdc-felix-tshisekedi-promulgue-une-loi-controversee-qui-lui-ouvre-la-voie-a-un-troisieme-mandat_6809048_3210.html)
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261112-sahara-occidental-l-appel-des-ind%C3%A9pendantistes-du-polisario-%C3%A0-la-mobilisation-g%C3%A9n%C3%A9rale-est-un-tournant)
 { .source-link }
 
-### Paris-Moscou : deux députés et deux journalistes français interdits de séjour en Russie
+### RDC : 323 000 déplacés en quatre jours au Sud-Kivu
 
-Le ministère russe des affaires étrangères a interdit d'entrée les députés Sacha Houlié et Arthur Delaporte ainsi que les journalistes Ariane Chemin (Le Monde) et Paul Gogo. Moscou leur reproche un « harcèlement » de Xenia Fedorova, ancienne figure de RT France aujourd'hui salariée du groupe Bolloré. La mesure marque une nouvelle étape dans la dégradation des relations franco-russes.
+Selon le bureau humanitaire de l'ONU, plus de 323 000 personnes ont fui entre le 6 et le 9 novembre les territoires de Kalehe et Kabare, au nord de Bukavu, après l'offensive du Front pour la refondation de la nation (FRN), mouvement dirigé par l'ancien président Joseph Kabila et soutenu par Kigali. L'armée congolaise dit avoir stoppé la progression à Bunyakiri, mais des combats se poursuivent vers Shabunda et plusieurs opérations d'aide sont suspendues. L'ONU vient d'ajouter le FRN à sa liste de mouvements sous sanctions, à l'approche du renouvellement du mandat de la Monusco.
 
-[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/11/quatre-journalistes-et-deputes-francais-interdits-de-sejour-en-russie-une-nouvelle-etape-dans-la-degradation-des-relations-entre-paris-et-moscou_6809031_3210.html)
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261113-rdc-au-sud-kivu-l-onu-estime-que-323-000-personnes-ont-fui-les-derniers-combats) · [Source 2 : rfi.fr](https://www.rfi.fr/fr/afrique/20261112-rdc-onu-ajoute-frn-front-refondation-nation-liste-de-mouvements-sous-sanctions-afc)
 { .source-link }
 
-### Accords d'Abraham : Maroc et Émirats assument leur coopération militaire avec Israël
+### France-Algérie : la crise diplomatique fait chuter le commerce
 
-Une importante délégation du ministère israélien de la Défense est cette semaine au Maroc pour « intensifier » la coopération signée en 2021. Une usine israélienne de drones kamikazes (BlueBird Aero Systems) tourne près de Casablanca et huit industriels israéliens, dont Elbit et Rafael, exposaient au Marrakech Air Show en octobre. Rabat achète désormais artillerie, missiles et défense antiaérienne israéliens, là où la France et les États-Unis dominaient, malgré une opinion publique hostile depuis la guerre de Gaza.
+Les exportations françaises vers l'Algérie subissent une baisse sans précédent, nouvel effet des tensions entre Paris et Alger. Les autorités algériennes ciblent notamment les produits sidérurgiques et alimentaires français. La relation économique, longtemps l'un des rares canaux préservés, devient à son tour un terrain de la brouille.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/moyen-orient/20261111-accords-d-abraham-une-coop%C3%A9ration-militaire-massive-et-assum%C3%A9e-entre-isra%C3%ABl-et-certains-de-ses-alli%C3%A9s-arabes)
+[Source : lemonde.fr](https://www.lemonde.fr/afrique/article/2026/11/12/entre-la-france-et-l-algerie-les-echanges-commerciaux-s-effondrent-nouvel-effet-de-la-crise-entre-les-deux-pays_6809148_3212.html)
 { .source-link }
 
-### Océan Indien : Washington veut contrer l'influence russe autour du canal du Mozambique
+### États-Unis-Mexique : Trump menace de doubler les droits de douane
 
-Le commandant adjoint de l'Africom, le lieutenant-général John Brennan Jr, s'est rendu à Madagascar et au Mozambique du 3 au 7 novembre. Il dit craindre que la Russie étende à l'Afrique de l'Est et à l'océan Indien le modèle sécuritaire appliqué au Sahel. Moscou multiplie livraisons d'armes et formations à Madagascar depuis la transition d'octobre 2025, et ses échanges avec le Mozambique ont presque doublé entre janvier et août 2026 ; le canal du Mozambique est une route maritime majeure.
+Donald Trump menace de doubler les droits de douane imposés au Mexique après l'entrée sur le territoire mexicain d'une caravane de migrants partie du Honduras, qui traverse actuellement le Chiapas en direction des États-Unis. La menace intervient juste après la lourde défaite du Parti républicain aux élections de mi-mandat ; elle illustre l'usage des tarifs douaniers comme levier sur la politique migratoire des voisins.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261111-face-%C3%A0-la-russie-les-%C3%A9tats-unis-veulent-renforcer-leur-influence-dans-l-oc%C3%A9an-indien)
+[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/donald-trump-menace-de-doubler-les-droits-de-douane-imposes-au-mexique-apres-l-arrivee-d-une-caravane-de-migrants_6809192_3210.html)
 { .source-link }
 
-### Espace militaire : la DGA commande les satellites d'observation IRIS
+### Marine nationale : huit escouades de réserve côtières de plus en 2027
 
-La Direction générale de l'armement a attribué 1,5 milliard d'euros à Airbus Defence and Space et Thales Alenia Space pour deux satellites d'observation à très haute résolution du programme IRIS. Ils remplaceront les trois satellites de la Composante spatiale optique (CSO), avec des images plus nettes et un accès plus rapide. Le premier doit être opérationnel en 2033, les deux en orbite d'ici 2035.
+Le ministère des Armées a annoncé la création de huit nouvelles escouades de réserve côtières (ECR) en 2027, qui passeront de 19 à 27 : Lézardrieux et Royan (Atlantique), Dieppe, Granville et Ouistreham (Manche-mer du Nord), La Ciotat, Saint-Raphaël et Gruissan (Méditerranée). Armées par des réservistes sur semi-rigides et en lien avec les sémaphores, elles renforcent la surveillance des approches maritimes, la défense maritime du territoire et l'action de l'État en mer. D'ici 2030, flottilles et escouades emploieront environ 3 000 réservistes ; la Marine vise 18 000 réservistes en 2035, contre environ 7 000 aujourd'hui.
 
-[Source : breakingdefense.com](https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/)
+[Source : opex360.com](https://www.opex360.com/2026/11/12/la-marine-nationale-va-creer-huit-escouades-de-reserve-cotieres-de-plus-en-2027/)
 { .source-link }
 
-### Successeur du Leclerc : un rapport parlementaire conteste le châssis allemand
+### Royaume-Uni : des navires-mères norvégiens pour la guerre des mines
 
-Faute d'avancée du programme franco-allemand MGCS, la France prépare une « capacité intermédiaire » (CAPINT) pour éviter une rupture capacitaire vers 2037, quand les Leclerc commenceront à être retirés. La DGA a retenu la tourelle ASCALON de KNDS France (canon de 120 ou 140 mm) sur un châssis dérivé du Leopard 2A8. Dans son avis budgétaire, le député François Cormier-Bouligeon juge risqué de dépendre de l'Allemagne et demande une étude de faisabilité pour un châssis souverain ; la DGA rappelle que la France n'a plus l'outil industriel pour produire la partie chenillée.
+La Royal Navy va acquérir trois navires de soutien offshore (plus trois en option), issus du programme norvégien P1118, pour mettre en œuvre des systèmes de lutte contre les mines sans équipage ; le premier est attendu en 2031. Londres invoque explicitement le minage du détroit d'Ormuz par l'Iran, qui perturbe le commerce mondial de l'énergie. L'accord prolonge le partenariat né de l'achat par la Norvège de frégates britanniques Type 26 (environ 10 milliards de livres, décembre 2025) : les deux marines opéreront des bâtiments similaires sur le flanc nord de l'OTAN.
 
-[Source : opex360.com](https://www.opex360.com/2026/11/11/un-rapport-parlementaire-remet-en-cause-le-choix-dun-chassis-allemand-pour-le-successeur-du-char-leclerc/) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/11/les-espoirs-decus-de-la-cooperation-franco-allemande-de-defense-sous-macron_6808941_3210.html)
+[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway/)
 { .source-link }
 
-### Pologne : vers une base américaine permanente
+### Grand Nord : les marines de la JEF signent la « Northern Navies Initiative »
 
-Après un entretien avec le secrétaire américain à la Défense Pete Hegseth au Pentagone le 10 novembre, le ministre polonais Władysław Kosiniak-Kamysz évoque un « feu vert » pour une présence militaire américaine permanente. Varsovie a identifié quatre sites possibles pour une base de 5 000 soldats et leurs familles et propose jusqu'à 4,4 milliards de dollars d'infrastructures. La décision finale revient à la Maison Blanche, attendue début décembre.
+À bord du porte-avions HMS Prince of Wales, à Oslo, les dix nations maritimes de la Force expéditionnaire interarmées (JEF, coalition menée par le Royaume-Uni avec les pays nordiques et baltes) ont signé un accord pour opérer, s'entraîner et planifier de la même manière. Objectif : faire de la JEF l'avant-garde maritime de l'OTAN dans l'Atlantique Nord, le Grand Nord et la Baltique, capable d'agir tôt puis de basculer sous commandement OTAN. L'accord vise aussi les menaces sous le seuil du conflit armé, notamment contre les câbles et infrastructures sous-marines.
 
-[Source : breakingdefense.com](https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/)
+[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/uk-and-jef-allies-sign-landmark-northern-navies-initiative-aboard-hms-prince-of-wales/)
 { .source-link }
 
-### Philippines : des drones de surface américains pour les fusiliers marins
+### Royal Navy : un drone de combat sur porte-avions dès 2027
 
-Les États-Unis ont livré à Subic Bay deux drones de surface MARTAC T38 Devil Ray au corps des fusiliers marins philippins, troisième transfert de ce type depuis 2024. La marine philippine opère déjà un T38, quatre MANTIS T12 et quatre Triton. Ces moyens servent la surveillance maritime face à la Chine en mer de Chine méridionale et dans le détroit de Luçon, points de passage de la première chaîne d'îles.
+La Royal Navy va signer une déclaration d'intention avec Northrop Grumman pour tester en 2027, depuis l'un de ses porte-avions, le drone de combat collaboratif YFQ-48A Talon Blue, qui a volé pour la première fois en octobre. Ses porte-avions n'ayant ni catapulte ni brins d'arrêt, l'enjeu est de faire opérer un drone à réaction à décollage court aux côtés des F-35B, pour le renseignement, la frappe voire le ravitaillement. Le Talon Blue est aussi candidat à la deuxième phase du programme de drones collaboratifs de l'US Air Force.
 
-[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/)
+[Source : opex360.com](https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-48a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions/) · [Source 2 : news.usni.org](https://news.usni.org/2026/11/12/royal-navy-to-trial-northrop-grumman-test-aircraft-on-carrier-in-2027)
 { .source-link }
 
-### Irak : la Turquie va rendre la base de Bachiqa
+### Euronaval : CMN dévoile une corvette de 107 mètres
 
-Ankara a annoncé dans une déclaration commune avec Bagdad le transfert progressif de la base de Bachiqa-Zilkan, dans le nord de l'Irak, occupée par des troupes turques depuis 2015 et source de frictions entre les deux pays. Un comité conjoint doit vérifier l'élimination du PKK dans la zone. Les analystes y voient un geste politique fort pour la souveraineté irakienne, à la portée militaire immédiate limitée.
+Le chantier cherbourgeois CMN a présenté à Euronaval son plus grand bâtiment de combat à ce jour : une corvette multimissions de 107 m, dérivée de son patrouilleur CL75 Mk II. Elle emporte huit missiles antinavires Exocet MM40 Block 3C, 16 missiles VL MICA NG, un canon de 76 mm et des torpilles MU90, avec un radar multifonction Leonardo Kronos. Autonomie : 9 000 nautiques et 30 jours, pour 96 membres d'équipage.
 
-[Source : breakingdefense.com](https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts/)
+[Source : navalnews.com](https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-cmn-unveils-107-meter-multi-mission-corvette/)
 { .source-link }
+
+## Veilles précédentes
+
+- [Jeudi 12 novembre 2026](2026/11/2026-11-12.md) — 10 actus
+
+[Toutes les veilles dans les archives →](archives.md)
 
 
 ---
