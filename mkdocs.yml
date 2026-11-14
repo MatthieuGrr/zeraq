@@ -57,6 +57,7 @@ extra_css:
   - assets/zeraq.css
 extra_javascript:
   - assets/favoris.js
+  - assets/goatcounter.js
 
 # Les pages de jour ne figurent pas dans la nav : on y accède par l'accueil,
 # les archives, les tags et les liens précédente/suivante en bas de chaque veille.
