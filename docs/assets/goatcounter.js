@@ -3,7 +3,8 @@
   "use strict";
 
   if (window.goatcounter) return;
-  window.goatcounter = { no_onload: true };
+  // endpoint en dur : la navigation instantanée retire la balise <script data-goatcounter> du DOM.
+  window.goatcounter = { no_onload: true, endpoint: "https://georger.goatcounter.com/count" };
 
   // count.js est servi depuis le site : les bloqueurs (et le DNS maison) filtrent gc.zgo.at.
   var script = document.createElement("script");
