@@ -5,9 +5,10 @@
   if (window.goatcounter) return;
   window.goatcounter = { no_onload: true };
 
+  // count.js est servi depuis le site : les bloqueurs (et le DNS maison) filtrent gc.zgo.at.
   var script = document.createElement("script");
   script.async = true;
-  script.src = "https://gc.zgo.at/count.js";
+  script.src = document.currentScript.src.replace(/goatcounter\.js.*$/, "count.js");
   script.dataset.goatcounter = "https://georger.goatcounter.com/count";
   script.onload = function () {
     // document$ rejoue la page courante puis chaque page chargée par la navigation instantanée.
