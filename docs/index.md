@@ -5,82 +5,83 @@ hide:
   - toc
 ---
 
-## Vendredi 13 novembre 2026
+## Samedi 14 novembre 2026
 
 
 
-### Ukraine : les Européens annoncés aux prochaines négociations de paix
+### Trump, Xi et Poutine réunis jeudi en Chine sur le nucléaire
 
-Les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, ont rencontré Vladimir Poutine à Moscou puis Volodymyr Zelensky à Dublin jeudi soir. Ils assurent que les Européens, qui réclament depuis des mois une place à la table, seront associés aux prochaines réunions, mais Moscou n'a pas confirmé son accord et les émissaires repartent de Russie avec peu d'éléments nouveaux. En parallèle, Kiev se plaint pour la deuxième fois en un mois de bridages du service satellitaire Starshield de SpaceX, qui dément toute modification.
+La Maison Blanche a annoncé une rencontre trilatérale entre Donald Trump, Xi Jinping et Vladimir Poutine le 19 novembre, en marge du sommet de l'APEC à Shenzhen. Selon un responsable américain, les discussions porteront sur la réduction des arsenaux nucléaires : ce serait la première réunion des dirigeants des trois plus grandes puissances nucléaires consacrée à la non-prolifération. L'Iran sera aussi au menu, mais pas l'Ukraine, dont les négociations suivent un processus distinct sans la Chine.
 
-[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/guerre-en-ukraine-les-emissaires-americains-assurent-que-les-europeens-seront-associes-aux-prochaines-reunions-de-negociation-de-paix_6809269_3210.html) · [Source 2 : twz.com](https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin)
+[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html) · [Source 2 : courrierinternational.com](https://www.courrierinternational.com/article/pendant-que-vous-dormiez-rugby-reunion-trump-xi-poutine-et-leon-xiv-au-perou-les-informations-de-la-nuit_287170)
 { .source-link }
 
-### Sahara occidental : le Polisario décrète la mobilisation générale
+### Ukraine : un « E5 » pour représenter l'Europe aux pourparlers
 
-Le 10 novembre, Brahim Ghali, chef du Front Polisario, a appelé tous les Sahraouis à se tenir prêts à « défendre leur terre », en réponse à des activités militaires marocaines jugées dangereuses le long du mur des Sables. Le contexte est inédit : le mandat de la Minurso, mission de l'ONU présente depuis plus de trente ans, a expiré le 31 octobre après des vetos russe et américain sur des résolutions rivales. Le Maroc contrôle l'essentiel de ce territoire riche en phosphates, revendiqué par le Polisario soutenu par l'Algérie ; sans force onusienne, les deux belligérants se font désormais face directement.
+Allemagne, France, Italie, Pologne et Royaume-Uni se positionnent pour représenter l'Europe, avec des représentants des institutions de l'UE, dans le prochain cycle de négociations russo-ukrainiennes sous médiation américaine. Les émissaires Witkoff et Kushner affirment que Vladimir Poutine accepte cette ouverture aux Européens, après des pourparlers sans résultat tangible aux Émirats arabes unis ; Moscou entretient toutefois le doute. En parallèle, le Kremlin propose aux Européens des accords bilatéraux d'assistance mutuelle, sur le modèle de ceux signés avec la Biélorussie et la Corée du Nord.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261112-sahara-occidental-l-appel-des-ind%C3%A9pendantistes-du-polisario-%C3%A0-la-mobilisation-g%C3%A9n%C3%A9rale-est-un-tournant)
+[Source : rfi.fr](https://www.rfi.fr/fr/europe/20261113-pourparlers-sur-l-ukraine-un-groupe-de-cinq-pays-se-positionne-pour-repr%C3%A9senter-l-europe) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html)
 { .source-link }
 
-### RDC : 323 000 déplacés en quatre jours au Sud-Kivu
+### Iran : le Parlement examine une sortie du TNP
 
-Selon le bureau humanitaire de l'ONU, plus de 323 000 personnes ont fui entre le 6 et le 9 novembre les territoires de Kalehe et Kabare, au nord de Bukavu, après l'offensive du Front pour la refondation de la nation (FRN), mouvement dirigé par l'ancien président Joseph Kabila et soutenu par Kigali. L'armée congolaise dit avoir stoppé la progression à Bunyakiri, mais des combats se poursuivent vers Shabunda et plusieurs opérations d'aide sont suspendues. L'ONU vient d'ajouter le FRN à sa liste de mouvements sous sanctions, à l'approche du renouvellement du mandat de la Monusco.
+Plus de sept mois après le début de la guerre lancée par les États-Unis et Israël, le Parlement iranien examine un texte prévoyant le retrait du Traité de non-prolifération, après que l'Assemblée des experts a, pour la première fois, évoqué un changement de doctrine. Un responsable des Gardiens de la Révolution affirme que la portée des missiles balistiques n'est plus plafonnée à 2 000 km. Téhéran resserre parallèlement ses liens avec Moscou, la mer Caspienne devenant un axe de ses échanges commerciaux et militaires avec la Russie.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261113-rdc-au-sud-kivu-l-onu-estime-que-323-000-personnes-ont-fui-les-derniers-combats) · [Source 2 : rfi.fr](https://www.rfi.fr/fr/afrique/20261112-rdc-onu-ajoute-frn-front-refondation-nation-liste-de-mouvements-sous-sanctions-afc)
+[Source : rfi.fr](https://www.rfi.fr/fr/moyen-orient/20261112-iran-le-parlement-examine-la-sortie-du-trait%C3%A9-de-non-prolif%C3%A9ration-des-armes-nucl%C3%A9aires) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/14/face-a-israel-et-aux-etats-unis-l-iran-resserre-ses-liens-avec-la-russie_6809692_3210.html)
 { .source-link }
 
-### France-Algérie : la crise diplomatique fait chuter le commerce
+### Russie : le financement de la guerre sous tension
 
-Les exportations françaises vers l'Algérie subissent une baisse sans précédent, nouvel effet des tensions entre Paris et Alger. Les autorités algériennes ciblent notamment les produits sidérurgiques et alimentaires français. La relation économique, longtemps l'un des rares canaux préservés, devient à son tour un terrain de la brouille.
+Le Grand Continent analyse les comptes publics russes : l'État peut encore financer l'invasion de l'Ukraine, mais les coûts augmentent plus vite que les recettes et la rente pétrolière s'amenuise. Le Fonds national de bien-être, alimenté par les recettes pétrolières au-dessus d'un prix plancher (59 dollars le baril en 2026), sert de « matelas » ; la question devient celle des sacrifices que le Kremlin devra imposer pour poursuivre l'effort de guerre.
 
-[Source : lemonde.fr](https://www.lemonde.fr/afrique/article/2026/11/12/entre-la-france-et-l-algerie-les-echanges-commerciaux-s-effondrent-nouvel-effet-de-la-crise-entre-les-deux-pays_6809148_3212.html)
+[Source : legrandcontinent.eu](https://legrandcontinent.eu/fr/2026/11/13/combien-de-temps-poutine-peut-il-encore-financer-sa-guerre/)
 { .source-link }
 
-### États-Unis-Mexique : Trump menace de doubler les droits de douane
+### Burkina Faso : mandats d'arrêt contre des exilés pour « terrorisme »
 
-Donald Trump menace de doubler les droits de douane imposés au Mexique après l'entrée sur le territoire mexicain d'une caravane de migrants partie du Honduras, qui traverse actuellement le Chiapas en direction des États-Unis. La menace intervient juste après la lourde défaite du Parti républicain aux élections de mi-mandat ; elle illustre l'usage des tarifs douaniers comme levier sur la politique migratoire des voisins.
+Le procureur général burkinabè a annoncé des poursuites pour terrorisme contre une quarantaine de personnes, avec des mandats d'arrêt et des demandes d'extradition visant d'anciens ministres de Blaise Compaoré, d'ex-officiers, des journalistes et des activistes en exil, dont un chroniqueur de RFI. La mesure illustre le durcissement de la junte contre les voix critiques à l'étranger.
 
-[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/donald-trump-menace-de-doubler-les-droits-de-douane-imposes-au-mexique-apres-l-arrivee-d-une-caravane-de-migrants_6809192_3210.html)
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261113-burkina-faso-mandats-d-arr%C3%AAt-contre-des-journalistes-et-activistes-en-exil-pour-faits-de-terrorisme) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html)
 { .source-link }
 
-### Marine nationale : huit escouades de réserve côtières de plus en 2027
+### La Marine nationale va acheter 20 vedettes CB90 suédoises
 
-Le ministère des Armées a annoncé la création de huit nouvelles escouades de réserve côtières (ECR) en 2027, qui passeront de 19 à 27 : Lézardrieux et Royan (Atlantique), Dieppe, Granville et Ouistreham (Manche-mer du Nord), La Ciotat, Saint-Raphaël et Gruissan (Méditerranée). Armées par des réservistes sur semi-rigides et en lien avec les sémaphores, elles renforcent la surveillance des approches maritimes, la défense maritime du territoire et l'action de l'État en mer. D'ici 2030, flottilles et escouades emploieront environ 3 000 réservistes ; la Marine vise 18 000 réservistes en 2035, contre environ 7 000 aujourd'hui.
+Selon le projet de budget 2027 du gouvernement suédois, la France va commander vingt vedettes rapides CB90 (Saab) de gré à gré, via un accord intergouvernemental incluant équipements, formation et soutien. Ces embarcations de 24,5 t, capables de 40 nœuds et de transporter un demi-peloton, avaient été évaluées en 2025 ; elles remplaceront les vedettes de fusiliers marins (VFM), dont la commande a été annulée, pour la protection des unités précieuses et des approches portuaires, voire pour des missions amphibies.
 
-[Source : opex360.com](https://www.opex360.com/2026/11/12/la-marine-nationale-va-creer-huit-escouades-de-reserve-cotieres-de-plus-en-2027/)
+[Source : opex360.com](https://www.opex360.com/2026/11/13/la-france-va-commander-20-vedettes-rapides-cb90-aupres-de-la-suede/)
 { .source-link }
 
-### Royaume-Uni : des navires-mères norvégiens pour la guerre des mines
+### Espagne : 3 milliards d'euros pour les sous-marins S80
 
-La Royal Navy va acquérir trois navires de soutien offshore (plus trois en option), issus du programme norvégien P1118, pour mettre en œuvre des systèmes de lutte contre les mines sans équipage ; le premier est attendu en 2031. Londres invoque explicitement le minage du détroit d'Ormuz par l'Iran, qui perturbe le commerce mondial de l'énergie. L'accord prolonge le partenariat né de l'achat par la Norvège de frégates britanniques Type 26 (environ 10 milliards de livres, décembre 2025) : les deux marines opéreront des bâtiments similaires sur le flanc nord de l'OTAN.
+Madrid a débloqué le 10 novembre près de 2,4 milliards d'euros pour moderniser ses quatre sous-marins S80, déjà touchés par « quatorze graves problèmes d'obsolescence » (système de combat, sonars, périscopes…) à cause des retards du programme, et pour leur permettre de déployer des drones sous-marins. 792 millions sur neuf ans financeront des missiles de croisière, a priori le JSM-SL de Kongsberg (environ 300 km, tiré depuis un tube de 533 mm), aussi retenu par les Pays-Bas pour leurs futurs sous-marins Orka.
 
-[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway/)
+[Source : opex360.com](https://www.opex360.com/2026/11/13/lespagne-debloque-3-milliards-deuros-pour-acquerir-des-missiles-de-croisiere-jsm-sl-et-moderniser-ses-sous-marins-s80/)
 { .source-link }
 
-### Grand Nord : les marines de la JEF signent la « Northern Navies Initiative »
+### Le chef d'état-major de la Marine défend une hybridation « raisonnée »
 
-À bord du porte-avions HMS Prince of Wales, à Oslo, les dix nations maritimes de la Force expéditionnaire interarmées (JEF, coalition menée par le Royaume-Uni avec les pays nordiques et baltes) ont signé un accord pour opérer, s'entraîner et planifier de la même manière. Objectif : faire de la JEF l'avant-garde maritime de l'OTAN dans l'Atlantique Nord, le Grand Nord et la Baltique, capable d'agir tôt puis de basculer sous commandement OTAN. L'accord vise aussi les menaces sous le seuil du conflit armé, notamment contre les câbles et infrastructures sous-marines.
+À Euronaval, l'amiral Christophe Cluzel a expliqué que les drones maritimes viendront compléter, et non remplacer, les grands bâtiments de premier rang : porte-avions, SNA et SNLE 3G restent au cœur de l'autonomie stratégique. Les drones doivent apporter de la profondeur tactique (surveillance), repousser les seuils de saturation en autodéfense et renforcer la puissance de frappe. Il s'appuie sur les retours d'expérience de la mer Rouge et des exercices Polaris.
 
-[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/uk-and-jef-allies-sign-landmark-northern-navies-initiative-aboard-hms-prince-of-wales/)
+[Source : navalnews.com](https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/)
 { .source-link }
 
-### Royal Navy : un drone de combat sur porte-avions dès 2027
+### Pacifique : l'US Navy s'alarme de l'essor des flottes sous-marines chinoise et russe
 
-La Royal Navy va signer une déclaration d'intention avec Northrop Grumman pour tester en 2027, depuis l'un de ses porte-avions, le drone de combat collaboratif YFQ-48A Talon Blue, qui a volé pour la première fois en octobre. Ses porte-avions n'ayant ni catapulte ni brins d'arrêt, l'enjeu est de faire opérer un drone à réaction à décollage court aux côtés des F-35B, pour le renseignement, la frappe voire le ravitaillement. Le Talon Blue est aussi candidat à la deuxième phase du programme de drones collaboratifs de l'US Air Force.
+Le contre-amiral Chris Cavanaugh, commandant des sous-marins de la flotte américaine du Pacifique, a indiqué que la Chine avait mis en service 8 SNA Type 093B en moins de quatre ans, un rythme jugé soutenable pendant une décennie (20 à 40 unités). Il souligne aussi l'effort chinois en recherche océanographique et en drones sous-marins, ainsi que la modernisation russe (SNLE Boreï, SSGN Iassen, drone nucléaire Poséidon) et les ambitions de la Corée du Nord.
 
-[Source : opex360.com](https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-48a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions/) · [Source 2 : news.usni.org](https://news.usni.org/2026/11/12/royal-navy-to-trial-northrop-grumman-test-aircraft-on-carrier-in-2027)
+[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/)
 { .source-link }
 
-### Euronaval : CMN dévoile une corvette de 107 mètres
+### Drones suspects au-dessus de la base américaine de Lakenheath
 
-Le chantier cherbourgeois CMN a présenté à Euronaval son plus grand bâtiment de combat à ce jour : une corvette multimissions de 107 m, dérivée de son patrouilleur CL75 Mk II. Elle emporte huit missiles antinavires Exocet MM40 Block 3C, 16 missiles VL MICA NG, un canon de 76 mm et des torpilles MU90, avec un radar multifonction Leonardo Kronos. Autonomie : 9 000 nautiques et 30 jours, pour 96 membres d'équipage.
+L'US Air Force est intervenue pour une « suspicion d'activité de drone non autorisée » au-dessus de RAF Lakenheath, principale base de chasseurs américains en Angleterre, sans dommage pour le personnel, les avions ou les infrastructures. Des alertes ont aussi été signalées à Mildenhall et Feltwell, alors que le niveau de sécurité des bases américaines au Royaume-Uni avait été relevé le 9 novembre sur fond de menaces iraniennes.
 
-[Source : navalnews.com](https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-cmn-unveils-107-meter-multi-mission-corvette/)
+[Source : twz.com](https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html)
 { .source-link }
 
 ## Veilles précédentes
 
+- [Vendredi 13 novembre 2026](2026/11/2026-11-13.md) — 10 actus
 - [Jeudi 12 novembre 2026](2026/11/2026-11-12.md) — 10 actus
 
 [Toutes les veilles dans les archives →](archives.md)
