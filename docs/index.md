@@ -5,82 +5,69 @@ hide:
   - toc
 ---
 
-## Samedi 14 novembre 2026
+## Dimanche 15 novembre 2026
 
 
 
-### Trump, Xi et Poutine réunis jeudi en Chine sur le nucléaire
+### Ukraine : Moscou durcit ses exigences, Washington évoque l'OTAN contre le Donbass
 
-La Maison Blanche a annoncé une rencontre trilatérale entre Donald Trump, Xi Jinping et Vladimir Poutine le 19 novembre, en marge du sommet de l'APEC à Shenzhen. Selon un responsable américain, les discussions porteront sur la réduction des arsenaux nucléaires : ce serait la première réunion des dirigeants des trois plus grandes puissances nucléaires consacrée à la non-prolifération. L'Iran sera aussi au menu, mais pas l'Ukraine, dont les négociations suivent un processus distinct sans la Chine.
+Selon Bild et le New York Times, la Russie a présenté lors des discussions d'Abou Dhabi un document daté du 10 novembre qui dépasse le seul cas ukrainien : cession des parties du Donbass encore tenues par Kiev (en plus des 18 % du territoire déjà occupés), exclusion de l'OTAN, démilitarisation d'Odessa et de Mykolaïv, et retour de l'Alliance à ses frontières de 1997. Volodymyr Zelensky a de son côté indiqué que les émissaires américains avaient évoqué une adhésion de l'Ukraine à l'OTAN en échange du Donbass, une hypothèse que Kiev ne prend pas au sérieux. Le chef de la délégation russe, Vladimir Medinski, a exclu tout échange territorial et annoncé l'extension de la « zone de sécurité » russe vers Soumy et Kharkiv.
 
-[Source : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html) · [Source 2 : courrierinternational.com](https://www.courrierinternational.com/article/pendant-que-vous-dormiez-rugby-reunion-trump-xi-poutine-et-leon-xiv-au-perou-les-informations-de-la-nuit_287170)
+[Source : legrandcontinent.eu](https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html)
 { .source-link }
 
-### Ukraine : un « E5 » pour représenter l'Europe aux pourparlers
+### Libye : l'Égypte prend ses distances avec le clan Haftar
 
-Allemagne, France, Italie, Pologne et Royaume-Uni se positionnent pour représenter l'Europe, avec des représentants des institutions de l'UE, dans le prochain cycle de négociations russo-ukrainiennes sous médiation américaine. Les émissaires Witkoff et Kushner affirment que Vladimir Poutine accepte cette ouverture aux Européens, après des pourparlers sans résultat tangible aux Émirats arabes unis ; Moscou entretient toutefois le doute. En parallèle, le Kremlin propose aux Européens des accords bilatéraux d'assistance mutuelle, sur le modèle de ceux signés avec la Biélorussie et la Corée du Nord.
+Selon plusieurs médias, Le Caire aurait retiré ses experts militaires de Benghazi, signe d'une rupture avec l'Est libyen, son allié de longue date, alors que l'Égypte a rouvert son ambassade à Tripoli après douze ans de fermeture. Le point de rupture : la ratification en octobre par la Chambre des représentants (pro-Haftar) du mémorandum turco-libyen de 2019 sur les zones maritimes en Méditerranée, que l'Égypte juge contraire au droit international et menaçant pour sa souveraineté. S'y ajoutent la rivalité sur les corridors logistiques vers l'Afrique et le soutien de l'Est libyen aux paramilitaires soudanais des FSR.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/europe/20261113-pourparlers-sur-l-ukraine-un-groupe-de-cinq-pays-se-positionne-pour-repr%C3%A9senter-l-europe) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/sollicitee-par-donald-trump-la-russie-jubile-a-l-idee-de-peser-sur-l-architecture-de-securite-europeenne_6809368_3210.html)
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261114-l-%C3%A9gypte-retire-ses-experts-aupr%C3%A8s-de-saddam-haftar-dans-l-est-libyen-sur-fond-de-tensions)
 { .source-link }
 
-### Iran : le Parlement examine une sortie du TNP
+### Nigeria : la commission électorale contestée à deux mois du scrutin
 
-Plus de sept mois après le début de la guerre lancée par les États-Unis et Israël, le Parlement iranien examine un texte prévoyant le retrait du Traité de non-prolifération, après que l'Assemblée des experts a, pour la première fois, évoqué un changement de doctrine. Un responsable des Gardiens de la Révolution affirme que la portée des missiles balistiques n'est plus plafonnée à 2 000 km. Téhéran resserre parallèlement ses liens avec Moscou, la mer Caspienne devenant un axe de ses échanges commerciaux et militaires avec la Russie.
+À deux mois des élections générales du 16 janvier dans le pays le plus peuplé d'Afrique, la Commission électorale (Inec) doit défendre son impartialité dans un climat de violences politiques. Elle a retiré 1,6 million de noms des listes électorales pour irrégularités, et l'invalidation judiciaire de la direction de l'ADC, principal parti d'opposition, menace la candidature d'Atiku Abubakar. Les ratés de 2023 dans la transmission électronique des résultats pèsent encore sur la confiance des électeurs.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/moyen-orient/20261112-iran-le-parlement-examine-la-sortie-du-trait%C3%A9-de-non-prolif%C3%A9ration-des-armes-nucl%C3%A9aires) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/14/face-a-israel-et-aux-etats-unis-l-iran-resserre-ses-liens-avec-la-russie_6809692_3210.html)
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261115-nigeria-%C3%A0-deux-mois-des-%C3%A9lections-g%C3%A9n%C3%A9rales-la-commission-%C3%A9lectorale-sous-un-feu-roulant-de-critiques)
 { .source-link }
 
-### Russie : le financement de la guerre sous tension
+### Baltique : une corvette russe endommagée par des drones ukrainiens
 
-Le Grand Continent analyse les comptes publics russes : l'État peut encore financer l'invasion de l'Ukraine, mais les coûts augmentent plus vite que les recettes et la rente pétrolière s'amenuise. Le Fonds national de bien-être, alimenté par les recettes pétrolières au-dessus d'un prix plancher (59 dollars le baril en 2026), sert de « matelas » ; la question devient celle des sacrifices que le Kremlin devra imposer pour poursuivre l'effort de guerre.
+Le SBU ukrainien revendique une frappe le 11 novembre contre la corvette Naro-Fominsk (classe Bouïan-M, 850 tonnes, armée de missiles Kalibr et Oniks) dans le golfe de Finlande, lors d'une attaque de drones contre le port pétrolier d'Oust-Louga. Selon l'état-major estonien, le navire a subi de « multiples impacts » ayant fait des morts et des blessés, avant de rejoindre Saint-Pétersbourg escorté ; un hélicoptère russe aurait été abattu par des tirs amis. Des drones ont brièvement survolé l'Estonie sans être abattus, Tallinn invoquant le risque d'escalade.
 
-[Source : legrandcontinent.eu](https://legrandcontinent.eu/fr/2026/11/13/combien-de-temps-poutine-peut-il-encore-financer-sa-guerre/)
+[Source : opex360.com](https://www.opex360.com/2026/11/14/baltique-visee-par-des-drones-ukrainiens-la-corvette-russe-naro-forminsk-aurait-subi-dimportants-degats/)
 { .source-link }
 
-### Burkina Faso : mandats d'arrêt contre des exilés pour « terrorisme »
+### Euronaval : Naval Group dévoile le concept SCX 26, combattant porte-drones
 
-Le procureur général burkinabè a annoncé des poursuites pour terrorisme contre une quarantaine de personnes, avec des mandats d'arrêt et des demandes d'extradition visant d'anciens ministres de Blaise Compaoré, d'ex-officiers, des journalistes et des activistes en exil, dont un chroniqueur de RFI. La mesure illustre le durcissement de la junte contre les voix critiques à l'étranger.
+Naval Group a présenté le « Surface Combatant Xperimental » SCX 26, un concept (et non un projet prêt à construire) de grand combattant multirôle de 170 m, 24 m de large et 8 000 tonnes, avec 150 marins et 100 spécialistes de mission embarqués. À la différence du modèle britannique de « Hybrid Navy » fondé sur des navires légèrement armés, il associe un armement lourd (missiles, lanceurs verticaux rechargeables en mer, armes à énergie) et la capacité de mettre en œuvre de nombreux drones de surface et sous-marins. Sa taille le rapproche des FREMM plutôt que d'un successeur des frégates de défense aérienne Horizon.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261113-burkina-faso-mandats-d-arr%C3%AAt-contre-des-journalistes-et-activistes-en-exil-pour-faits-de-terrorisme) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/le-burkina-faso-annonce-lancer-des-mandats-d-arret-contre-des-journalistes-et-des-activistes-en-exil-pour-des-faits-de-terrorisme_6809388_3210.html)
+[Source : navalnews.com](https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub/)
 { .source-link }
 
-### La Marine nationale va acheter 20 vedettes CB90 suédoises
+### États-Unis : le premier SNLE de classe Columbia de nouveau dans les temps
 
-Selon le projet de budget 2027 du gouvernement suédois, la France va commander vingt vedettes rapides CB90 (Saab) de gré à gré, via un accord intergouvernemental incluant équipements, formation et soutien. Ces embarcations de 24,5 t, capables de 40 nœuds et de transporter un demi-peloton, avaient été évaluées en 2025 ; elles remplaceront les vedettes de fusiliers marins (VFM), dont la commande a été annulée, pour la protection des unités précieuses et des approches portuaires, voire pour des missions amphibies.
+L'US Navy estime que l'USS District of Columbia, premier des nouveaux sous-marins nucléaires lanceurs d'engins, peut être livré en 2028 comme prévu, alors qu'au printemps 2026 le rythme des travaux laissait craindre une livraison au-delà de 2030. Le rythme hebdomadaire de construction chez General Dynamics Electric Boat a été multiplié par près de 2,5 grâce au travail en 3x8, aux hausses de salaires et à une meilleure coordination avec les fournisseurs. Le programme est crucial pour remplacer les SNLE vieillissants de classe Ohio, pilier de la dissuasion américaine.
 
-[Source : opex360.com](https://www.opex360.com/2026/11/13/la-france-va-commander-20-vedettes-rapides-cb90-aupres-de-la-suede/)
+[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/)
 { .source-link }
 
-### Espagne : 3 milliards d'euros pour les sous-marins S80
+### Le Japon fournit drones et radar côtier aux Philippines
 
-Madrid a débloqué le 10 novembre près de 2,4 milliards d'euros pour moderniser ses quatre sous-marins S80, déjà touchés par « quatorze graves problèmes d'obsolescence » (système de combat, sonars, périscopes…) à cause des retards du programme, et pour leur permettre de déployer des drones sous-marins. 792 millions sur neuf ans financeront des missiles de croisière, a priori le JSM-SL de Kongsberg (environ 300 km, tiré depuis un tube de 533 mm), aussi retenu par les Pays-Bas pour leurs futurs sous-marins Orka.
+Tokyo va transférer à Manille des drones et un système radar de surveillance côtière, pour un montant pouvant atteindre 27 millions de dollars, dans le cadre de son programme d'assistance à la sécurité (OSA). Le radar sera opéré par la marine philippine, dont la connaissance du domaine maritime est cruciale face aux pressions chinoises en mer de Chine méridionale ; l'armée de l'air recevra des drones. Ce paquet illustre le rapprochement militaire nippo-philippin.
 
-[Source : opex360.com](https://www.opex360.com/2026/11/13/lespagne-debloque-3-milliards-deuros-pour-acquerir-des-missiles-de-croisiere-jsm-sl-et-moderniser-ses-sous-marins-s80/)
+[Source : news.usni.org](https://news.usni.org/2026/11/13/japan-pledges-drones-coastal-defense-radar-in-latest-philippine-defense-package)
 { .source-link }
 
-### Le chef d'état-major de la Marine défend une hybridation « raisonnée »
+### Allemagne : des drones militaires cloués au sol après une cyberattaque
 
-À Euronaval, l'amiral Christophe Cluzel a expliqué que les drones maritimes viendront compléter, et non remplacer, les grands bâtiments de premier rang : porte-avions, SNA et SNLE 3G restent au cœur de l'autonomie stratégique. Les drones doivent apporter de la profondeur tactique (surveillance), repousser les seuils de saturation en autodéfense et renforcer la puissance de frappe. Il s'appuie sur les retours d'expérience de la mer Rouge et des exercices Polaris.
+Fin octobre, la Bundeswehr a dû immobiliser ses mini-drones de reconnaissance Vector après une cyberattaque visant leur fabricant Quantum Systems, qui l'a reconnue le 12 novembre en assurant que la menace était neutralisée. L'industriel, qui produit aussi en Ukraine depuis 2024, souligne que les entreprises soutenant Kiev sont particulièrement ciblées. L'épisode montre la vulnérabilité de la chaîne industrielle de défense aux attaques informatiques.
 
-[Source : navalnews.com](https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/)
-{ .source-link }
-
-### Pacifique : l'US Navy s'alarme de l'essor des flottes sous-marines chinoise et russe
-
-Le contre-amiral Chris Cavanaugh, commandant des sous-marins de la flotte américaine du Pacifique, a indiqué que la Chine avait mis en service 8 SNA Type 093B en moins de quatre ans, un rythme jugé soutenable pendant une décennie (20 à 40 unités). Il souligne aussi l'effort chinois en recherche océanographique et en drones sous-marins, ainsi que la modernisation russe (SNLE Boreï, SSGN Iassen, drone nucléaire Poséidon) et les ambitions de la Corée du Nord.
-
-[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/)
-{ .source-link }
-
-### Drones suspects au-dessus de la base américaine de Lakenheath
-
-L'US Air Force est intervenue pour une « suspicion d'activité de drone non autorisée » au-dessus de RAF Lakenheath, principale base de chasseurs américains en Angleterre, sans dommage pour le personnel, les avions ou les infrastructures. Des alertes ont aussi été signalées à Mildenhall et Feltwell, alors que le niveau de sécurité des bases américaines au Royaume-Uni avait été relevé le 9 novembre sur fond de menaces iraniennes.
-
-[Source : twz.com](https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/13/l-armee-americaine-intervient-pour-une-suspicion-d-activite-de-drone-non-autorisee-au-dessus-d-une-base-militaire-britannique_6809392_3210.html)
+[Source : opex360.com](https://www.opex360.com/2026/11/13/des-drones-vector-de-larmee-allemande-ont-brievement-ete-cloues-au-sol-par-une-attaque-informatique/)
 { .source-link }
 
 ## Veilles précédentes
 
+- [Samedi 14 novembre 2026](2026/11/2026-11-14.md) — 10 actus
 - [Vendredi 13 novembre 2026](2026/11/2026-11-13.md) — 10 actus
 - [Jeudi 12 novembre 2026](2026/11/2026-11-12.md) — 10 actus
 
