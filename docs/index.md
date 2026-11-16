@@ -5,68 +5,83 @@ hide:
   - toc
 ---
 
-## Dimanche 15 novembre 2026
+## Lundi 16 novembre 2026
 
 
 
-### Ukraine : Moscou durcit ses exigences, Washington évoque l'OTAN contre le Donbass
+### Ukraine : Zelensky prépare une réunion de la coalition des volontaires
 
-Selon Bild et le New York Times, la Russie a présenté lors des discussions d'Abou Dhabi un document daté du 10 novembre qui dépasse le seul cas ukrainien : cession des parties du Donbass encore tenues par Kiev (en plus des 18 % du territoire déjà occupés), exclusion de l'OTAN, démilitarisation d'Odessa et de Mykolaïv, et retour de l'Alliance à ses frontières de 1997. Volodymyr Zelensky a de son côté indiqué que les émissaires américains avaient évoqué une adhésion de l'Ukraine à l'OTAN en échange du Donbass, une hypothèse que Kiev ne prend pas au sérieux. Le chef de la délégation russe, Vladimir Medinski, a exclu tout échange territorial et annoncé l'extension de la « zone de sécurité » russe vers Soumy et Kharkiv.
+Volodymyr Zelensky a annoncé la préparation d'une réunion de la « coalition des volontaires », qui « pourrait s'avérer historique », afin de définir la position européenne en vue de futurs pourparlers avec Moscou. L'annonce intervient alors que les émissaires américains multiplient les contacts avec le Kremlin et qu'une rencontre Trump-Poutine-Xi est annoncée en Chine. En France, Marine Le Pen assume de vouloir mettre fin aux aides françaises à l'Ukraine, à l'opposé de la ligne d'Emmanuel Macron, qui a critiqué ceux qui veulent imposer une « paix injuste ».
 
-[Source : legrandcontinent.eu](https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/15/ukraine-volodymyr-zelensky-evoque-l-hypothese-americaine-d-une-adhesion-de-son-pays-a-l-otan-contre-la-cession-du-donbass_6810710_3210.html)
+[Source : lemonde.fr](https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html) · [Source 2 : lemonde.fr](https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html)
 { .source-link }
 
-### Libye : l'Égypte prend ses distances avec le clan Haftar
+### L'Estonie fermera sa frontière avec la Russie le 1er décembre
 
-Selon plusieurs médias, Le Caire aurait retiré ses experts militaires de Benghazi, signe d'une rupture avec l'Est libyen, son allié de longue date, alors que l'Égypte a rouvert son ambassade à Tripoli après douze ans de fermeture. Le point de rupture : la ratification en octobre par la Chambre des représentants (pro-Haftar) du mémorandum turco-libyen de 2019 sur les zones maritimes en Méditerranée, que l'Égypte juge contraire au droit international et menaçant pour sa souveraineté. S'y ajoutent la rivalité sur les corridors logistiques vers l'Afrique et le soutien de l'Est libyen aux paramilitaires soudanais des FSR.
+Tallinn fermera tous les points de passage avec la Russie à partir du 1er décembre, après avoir déjoué de justesse une tentative d'incendie d'une usine de drones attribuée au renseignement militaire russe (GRU). Pour le ministre des Affaires étrangères Margus Tsahkna, la mesure doit réduire la capacité russe à mener des actions hostiles en Estonie et limiter le contournement des sanctions. C'est une nouvelle étape dans la « guerre hybride » que les pays baltes reprochent à Moscou.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261114-l-%C3%A9gypte-retire-ses-experts-aupr%C3%A8s-de-saddam-haftar-dans-l-est-libyen-sur-fond-de-tensions)
+[Source : franceinfo.fr](https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html) · [Source 2 : tf1info.fr](https://www.tf1info.fr/international/l-estonie-ferme-sa-frontiere-avec-la-russie-apres-une-tentative-de-sabotage-2475983.html)
 { .source-link }
 
-### Nigeria : la commission électorale contestée à deux mois du scrutin
+### Yémen : les houthistes à 60 km d'Aden, Bab el-Mandeb dégarni
 
-À deux mois des élections générales du 16 janvier dans le pays le plus peuplé d'Afrique, la Commission électorale (Inec) doit défendre son impartialité dans un climat de violences politiques. Elle a retiré 1,6 million de noms des listes électorales pour irrégularités, et l'invalidation judiciaire de la direction de l'ADC, principal parti d'opposition, menace la candidature d'Atiku Abubakar. Les ratés de 2023 dans la transmission électronique des résultats pèsent encore sur la confiance des électeurs.
+Après une avancée dans le gouvernorat de Lahj, les houthistes pro-iraniens se trouvent à environ 60 km d'Aden, capitale provisoire du gouvernement reconnu, selon des sources militaires citées par l'AFP. Pour protéger la ville, l'armée gouvernementale retire des troupes des abords du détroit de Bab el-Mandeb. Ce repli devrait permettre aux houthistes de consolider leur contrôle de ce passage stratégique qui relie l'océan Indien à la mer Rouge et au canal de Suez.
 
-[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261115-nigeria-%C3%A0-deux-mois-des-%C3%A9lections-g%C3%A9n%C3%A9rales-la-commission-%C3%A9lectorale-sous-un-feu-roulant-de-critiques)
+[Source : france24.com](https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville) · [Source 2 : lemonde.fr](https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html)
 { .source-link }
 
-### Baltique : une corvette russe endommagée par des drones ukrainiens
+### Algérie-Maroc : nouvelle querelle autour d'un cours d'eau pollué
 
-Le SBU ukrainien revendique une frappe le 11 novembre contre la corvette Naro-Fominsk (classe Bouïan-M, 850 tonnes, armée de missiles Kalibr et Oniks) dans le golfe de Finlande, lors d'une attaque de drones contre le port pétrolier d'Oust-Louga. Selon l'état-major estonien, le navire a subi de « multiples impacts » ayant fait des morts et des blessés, avant de rejoindre Saint-Pétersbourg escorté ; un hélicoptère russe aurait été abattu par des tirs amis. Des drones ont brièvement survolé l'Estonie sans être abattus, Tallinn invoquant le risque d'escalade.
+Alger accuse le Maroc de polluer délibérément l'oued Mouilah, un cours d'eau transfrontalier qui alimente le barrage de Hammam Boughrara, près de Tlemcen. Des analyses y ont relevé des nitrates, de l'ammoniac et des métaux lourds ; la ministre algérienne de l'Environnement a porté l'affaire à la tribune de la COP31. Rabat temporise, mais l'épisode s'ajoute à la longue brouille entre les deux voisins, dont la frontière est fermée depuis 1994.
 
-[Source : opex360.com](https://www.opex360.com/2026/11/14/baltique-visee-par-des-drones-ukrainiens-la-corvette-russe-naro-forminsk-aurait-subi-dimportants-degats/)
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261116-l-alg%C3%A9rie-accuse-le-maroc-d-%C3%AAtre-%C3%A0-l-origine-de-la-pollution-d-un-de-ses-cours-d-eau)
 { .source-link }
 
-### Euronaval : Naval Group dévoile le concept SCX 26, combattant porte-drones
+### Soudan : la guerre provoque une grave pénurie de pain
 
-Naval Group a présenté le « Surface Combatant Xperimental » SCX 26, un concept (et non un projet prêt à construire) de grand combattant multirôle de 170 m, 24 m de large et 8 000 tonnes, avec 150 marins et 100 spécialistes de mission embarqués. À la différence du modèle britannique de « Hybrid Navy » fondé sur des navires légèrement armés, il associe un armement lourd (missiles, lanceurs verticaux rechargeables en mer, armes à énergie) et la capacité de mettre en œuvre de nombreux drones de surface et sous-marins. Sa taille le rapproche des FREMM plutôt que d'un successeur des frégates de défense aérienne Horizon.
+À Khartoum, le prix du pain est passé de 200 à 500 livres soudanaises en trois mois et de nombreuses boulangeries ont fermé. En cause : des récoltes de sorgho (aliment de base de 70 % de la population) et de blé quasi nulles, des importations coûteuses faute de devises, et la hausse de l'électricité et du carburant. Beaucoup de familles ne mangent plus qu'une fois par jour, une situation pire hors de la capitale.
 
-[Source : navalnews.com](https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub/)
+[Source : rfi.fr](https://www.rfi.fr/fr/monde/20261116-sur-fond-de-guerre-et-de-troubles-%C3%A9conomiques-le-soudan-fait-face-%C3%A0-une-grave-p%C3%A9nurie-de-pain)
 { .source-link }
 
-### États-Unis : le premier SNLE de classe Columbia de nouveau dans les temps
+### Narcotrafic : la Marine intercepte pour la première fois un semi-submersible
 
-L'US Navy estime que l'USS District of Columbia, premier des nouveaux sous-marins nucléaires lanceurs d'engins, peut être livré en 2028 comme prévu, alors qu'au printemps 2026 le rythme des travaux laissait craindre une livraison au-delà de 2030. Le rythme hebdomadaire de construction chez General Dynamics Electric Boat a été multiplié par près de 2,5 grâce au travail en 3x8, aux hausses de salaires et à une meilleure coordination avec les fournisseurs. Le programme est crucial pour remplacer les SNLE vieillissants de classe Ohio, pilier de la dissuasion américaine.
+Le 12 novembre, une frégate de la Marine nationale a intercepté dans l'Atlantique un semi-submersible sans pavillon chargé de plusieurs tonnes de cocaïne, grâce à son hélicoptère embarqué et à l'appui d'un avion de patrouille maritime américain. L'équipage a sabordé l'engin, qui a coulé en moins de trois minutes ; quatre suspects ont été arrêtés et 146 kg de cocaïne repêchés. C'est une première pour la Marine face à ces embarcations conçues pour naviguer au ras de l'eau.
 
-[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/)
+[Source : la1ere.franceinfo.fr](https://la1ere.franceinfo.fr/guadeloupe/un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-intercepte-dans-l-atlantique-1758081.html) · [Source 2 : lemonde.fr](https://www.lemonde.fr/societe/article/2026/11/15/la-marine-nationale-intercepte-un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-dans-l-atlantique-quatre-suspects-interpelles_6811045_3224.html)
 { .source-link }
 
-### Le Japon fournit drones et radar côtier aux Philippines
+### US Navy : le SNA USS South Dakota aurait frôlé l'échouement
 
-Tokyo va transférer à Manille des drones et un système radar de surveillance côtière, pour un montant pouvant atteindre 27 millions de dollars, dans le cadre de son programme d'assistance à la sécurité (OSA). Le radar sera opéré par la marine philippine, dont la connaissance du domaine maritime est cruciale face aux pressions chinoises en mer de Chine méridionale ; l'armée de l'air recevra des drones. Ce paquet illustre le rapprochement militaire nippo-philippin.
+L'US Navy a relevé discrètement le 14 octobre le commandant, le commandant en second et le « bidel » du sous-marin nucléaire d'attaque USS South Dakota (classe Virginia). Selon The Maritime Executive et USNI News, le bâtiment aurait évité de justesse un échouement, voire touché légèrement le fond par l'arrière. Deux élus du Congrès dénoncent l'absence d'information et s'interrogent sur l'état de la coque. L'incident rappelle celui de l'USS Connecticut, endommagé en 2021 en mer de Chine méridionale et toujours indisponible.
 
-[Source : news.usni.org](https://news.usni.org/2026/11/13/japan-pledges-drones-coastal-defense-radar-in-latest-philippine-defense-package)
+[Source : opex360.com](https://www.opex360.com/2026/11/15/le-sous-marin-nucleaire-dattaque-americain-uss-south-dakota-aurait-failli-sechouer/)
 { .source-link }
 
-### Allemagne : des drones militaires cloués au sol après une cyberattaque
+### Malaisie : le missile turc ATMACA remplacera le NSM sur les LCS
 
-Fin octobre, la Bundeswehr a dû immobiliser ses mini-drones de reconnaissance Vector après une cyberattaque visant leur fabricant Quantum Systems, qui l'a reconnue le 12 novembre en assurant que la menace était neutralisée. L'industriel, qui produit aussi en Ukraine depuis 2024, souligne que les entreprises soutenant Kiev sont particulièrement ciblées. L'épisode montre la vulnérabilité de la chaîne industrielle de défense aux attaques informatiques.
+Kuala Lumpur a désigné le missile antinavire ATMACA de Roketsan pour équiper ses Littoral Combat Ships, à la place du NSM norvégien, en le jugeant supérieur aux offres française et italienne en coût et en délais. La Malaisie a déjà commandé 24 ATMACA pour ses navires de mission littorale. Selon Naval News, son intégration au système de combat SETIS de Naval Group reste à négocier et pourrait exiger une console séparée. C'est un nouveau succès pour l'industrie navale turque en Asie du Sud-Est.
 
-[Source : opex360.com](https://www.opex360.com/2026/11/13/des-drones-vector-de-larmee-allemande-ont-brievement-ete-cloues-au-sol-par-une-attaque-informatique/)
+[Source : navalnews.com](https://www.navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships/)
+{ .source-link }
+
+### Voitures chinoises et sites militaires : le ministère des Armées mobilisé
+
+Le ministère des Armées dit être « mobilisé » face aux risques posés par les voitures chinoises connectées (caméras, LiDAR, GPS, micros) dans les enceintes militaires. En Norvège, des véhicules loués auprès d'une filiale de Geely pour un exercice ont enregistré trajets, entrées de sites militaires et codes d'accès. Les marques chinoises représentaient 11,7 % des immatriculations de voitures neuves en Europe en août, en hausse de 111 % sur un an.
+
+[Source : opex360.com](https://www.opex360.com/2026/11/15/le-ministere-des-armees-est-mobilise-sur-les-menaces-liees-a-la-presence-de-voitures-chinoises-dans-les-enceintes-militaires/)
+{ .source-link }
+
+### Océan Indien : MSC et Maersk vont entrer au capital du port de Port-Louis
+
+Maurice va céder 40 % de la Cargo Handling Corporation, la société d'État qui gère la manutention des conteneurs à Port-Louis, aux armateurs MSC et Maersk, avec un transfert prévu d'ici fin février 2027. Le port, classé 369e sur 405 par la Banque mondiale, derrière Tamatave, Mayotte, La Réunion et Mombasa, veut redevenir une plateforme de référence dans l'océan Indien. Les deux géants du transport maritime en deviendront les gestionnaires.
+
+[Source : rfi.fr](https://www.rfi.fr/fr/afrique/20261115-maurice-le-port-de-port-louis-c%C3%A8de-40-de-son-capital-%C3%A0-deux-grands-armateurs-mondiaux)
 { .source-link }
 
 ## Veilles précédentes
 
+- [Dimanche 15 novembre 2026](2026/11/2026-11-15.md) — 8 actus
 - [Samedi 14 novembre 2026](2026/11/2026-11-14.md) — 10 actus
 - [Vendredi 13 novembre 2026](2026/11/2026-11-13.md) — 10 actus
 - [Jeudi 12 novembre 2026](2026/11/2026-11-12.md) — 10 actus
