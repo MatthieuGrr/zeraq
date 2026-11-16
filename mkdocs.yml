@@ -7,6 +7,9 @@ copyright: Veille quotidienne · chaque actu renvoie à ses sources originales
 
 theme:
   name: material
+  custom_dir: overrides
+  # Polices système : aucun appel à Google Fonts.
+  font: false
   language: fr
   icon:
     logo: material/anchor
@@ -15,15 +18,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Passer en mode sombre
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Passer en mode clair
@@ -41,7 +44,6 @@ theme:
 plugins:
   - search:
       lang: fr
-  - tags
 
 markdown_extensions:
   - attr_list
@@ -54,22 +56,36 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
-  - assets/zeraq.css
+  - assets/veille.css
+  - assets/theme.css
+extra:
+  # Clé du stockage local des favoris (assets/favoris.js).
+  site_key: zeraq
+  generator: false
+  social:
+    - icon: material/rss
+      link: /feed.xml
+      name: Flux RSS (Atom)
+    - icon: fontawesome/brands/github
+      link: https://github.com/MatthieuGrr/zeraq
+      name: Code source
+
 extra_javascript:
   - assets/favoris.js
   - assets/goatcounter.js
 
 # Les pages de jour ne figurent pas dans la nav : on y accède par l'accueil,
-# les archives, les tags et les liens précédente/suivante en bas de chaque veille.
+# les archives, les thèmes et les liens précédente/suivante en bas de chaque veille.
 not_in_nav: |
   /20*/**
+  /themes/**
 
 # La navigation ci-dessous est régénérée par scripts/publish.py : ne pas l'éditer à la main.
 # BEGIN NAV
 nav:
   - Accueil: index.md
   - Archives: archives.md
-  - Tags: tags.md
+  - Thèmes: tags.md
   - Sources: sources.md
   - Favoris: favoris.md
 # END NAV

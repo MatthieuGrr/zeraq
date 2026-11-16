@@ -1,9 +1,10 @@
-/* Zeraq — favoris locaux (localStorage), compatibles navigation instantanée. */
+/* Favoris locaux (localStorage), compatibles navigation instantanée. */
 (function () {
   "use strict";
 
-  var STORE_KEY = "zeraq:favoris";
-  var VEILLE_PATH = /\/\d{4}\/\d{2}\/\d{4}-\d{2}-\d{2}\/?(index\.html)?$/;
+  // Nom du site (mkdocs.yml : extra.site_key), d'où la clé de stockage des favoris.
+  var meta = document.querySelector('meta[name="veille:site"]');
+  var STORE_KEY = ((meta && meta.content) || location.hostname.split(".")[0]) + ":favoris";
 
   function load() {
     try {
@@ -20,10 +21,6 @@
     } catch (e) {
       /* stockage indisponible (navigation privée stricte) : on ignore */
     }
-  }
-
-  function pagePath() {
-    return location.pathname.replace(/index\.html$/, "");
   }
 
   function headingTitle(h2) {
@@ -47,12 +44,23 @@
     btn.setAttribute("aria-label", btn.title);
   }
 
-  function decorateVeille() {
-    if (!VEILLE_PATH.test(location.pathname)) return;
+  // Clé d'une actu : chemin de sa page de jour + ancre. Sur l'accueil, le titre porte
+  // data-fav="AAAA/MM/AAAA-MM-JJ/#ancre" pour pointer vers la page de jour.
+  function favTarget(heading) {
+    var u = new URL(heading.dataset.fav || "#" + heading.id, location.href);
+    return u.pathname.replace(/index\.html$/, "") + u.hash;
+  }
+
+  function sectionTitle(heading) {
+    var day = document.querySelector(".md-content h2.jour");
+    return heading.dataset.fav && day ? "Veille du " + headingTitle(day).toLowerCase() : pageTitle();
+  }
+
+  function decorateActus() {
     var favs = load();
-    document.querySelectorAll(".md-content article h2[id]").forEach(function (h2) {
-      if (h2.querySelector(".fav-star")) return;
-      var key = pagePath() + "#" + h2.id;
+    document.querySelectorAll(".md-content .actu > :is(h2, h3)[id]").forEach(function (h) {
+      if (h.querySelector(".fav-star")) return;
+      var key = favTarget(h);
       var btn = document.createElement("button");
       btn.type = "button";
       btn.className = "fav-star";
@@ -66,8 +74,8 @@
           setStar(btn, false);
         } else {
           data[key] = {
-            titre: headingTitle(h2),
-            page: pageTitle(),
+            titre: headingTitle(h),
+            page: sectionTitle(h),
             url: key,
             ajoute: new Date().toISOString()
           };
@@ -75,7 +83,8 @@
         }
         save(data);
       });
-      h2.appendChild(btn);
+      // avant le lien d'ancre (¶), pour rester collé au titre
+      h.insertBefore(btn, h.querySelector(".headerlink"));
     });
   }
 
@@ -107,10 +116,10 @@
       a.textContent = item.titre;
       var meta = document.createElement("span");
       meta.className = "fav-meta";
-      meta.textContent = " — " + item.page;
+      meta.textContent = (item.page || "").replace(/^Veille du /, "");
       var rm = document.createElement("button");
       rm.type = "button";
-      rm.className = "md-button fav-remove";
+      rm.className = "fav-remove";
       rm.textContent = "Retirer";
       rm.addEventListener("click", function () {
         var d = load();
@@ -127,7 +136,7 @@
   }
 
   function init() {
-    decorateVeille();
+    decorateActus();
     renderFavoris();
   }
 
