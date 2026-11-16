@@ -1,0 +1,40 @@
+/* Zeraq — quart de nuit, bleu marine et laiton. Mise en page : veille.css. */
+
+:root {
+  --v-font-titre: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua",
+    "Noto Serif", Georgia, serif;
+  --md-primary-fg-color: #12263a;
+  --md-primary-fg-color--light: #23425f;
+  --md-primary-fg-color--dark: #050b14;
+  --md-primary-bg-color: #fff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+  --v-entete: linear-gradient(90deg, #050b14 0%, #12263a 100%);
+  --v-hero:
+    radial-gradient(1.5px 1.5px at 14% 20%, #fff 50%, transparent 51%),
+    radial-gradient(1px 1px at 37% 12%, rgba(255, 255, 255, 0.8) 50%, transparent 51%),
+    radial-gradient(1px 1px at 62% 30%, rgba(255, 255, 255, 0.7) 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 81% 16%, rgba(255, 255, 255, 0.9) 50%, transparent 51%),
+    radial-gradient(90% 60% at 50% 115%, #1d4a6b 0%, transparent 70%),
+    linear-gradient(180deg, #050b14 0%, #12263a 100%);
+}
+
+[data-md-color-scheme="default"] {
+  --md-accent-fg-color: #0f5c8a;
+  --md-typeset-a-color: #0f5c8a;
+  --v-accent: #0f5c8a;
+  --v-accent-fond: #e4eff6;
+  --v-accent-contraste: #fff;
+  --md-code-bg-color: #f4f6f8;
+}
+
+[data-md-color-scheme="slate"] {
+  --v-trait: rgba(255, 255, 255, 0.14);
+  --md-default-bg-color: #0a1420;
+  --md-default-bg-color--light: #0f1c2b;
+  --md-code-bg-color: #101e2e;
+  --md-accent-fg-color: #f5b301;
+  --md-typeset-a-color: #8ec5e8;
+  --v-accent: #8ec5e8;
+  --v-accent-fond: #16324a;
+  --v-accent-contraste: #0a1420;
+}

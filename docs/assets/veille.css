@@ -1,0 +1,519 @@
+/* Mise en page commune aux sites de veille. Les couleurs et polices propres à un site
+   sont dans theme.css (variables --v-*). */
+
+:root {
+  --v-font-texte: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, sans-serif;
+  --v-font-titre: var(--v-font-texte);
+  --v-font-meta: ui-monospace, "SF Mono", "Cascadia Mono", "Roboto Mono", Menlo, Consolas,
+    monospace;
+  --v-star: #f5b301;
+  --v-trait: var(--md-default-fg-color--lightest);
+  --v-carte: var(--md-code-bg-color);
+  --md-text-font-family: var(--v-font-texte);
+  --md-code-font-family: var(--v-font-meta);
+}
+
+body,
+input {
+  font-family: var(--v-font-texte);
+}
+
+/* ---------------------------------------------------------------- en-tête */
+
+.md-header,
+.md-tabs {
+  background: var(--v-entete);
+  color: #fff;
+}
+
+.md-header__title {
+  font-family: var(--v-font-titre);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.md-tabs__link {
+  font-family: var(--v-font-meta);
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ------------------------------------------------------------ typographie */
+
+.md-content__inner {
+  max-width: 38rem;
+  margin-inline: auto;
+}
+
+.md-typeset {
+  font-size: 0.85rem;
+  line-height: 1.65;
+}
+
+.md-typeset h1 {
+  margin-bottom: 0.4em;
+  font-family: var(--v-font-titre);
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset h2 {
+  margin: 0 0 0.5em;
+  font-family: var(--v-font-titre);
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.005em;
+}
+
+.md-typeset h3 {
+  margin: 0 0 0.5em;
+  font-family: var(--v-font-titre);
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.md-typeset .headerlink {
+  font-family: var(--v-font-texte);
+  font-weight: 400;
+}
+
+/* Ligne de méta : « 7 actus · 3 min de lecture » */
+.md-typeset .veille-meta,
+.md-typeset .carte-meta {
+  font-family: var(--v-font-meta);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .veille-meta {
+  margin: 0 0 0.6em;
+}
+
+.md-typeset .veille-meta strong {
+  color: var(--v-accent);
+}
+
+.md-typeset .carte-meta {
+  white-space: nowrap;
+}
+
+/* ----------------------------------------------------------------- thèmes */
+
+.md-typeset .veille-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35em;
+  margin: 0 0 1.6em;
+}
+
+.md-typeset a.tag {
+  display: inline-block;
+  padding: 0.1em 0.65em;
+  border: 1px solid var(--v-trait);
+  border-radius: 999px;
+  font-family: var(--v-font-meta);
+  font-size: 0.66rem;
+  line-height: 1.7;
+  white-space: nowrap;
+  color: var(--md-default-fg-color--light);
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.md-typeset a.tag:hover,
+.md-typeset a.tag:focus-visible {
+  border-color: var(--v-accent);
+  color: var(--v-accent);
+}
+
+.md-typeset a.tag small {
+  margin-left: 0.3em;
+  opacity: 0.7;
+}
+
+/* ------------------------------------------------------------------ actus */
+
+.md-typeset .actu {
+  padding: 1.5em 0 1.1em;
+  border-top: 1px solid var(--v-trait);
+}
+
+.md-typeset .actu > :first-child {
+  margin-top: 0;
+}
+
+.md-typeset .actu p {
+  margin: 0 0 0.8em;
+}
+
+.md-typeset .actu-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4em;
+  margin: 1em 0 0 !important;
+}
+
+/* Liens vers les sources */
+.md-typeset a.src {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.15em 0.7em;
+  border-radius: 999px;
+  background: var(--v-accent-fond);
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.7;
+  color: var(--v-accent);
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.md-typeset a.src::after {
+  content: "↗";
+  font-size: 0.9em;
+  opacity: 0.7;
+}
+
+.md-typeset a.src:hover,
+.md-typeset a.src:focus-visible {
+  background: var(--v-accent);
+  color: var(--v-accent-contraste);
+}
+
+/* Les thèmes se rangent à droite des sources */
+.md-typeset .actu-foot a.src + a.tag {
+  margin-left: auto;
+}
+
+/* « Concept du jour » : encadré */
+.md-typeset .actu--concept {
+  margin: 1.2em 0 0.4em;
+  padding: 1.2em 1.3em 1em;
+  border: 1px solid var(--v-trait);
+  border-left: 3px solid var(--v-star);
+  border-radius: 0.4rem;
+  background: var(--v-carte);
+}
+
+/* Bouton favori à côté des titres d'actu */
+.md-typeset .fav-star {
+  margin-left: 0.35em;
+  padding: 0 0.15em;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 0.8em;
+  line-height: 1;
+  color: var(--md-default-fg-color--light);
+  opacity: 0.45;
+  vertical-align: 0.05em;
+  transition: opacity 0.15s, transform 0.15s;
+}
+
+.md-typeset .fav-star:hover,
+.md-typeset .fav-star:focus-visible {
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+.md-typeset .fav-star--on {
+  color: var(--v-star);
+  opacity: 1;
+}
+
+/* ---------------------------------------------------------------- accueil */
+
+.md-typeset .hero {
+  position: relative;
+  margin: 0 0 2.2em;
+  padding: 2em 1.6em 1.7em;
+  border-radius: 0.6rem;
+  background: var(--v-hero);
+  color: #fff;
+  overflow: hidden;
+}
+
+.md-typeset .hero h1 {
+  margin: 0 0 0.3em;
+  font-size: 2.4rem;
+  color: #fff;
+}
+
+.md-typeset .hero h1 .headerlink {
+  display: none;
+}
+
+.md-typeset .hero-baseline {
+  max-width: 30rem;
+  margin: 0 0 1.3em;
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.md-typeset .hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0;
+}
+
+.md-typeset .hero .md-button {
+  padding: 0.4em 1.1em;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  color: #fff;
+}
+
+.md-typeset .hero .md-button:hover,
+.md-typeset .hero .md-button:focus-visible {
+  border-color: #fff;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
+
+.md-typeset .hero .md-button--primary {
+  border-color: var(--v-star);
+  background: var(--v-star);
+  color: #14161f;
+}
+
+.md-typeset .hero .md-button--primary:hover,
+.md-typeset .hero .md-button--primary:focus-visible {
+  border-color: #ffd04d;
+  background: #ffd04d;
+  color: #14161f;
+}
+
+.md-typeset h2.jour {
+  margin-bottom: 0.2em;
+  font-size: 1.6rem;
+}
+
+.md-typeset h2.jour a {
+  color: inherit;
+}
+
+.md-typeset h2.jour a:hover {
+  color: var(--v-accent);
+}
+
+.md-typeset h2.jour + .veille-meta {
+  margin-bottom: 1.4em;
+}
+
+/* Cartes des veilles précédentes */
+.md-typeset .cartes {
+  margin-top: 1em;
+}
+
+.md-typeset .cartes > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 0.7em;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.md-typeset .cartes > ul > li {
+  margin: 0;
+  padding: 0.9em 1em 0.8em;
+  border: 1px solid var(--v-trait);
+  border-radius: 0.4rem;
+  background: var(--v-carte);
+}
+
+.md-typeset .cartes > ul > li > p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.2em 0.6em;
+  margin: 0 0 0.5em;
+}
+
+.md-typeset .cartes ul ul {
+  margin: 0;
+  padding-left: 1em;
+  font-size: 0.74rem;
+  line-height: 1.45;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .cartes ul ul li {
+  margin: 0 0 0.3em;
+}
+
+.md-typeset .lien-suite {
+  margin-top: 1em;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.md-typeset .a-propos {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid var(--v-trait);
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Titre de section hors actus (accueil, archives, thèmes) */
+.md-typeset :is(.cartes, .archives, ul, .lien-suite) + h2,
+.md-typeset .actu + h2 {
+  margin-top: 2.2em;
+}
+
+/* --------------------------------------------------------------- archives */
+
+.md-typeset .archives p {
+  margin: 0;
+  padding: 0.8em 0;
+  border-top: 1px solid var(--v-trait);
+  font-size: 0.76rem;
+  line-height: 1.5;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .archives p > a:first-child {
+  font-size: 0.85rem;
+}
+
+/* ---------------------------------------------- listes d'actus par thème */
+
+.md-typeset li > .carte-meta {
+  margin-left: 0.3em;
+}
+
+/* ---------------------------------------------------------------- favoris */
+
+.md-typeset .fav-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.md-typeset .fav-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2em 0.6em;
+  margin: 0;
+  padding: 0.7em 0;
+  border-top: 1px solid var(--v-trait);
+}
+
+.md-typeset .fav-meta {
+  font-family: var(--v-font-meta);
+  font-size: 0.66rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .fav-remove {
+  margin-left: auto;
+  padding: 0.1em 0.7em;
+  border: 1px solid var(--v-trait);
+  border-radius: 999px;
+  background: none;
+  cursor: pointer;
+  font-size: 0.68rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .fav-remove:hover,
+.md-typeset .fav-remove:focus-visible {
+  border-color: var(--v-accent);
+  color: var(--v-accent);
+}
+
+.md-typeset .fav-empty {
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+}
+
+/* --------------------------------- liens veille précédente / suivante */
+
+.md-typeset .veille-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.6em;
+  margin-top: 1.5em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--v-trait);
+}
+
+.md-typeset .veille-nav p {
+  margin: 0;
+}
+
+.md-typeset .veille-nav p:has(.veille-next) {
+  margin-left: auto;
+}
+
+.md-typeset .veille-nav a {
+  display: inline-block;
+  padding: 0.45em 1em;
+  border: 1px solid var(--v-trait);
+  border-radius: 999px;
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color);
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.md-typeset .veille-nav a:hover,
+.md-typeset .veille-nav a:focus-visible {
+  border-color: var(--v-accent);
+  color: var(--v-accent);
+}
+
+/* ----------------------------------------------------------------- mobile */
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset h1 {
+    font-size: 1.55rem;
+  }
+
+  .md-typeset .hero {
+    margin-inline: -0.2rem;
+    padding: 1.5em 1.1em 1.3em;
+  }
+
+  .md-typeset .hero h1 {
+    font-size: 1.9rem;
+  }
+
+  .md-typeset .actu-foot a.src + a.tag {
+    margin-left: 0;
+  }
+}
+
+@media print {
+  .md-typeset .fav-star,
+  .md-typeset .veille-nav,
+  .md-typeset .hero-actions {
+    display: none;
+  }
+}
+
+/* Ajustements d'espacement */
+.md-typeset .veille-meta + h2 {
+  margin-top: 1.8em;
+}
+
+.md-typeset .archives .carte-meta {
+  margin-left: 0.4em;
+}
