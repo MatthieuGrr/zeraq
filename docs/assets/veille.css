@@ -552,3 +552,21 @@ input {
 .md-typeset .archives .carte-meta {
   margin-left: 0.4em;
 }
+
+/* Titres de section hors actus (Favoris, Sources…) : de l'air au-dessus */
+.md-typeset :is(p, ul, ol, div) + h2 {
+  margin-top: 1.8em;
+}
+
+.md-typeset h1 + h2 {
+  margin-top: 1em;
+}
+
+.md-typeset .fav-list li {
+  margin-inline: 0 !important;
+}
+
+/* L'étoile suit le dernier mot du titre (espace insécable posée par favoris.js) */
+.md-typeset .fav-star {
+  margin-left: 0;
+}

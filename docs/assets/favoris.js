@@ -28,7 +28,7 @@
     clone.querySelectorAll(".headerlink, .fav-star").forEach(function (n) {
       n.remove();
     });
-    return clone.textContent.trim();
+    return clone.textContent.replace(/\u00A0+$/, "").trim();
   }
 
   function pageTitle() {
@@ -84,7 +84,10 @@
         save(data);
       });
       // avant le lien d'ancre (¶), pour rester collé au titre
-      h.insertBefore(btn, h.querySelector(".headerlink"));
+      var link = h.querySelector(".headerlink");
+      // espace insécable : l'étoile ne passe jamais seule à la ligne
+      h.insertBefore(document.createTextNode("\u00A0"), link);
+      h.insertBefore(btn, link);
     });
   }
 
