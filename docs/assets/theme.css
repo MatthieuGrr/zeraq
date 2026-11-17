@@ -28,7 +28,6 @@
 }
 
 [data-md-color-scheme="slate"] {
-  --v-trait: rgba(255, 255, 255, 0.14);
   --md-default-bg-color: #0a1420;
   --md-default-bg-color--light: #0f1c2b;
   --md-code-bg-color: #101e2e;
