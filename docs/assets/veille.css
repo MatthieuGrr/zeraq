@@ -8,10 +8,19 @@
   --v-font-meta: ui-monospace, "SF Mono", "Cascadia Mono", "Roboto Mono", Menlo, Consolas,
     monospace;
   --v-star: #f5b301;
-  --v-trait: var(--md-default-fg-color--lightest);
-  --v-carte: var(--md-code-bg-color);
   --md-text-font-family: var(--v-font-texte);
   --md-code-font-family: var(--v-font-meta);
+}
+
+/* Déclarées sur l'élément qui porte le thème clair/sombre (body), pas sur :root :
+   sinon elles gardent les couleurs du thème clair en mode sombre. */
+[data-md-color-scheme] {
+  --v-trait: var(--md-default-fg-color--lightest);
+  --v-carte: var(--md-code-bg-color);
+}
+
+[data-md-color-scheme="slate"] {
+  --v-trait: rgba(255, 255, 255, 0.14);
 }
 
 body,
@@ -42,9 +51,12 @@ input {
 
 /* ------------------------------------------------------------ typographie */
 
-.md-content__inner {
-  max-width: 38rem;
-  margin-inline: auto;
+/* Colonne de lecture centrée sur grand écran ; sur mobile, Material garde ses marges. */
+@media screen and (min-width: 45em) {
+  .md-content__inner {
+    max-width: 38rem;
+    margin-inline: auto;
+  }
 }
 
 .md-typeset {
@@ -487,9 +499,32 @@ input {
     font-size: 1.55rem;
   }
 
+  .md-typeset {
+    font-size: 0.8rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.15rem;
+  }
+
+  .md-typeset h3 {
+    font-size: 1.05rem;
+  }
+
+  .md-typeset h2.jour {
+    font-size: 1.3rem;
+  }
+
   .md-typeset .hero {
-    margin-inline: -0.2rem;
-    padding: 1.5em 1.1em 1.3em;
+    padding: 1.4em 1.1em 1.2em;
+  }
+
+  .md-typeset .hero-baseline {
+    font-size: 0.8rem;
+  }
+
+  .md-typeset .actu--concept {
+    padding: 1em 1em 0.8em;
   }
 
   .md-typeset .hero h1 {
@@ -516,4 +551,22 @@ input {
 
 .md-typeset .archives .carte-meta {
   margin-left: 0.4em;
+}
+
+/* Titres de section hors actus (Favoris, Sources…) : de l'air au-dessus */
+.md-typeset :is(p, ul, ol, div) + h2 {
+  margin-top: 1.8em;
+}
+
+.md-typeset h1 + h2 {
+  margin-top: 1em;
+}
+
+.md-typeset .fav-list li {
+  margin-inline: 0 !important;
+}
+
+/* L'étoile suit le dernier mot du titre (espace insécable posée par favoris.js) */
+.md-typeset .fav-star {
+  margin-left: 0;
 }
