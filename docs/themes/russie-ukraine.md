@@ -8,12 +8,14 @@ search:
 
 # Russie-Ukraine
 
-12 actus sur ce thème · [tous les thèmes](../tags.md)
+14 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Ukraine : frappes croisées sur les ponts de Kertch et de Kiev](../2026/11/2026-11-17.md#ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev) <span class="carte-meta">17 nov.</span>
+- [Des militaires français opèrent désormais en Ukraine](../2026/11/2026-11-17.md#des-militaires-francais-operent-desormais-en-ukraine) <span class="carte-meta">17 nov.</span>
 - [Ukraine : Zelensky prépare une réunion de la coalition des volontaires](../2026/11/2026-11-16.md#ukraine-zelensky-prepare-une-reunion-de-la-coalition-des-volontaires) <span class="carte-meta">16 nov.</span>
 - [L'Estonie fermera sa frontière avec la Russie le 1er décembre](../2026/11/2026-11-16.md#lestonie-fermera-sa-frontiere-avec-la-russie-le-1er-decembre) <span class="carte-meta">16 nov.</span>
 - [Ukraine : Moscou durcit ses exigences, Washington évoque l'OTAN contre le Donbass](../2026/11/2026-11-15.md#ukraine-moscou-durcit-ses-exigences-washington-evoque-lotan-contre-le-donbass) <span class="carte-meta">15 nov.</span>

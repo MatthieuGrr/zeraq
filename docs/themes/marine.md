@@ -8,12 +8,17 @@ search:
 
 # marine
 
-16 actus sur ce thème · [tous les thèmes](../tags.md)
+21 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb](../2026/11/2026-11-17.md#yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb) <span class="carte-meta">17 nov.</span>
+- [Moyen-Orient : un troisième porte-avions américain sur zone](../2026/11/2026-11-17.md#moyen-orient-un-troisieme-porte-avions-americain-sur-zone) <span class="carte-meta">17 nov.</span>
+- [Aéronautique navale : fin de service pour les Falcon 10 MER](../2026/11/2026-11-17.md#aeronautique-navale-fin-de-service-pour-les-falcon-10-mer) <span class="carte-meta">17 nov.</span>
+- [Dissuasion : patrouille record de 217 jours pour un SNLE britannique](../2026/11/2026-11-17.md#dissuasion-patrouille-record-de-217-jours-pour-un-snle-britannique) <span class="carte-meta">17 nov.</span>
+- [US Navy : 82 drones sous-marins Lionfish supplémentaires](../2026/11/2026-11-17.md#us-navy-82-drones-sous-marins-lionfish-supplementaires) <span class="carte-meta">17 nov.</span>
 - [Narcotrafic : la Marine intercepte pour la première fois un semi-submersible](../2026/11/2026-11-16.md#narcotrafic-la-marine-intercepte-pour-la-premiere-fois-un-semi-submersible) <span class="carte-meta">16 nov.</span>
 - [US Navy : le SNA USS South Dakota aurait frôlé l'échouement](../2026/11/2026-11-16.md#us-navy-le-sna-uss-south-dakota-aurait-frole-lechouement) <span class="carte-meta">16 nov.</span>
 - [Malaisie : le missile turc ATMACA remplacera le NSM sur les LCS](../2026/11/2026-11-16.md#malaisie-le-missile-turc-atmaca-remplacera-le-nsm-sur-les-lcs) <span class="carte-meta">16 nov.</span>

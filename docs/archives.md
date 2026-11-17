@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-5 veilles et 48 actus, de la plus récente à la plus ancienne.
+6 veilles et 58 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Mardi 17 novembre 2026**](2026/11/2026-11-17.md) <span class="carte-meta">10 actus</span>  
+Ukraine : frappes croisées sur les ponts de Kertch et de Kiev · Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb · Iran : Paris attribue une cyberattaque contre des supermarchés… · Francophonie : le sommet échoue à désigner un secrétaire général · Migrations : cinq pays de l'UE choisissent le Rwanda pour un « hub… · Moyen-Orient : un troisième porte-avions américain sur zone · Des militaires français opèrent désormais en Ukraine · Aéronautique navale : fin de service pour les Falcon 10 MER · Dissuasion : patrouille record de 217 jours pour un SNLE britannique · US Navy : 82 drones sous-marins Lionfish supplémentaires
 
 [**Lundi 16 novembre 2026**](2026/11/2026-11-16.md) <span class="carte-meta">10 actus</span>  
 Ukraine : Zelensky prépare une réunion de la coalition des volontaires · L'Estonie fermera sa frontière avec la Russie le 1er décembre · Yémen : les houthistes à 60 km d'Aden, Bab el-Mandeb dégarni · Algérie-Maroc : nouvelle querelle autour d'un cours d'eau pollué · Soudan : la guerre provoque une grave pénurie de pain · Narcotrafic : la Marine intercepte pour la première fois un… · US Navy : le SNA USS South Dakota aurait frôlé l'échouement · Malaisie : le missile turc ATMACA remplacera le NSM sur les LCS · Voitures chinoises et sites militaires : le ministère des Armées… · Océan Indien : MSC et Maersk vont entrer au capital du port de…

@@ -8,12 +8,15 @@ search:
 
 # défense
 
-23 actus sur ce thème · [tous les thèmes](../tags.md)
+26 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Ukraine : frappes croisées sur les ponts de Kertch et de Kiev](../2026/11/2026-11-17.md#ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev) <span class="carte-meta">17 nov.</span>
+- [Des militaires français opèrent désormais en Ukraine](../2026/11/2026-11-17.md#des-militaires-francais-operent-desormais-en-ukraine) <span class="carte-meta">17 nov.</span>
+- [Aéronautique navale : fin de service pour les Falcon 10 MER](../2026/11/2026-11-17.md#aeronautique-navale-fin-de-service-pour-les-falcon-10-mer) <span class="carte-meta">17 nov.</span>
 - [Yémen : les houthistes à 60 km d'Aden, Bab el-Mandeb dégarni](../2026/11/2026-11-16.md#yemen-les-houthistes-a-60-km-daden-bab-el-mandeb-degarni) <span class="carte-meta">16 nov.</span>
 - [Malaisie : le missile turc ATMACA remplacera le NSM sur les LCS](../2026/11/2026-11-16.md#malaisie-le-missile-turc-atmaca-remplacera-le-nsm-sur-les-lcs) <span class="carte-meta">16 nov.</span>
 - [Voitures chinoises et sites militaires : le ministère des Armées mobilisé](../2026/11/2026-11-16.md#voitures-chinoises-et-sites-militaires-le-ministere-des-armees-mobilise) <span class="carte-meta">16 nov.</span>

@@ -8,12 +8,13 @@ search:
 
 # Afrique
 
-9 actus sur ce thème · [tous les thèmes](../tags.md)
+10 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Francophonie : le sommet échoue à désigner un secrétaire général](../2026/11/2026-11-17.md#francophonie-le-sommet-echoue-a-designer-un-secretaire-general) <span class="carte-meta">17 nov.</span>
 - [Algérie-Maroc : nouvelle querelle autour d'un cours d'eau pollué](../2026/11/2026-11-16.md#algerie-maroc-nouvelle-querelle-autour-dun-cours-deau-pollue) <span class="carte-meta">16 nov.</span>
 - [Soudan : la guerre provoque une grave pénurie de pain](../2026/11/2026-11-16.md#soudan-la-guerre-provoque-une-grave-penurie-de-pain) <span class="carte-meta">16 nov.</span>
 - [Libye : l'Égypte prend ses distances avec le clan Haftar](../2026/11/2026-11-15.md#libye-legypte-prend-ses-distances-avec-le-clan-haftar) <span class="carte-meta">15 nov.</span>

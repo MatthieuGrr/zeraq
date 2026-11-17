@@ -15,122 +15,122 @@ search:
 *Zeraq*, le quart de minuit à quatre heures, celui qui demande le plus d'attention : chaque matin, l'essentiel en géopolitique, défense et affaires maritimes, résumé en quelques lignes et toujours sourcé.
 { .hero-baseline }
 
-[Lire la veille du jour](2026/11/2026-11-16.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
+[Lire la veille du jour](2026/11/2026-11-17.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
 { .hero-actions }
 
 </div>
 
-## [Lundi 16 novembre 2026](2026/11/2026-11-16.md) { .jour }
+## [Mardi 17 novembre 2026](2026/11/2026-11-17.md) { .jour }
 
 **10 actus** · 4 min de lecture
 { .veille-meta }
 
 <section class="actu" markdown>
 
-### Ukraine : Zelensky prépare une réunion de la coalition des volontaires { #ukraine-zelensky-prepare-une-reunion-de-la-coalition-des-volontaires data-fav="2026/11/2026-11-16/#ukraine-zelensky-prepare-une-reunion-de-la-coalition-des-volontaires" }
+### Ukraine : frappes croisées sur les ponts de Kertch et de Kiev { #ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev data-fav="2026/11/2026-11-17/#ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev" }
 
-Volodymyr Zelensky a annoncé la préparation d'une réunion de la « coalition des volontaires », qui « pourrait s'avérer historique », afin de définir la position européenne en vue de futurs pourparlers avec Moscou. L'annonce intervient alors que les émissaires américains multiplient les contacts avec le Kremlin et qu'une rencontre Trump-Poutine-Xi est annoncée en Chine. En France, Marine Le Pen assume de vouloir mettre fin aux aides françaises à l'Ukraine, à l'opposé de la ligne d'Emmanuel Macron, qui a critiqué ceux qui veulent imposer une « paix injuste ».
+Le pont de Kertch, qui relie la Russie à la Crimée occupée, a été frappé deux fois en moins de 24 heures, selon les autorités installées par Moscou, qui ont suspendu la circulation dans la nuit du 16 au 17 novembre. Des images satellites montrent des dégâts sur l'arche de la travée routière. Dans la foulée, le maire de Kiev, Vitali Klitschko, a annoncé que des missiles balistiques russes avaient touché deux grands ponts de la capitale sur le Dniepr. L'ouvrage de Kertch est à la fois un symbole du pouvoir de Vladimir Poutine et un axe logistique routier et ferroviaire vital pour les forces russes en Crimée.
 
-[Le Monde](https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html){ .src target="_blank" rel="noopener" } [Le Monde (2)](https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[The War Zone](https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### L'Estonie fermera sa frontière avec la Russie le 1er décembre { #lestonie-fermera-sa-frontiere-avec-la-russie-le-1er-decembre data-fav="2026/11/2026-11-16/#lestonie-fermera-sa-frontiere-avec-la-russie-le-1er-decembre" }
+### Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb { #yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb data-fav="2026/11/2026-11-17/#yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb" }
 
-Tallinn fermera tous les points de passage avec la Russie à partir du 1er décembre, après avoir déjoué de justesse une tentative d'incendie d'une usine de drones attribuée au renseignement militaire russe (GRU). Pour le ministre des Affaires étrangères Margus Tsahkna, la mesure doit réduire la capacité russe à mener des actions hostiles en Estonie et limiter le contournement des sanctions. C'est une nouvelle étape dans la « guerre hybride » que les pays baltes reprochent à Moscou.
+Les autorités yéménites, soutenues par l'Arabie saoudite, ont annoncé le 15 novembre retirer leurs forces de la zone de Bab el-Mandeb pour se concentrer sur la défense d'Aden, la capitale provisoire, dont les Houthis ne sont plus qu'à moins de 100 km. Depuis début octobre, les Houthis ont gagné environ 1 600 km² autour de Taëz, toujours assiégée. Ce recul laisse de facto aux Houthis, alliés de l'Iran, l'une des portes de la mer Rouge, passage clé du commerce maritime mondial ; le commandant saoudien de la coalition a été limogé le lendemain.
 
-[franceinfo](https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html){ .src target="_blank" rel="noopener" } [TF1 Info](https://www.tf1info.fr/international/l-estonie-ferme-sa-frontiere-avec-la-russie-apres-une-tentative-de-sabotage-2475983.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Europe](themes/europe.md){ .tag }
+[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/16/les-forces-yemenites-se-sont-retirees-du-detroit-de-bab-el-mandeb/){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Yémen : les houthistes à 60 km d'Aden, Bab el-Mandeb dégarni { #yemen-les-houthistes-a-60-km-daden-bab-el-mandeb-degarni data-fav="2026/11/2026-11-16/#yemen-les-houthistes-a-60-km-daden-bab-el-mandeb-degarni" }
+### Iran : Paris attribue une cyberattaque contre des supermarchés français { #iran-paris-attribue-une-cyberattaque-contre-des-supermarches-francais data-fav="2026/11/2026-11-17/#iran-paris-attribue-une-cyberattaque-contre-des-supermarches-francais" }
 
-Après une avancée dans le gouvernorat de Lahj, les houthistes pro-iraniens se trouvent à environ 60 km d'Aden, capitale provisoire du gouvernement reconnu, selon des sources militaires citées par l'AFP. Pour protéger la ville, l'armée gouvernementale retire des troupes des abords du détroit de Bab el-Mandeb. Ce repli devrait permettre aux houthistes de consolider leur contrôle de ce passage stratégique qui relie l'océan Indien à la mer Rouge et au canal de Suez.
+La France a attribué à l'Iran l'attaque informatique qui a visé les systèmes de froid de nombreux supermarchés français, une attribution présentée comme un préalable à d'éventuelles contre-mesures. Selon Le Monde, Téhéran multiplie les opérations clandestines et les menaces sur le sol européen pour dissuader les Européens de soutenir Washington, dans un contexte de confrontation ouverte avec les États-Unis et Israël.
 
-[France 24](https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [défense](themes/defense.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html){ .src target="_blank" rel="noopener" } [Le Monde (2)](https://www.lemonde.fr/international/article/2026/11/16/l-agressivite-croissante-de-l-iran-gagne-le-sol-europeen_6812168_3210.html){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [cyber](themes/cyber.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Algérie-Maroc : nouvelle querelle autour d'un cours d'eau pollué { #algerie-maroc-nouvelle-querelle-autour-dun-cours-deau-pollue data-fav="2026/11/2026-11-16/#algerie-maroc-nouvelle-querelle-autour-dun-cours-deau-pollue" }
+### Francophonie : le sommet échoue à désigner un secrétaire général { #francophonie-le-sommet-echoue-a-designer-un-secretaire-general data-fav="2026/11/2026-11-17/#francophonie-le-sommet-echoue-a-designer-un-secretaire-general" }
 
-Alger accuse le Maroc de polluer délibérément l'oued Mouilah, un cours d'eau transfrontalier qui alimente le barrage de Hammam Boughrara, près de Tlemcen. Des analyses y ont relevé des nitrates, de l'ammoniac et des métaux lourds ; la ministre algérienne de l'Environnement a porté l'affaire à la tribune de la COP31. Rabat temporise, mais l'épisode s'ajoute à la longue brouille entre les deux voisins, dont la frontière est fermée depuis 1994.
+Réunis au Cambodge, les 53 États membres de l'Organisation internationale de la francophonie (OIF) ont reporté d'un an la désignation de leur secrétaire général, faute de consensus : une première. En cause, l'affrontement entre Kinshasa et Kigali autour d'un troisième mandat de la Rwandaise Louise Mushikiwabo, sur fond de guerre dans l'est de la RDC.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261116-l-alg%C3%A9rie-accuse-le-maroc-d-%C3%AAtre-%C3%A0-l-origine-de-la-pollution-d-un-de-ses-cours-d-eau){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html){ .src target="_blank" rel="noopener" } [RFI](https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261116-report-de-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-oif-sur-le-fond-la-position-de-la-rdc-a-gagn%C3%A9){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Soudan : la guerre provoque une grave pénurie de pain { #soudan-la-guerre-provoque-une-grave-penurie-de-pain data-fav="2026/11/2026-11-16/#soudan-la-guerre-provoque-une-grave-penurie-de-pain" }
+### Migrations : cinq pays de l'UE choisissent le Rwanda pour un « hub de retour » { #migrations-cinq-pays-de-lue-choisissent-le-rwanda-pour-un-hub-de-retour data-fav="2026/11/2026-11-17/#migrations-cinq-pays-de-lue-choisissent-le-rwanda-pour-un-hub-de-retour" }
 
-À Khartoum, le prix du pain est passé de 200 à 500 livres soudanaises en trois mois et de nombreuses boulangeries ont fermé. En cause : des récoltes de sorgho (aliment de base de 70 % de la population) et de blé quasi nulles, des importations coûteuses faute de devises, et la hausse de l'électricité et du carburant. Beaucoup de familles ne mangent plus qu'une fois par jour, une situation pire hors de la capitale.
+L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas ont présenté à Vienne un projet pilote de centre au Rwanda, prévu pour 2027, destiné à une centaine de migrants déboutés de l'asile ayant épuisé leurs recours et ne pouvant être renvoyés dans leur pays d'origine. Le projet illustre le durcissement de la politique migratoire européenne ; 45 ONG s'y opposent, en invoquant des risques de violations des droits humains.
 
-[RFI](https://www.rfi.fr/fr/monde/20261116-sur-fond-de-guerre-et-de-troubles-%C3%A9conomiques-le-soudan-fait-face-%C3%A0-une-grave-p%C3%A9nurie-de-pain){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag }
+[RFI](https://www.rfi.fr/fr/europe/20261116-l-allemagne-l-autriche-le-danemark-la-gr%C3%A8ce-et-les-pays-bas-pr%C3%A9sentent-leur-projet-de-hub-de-retour-pour-migrants-au-rwanda){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Narcotrafic : la Marine intercepte pour la première fois un semi-submersible { #narcotrafic-la-marine-intercepte-pour-la-premiere-fois-un-semi-submersible data-fav="2026/11/2026-11-16/#narcotrafic-la-marine-intercepte-pour-la-premiere-fois-un-semi-submersible" }
+### Moyen-Orient : un troisième porte-avions américain sur zone { #moyen-orient-un-troisieme-porte-avions-americain-sur-zone data-fav="2026/11/2026-11-17/#moyen-orient-un-troisieme-porte-avions-americain-sur-zone" }
 
-Le 12 novembre, une frégate de la Marine nationale a intercepté dans l'Atlantique un semi-submersible sans pavillon chargé de plusieurs tonnes de cocaïne, grâce à son hélicoptère embarqué et à l'appui d'un avion de patrouille maritime américain. L'équipage a sabordé l'engin, qui a coulé en moins de trois minutes ; quatre suspects ont été arrêtés et 146 kg de cocaïne repêchés. C'est une première pour la Marine face à ces embarcations conçues pour naviguer au ras de l'eau.
+L'USS Theodore Roosevelt est arrivé au Moyen-Orient, où il rejoint les porte-avions George H. W. Bush et George Washington, déployés respectivement depuis avril et août. Trois groupes aéronavals simultanés dans la région constituent une concentration rare, en plein regain des tensions avec l'Iran et alors que les Gardiens de la révolution ont de nouveau visé des radars américains à Bahreïn.
 
-[La 1ère](https://la1ere.franceinfo.fr/guadeloupe/un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-intercepte-dans-l-atlantique-1758081.html){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/societe/article/2026/11/15/la-marine-nationale-intercepte-un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-dans-l-atlantique-quatre-suspects-interpelles_6811045_3224.html){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/un-troisieme-porte-avions-americain-le-theodore-roosevelt-est-arrive-au-moyen-orient_6812491_3210.html){ .src target="_blank" rel="noopener" } [USNI News](https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### US Navy : le SNA USS South Dakota aurait frôlé l'échouement { #us-navy-le-sna-uss-south-dakota-aurait-frole-lechouement data-fav="2026/11/2026-11-16/#us-navy-le-sna-uss-south-dakota-aurait-frole-lechouement" }
+### Des militaires français opèrent désormais en Ukraine { #des-militaires-francais-operent-desormais-en-ukraine data-fav="2026/11/2026-11-17/#des-militaires-francais-operent-desormais-en-ukraine" }
 
-L'US Navy a relevé discrètement le 14 octobre le commandant, le commandant en second et le « bidel » du sous-marin nucléaire d'attaque USS South Dakota (classe Virginia). Selon The Maritime Executive et USNI News, le bâtiment aurait évité de justesse un échouement, voire touché légèrement le fond par l'arrière. Deux élus du Congrès dénoncent l'absence d'information et s'interrogent sur l'état de la coque. L'incident rappelle celui de l'USS Connecticut, endommagé en 2021 en mer de Chine méridionale et toujours indisponible.
+De petits contingents de militaires français effectuent des rotations en Ukraine pour de la formation et de la réparation de matériel, a confirmé au Monde une source proche du dossier, après des informations de RFI. C'est une évolution notable de l'engagement français, alors que les négociations de paix et le rôle d'une future force de garantie européenne restent en discussion.
 
-[Zone Militaire](https://www.opex360.com/2026/11/15/le-sous-marin-nucleaire-dattaque-americain-uss-south-dakota-aurait-failli-sechouer/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Malaisie : le missile turc ATMACA remplacera le NSM sur les LCS { #malaisie-le-missile-turc-atmaca-remplacera-le-nsm-sur-les-lcs data-fav="2026/11/2026-11-16/#malaisie-le-missile-turc-atmaca-remplacera-le-nsm-sur-les-lcs" }
+### Aéronautique navale : fin de service pour les Falcon 10 MER { #aeronautique-navale-fin-de-service-pour-les-falcon-10-mer data-fav="2026/11/2026-11-17/#aeronautique-navale-fin-de-service-pour-les-falcon-10-mer" }
 
-Kuala Lumpur a désigné le missile antinavire ATMACA de Roketsan pour équiper ses Littoral Combat Ships, à la place du NSM norvégien, en le jugeant supérieur aux offres française et italienne en coût et en délais. La Malaisie a déjà commandé 24 ATMACA pour ses navires de mission littorale. Selon Naval News, son intégration au système de combat SETIS de Naval Group reste à négocier et pourrait exiger une console séparée. C'est un nouveau succès pour l'industrie navale turque en Asie du Sud-Est.
+La Marine nationale a officialisé le 15 novembre le retrait de ses six Falcon 10 MER (Marine Entraînement Radar) de l'escadrille 57S de Landivisiau, après plus de cinquante ans de service, 104 444 heures de vol et près de 1 000 pilotes formés. Ils servaient à l'entraînement au vol aux instruments des pilotes de Rafale Marine et aux liaisons. Ils sont remplacés par trois Pilatus PC-24 loués à Jet Aviation (marché « Balbuzard »).
 
-[Naval News](https://www.navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/16/la-marine-nationale-retire-ses-six-avions-falcon-10-mer-apres-plus-de-cinquante-ans-de-service/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Voitures chinoises et sites militaires : le ministère des Armées mobilisé { #voitures-chinoises-et-sites-militaires-le-ministere-des-armees-mobilise data-fav="2026/11/2026-11-16/#voitures-chinoises-et-sites-militaires-le-ministere-des-armees-mobilise" }
+### Dissuasion : patrouille record de 217 jours pour un SNLE britannique { #dissuasion-patrouille-record-de-217-jours-pour-un-snle-britannique data-fav="2026/11/2026-11-17/#dissuasion-patrouille-record-de-217-jours-pour-un-snle-britannique" }
 
-Le ministère des Armées dit être « mobilisé » face aux risques posés par les voitures chinoises connectées (caméras, LiDAR, GPS, micros) dans les enceintes militaires. En Norvège, des véhicules loués auprès d'une filiale de Geely pour un exercice ont enregistré trajets, entrées de sites militaires et codes d'accès. Les marques chinoises représentaient 11,7 % des immatriculations de voitures neuves en Europe en août, en hausse de 111 % sur un an.
+Le HMS Vengeance est rentré à Faslane le 15 novembre après 217 jours de patrouille, battant le record de 205 jours établi au printemps par le HMS Vanguard. L'allongement des patrouilles traduit les difficultés de disponibilité de la flotte de quatre SNLE de classe Vanguard, qui doit assurer en permanence la dissuasion continue en mer (CASD) du Royaume-Uni.
 
-[Zone Militaire](https://www.opex360.com/2026/11/15/le-ministere-des-armees-est-mobilise-sur-les-menaces-liees-a-la-presence-de-voitures-chinoises-dans-les-enceintes-militaires/){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/16/un-sous-marin-nucleaire-lanceur-dengins-britannique-etablit-un-nouveau-record-de-jours-passes-en-mer/){ .src target="_blank" rel="noopener" } [dissuasion](themes/dissuasion.md){ .tag } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Océan Indien : MSC et Maersk vont entrer au capital du port de Port-Louis { #ocean-indien-msc-et-maersk-vont-entrer-au-capital-du-port-de-port-louis data-fav="2026/11/2026-11-16/#ocean-indien-msc-et-maersk-vont-entrer-au-capital-du-port-de-port-louis" }
+### US Navy : 82 drones sous-marins Lionfish supplémentaires { #us-navy-82-drones-sous-marins-lionfish-supplementaires data-fav="2026/11/2026-11-17/#us-navy-82-drones-sous-marins-lionfish-supplementaires" }
 
-Maurice va céder 40 % de la Cargo Handling Corporation, la société d'État qui gère la manutention des conteneurs à Port-Louis, aux armateurs MSC et Maersk, avec un transfert prévu d'ici fin février 2027. Le port, classé 369e sur 405 par la Banque mondiale, derrière Tamatave, Mayotte, La Réunion et Mombasa, veut redevenir une plateforme de référence dans l'océan Indien. Les deux géants du transport maritime en deviendront les gestionnaires.
+La marine américaine a commandé à HII 82 drones sous-marins légers Lionfish de plus, portant la commande totale à 175 exemplaires (dont 50 livrés), pour un programme de cinq ans d'une valeur potentielle de plus de 347 millions de dollars. Dérivés du REMUS 300, ils servent à la guerre des mines, au renseignement, à la lutte anti-sous-marine et à la guerre électronique. C'est le premier programme de l'US Navy passé d'un prototype rapide (OTA) à la production en série.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261115-maurice-le-port-de-port-louis-c%C3%A8de-40-de-son-capital-%C3%A0-deux-grands-armateurs-mondiaux){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
@@ -138,6 +138,13 @@ Maurice va céder 40 % de la Cargo Handling Corporation, la société d'État qu
 ## Veilles précédentes
 
 <div class="cartes" markdown>
+
+- [**Lundi 16 novembre 2026**](2026/11/2026-11-16.md) <span class="carte-meta">10 actus · 4 min</span>
+
+    - Ukraine : Zelensky prépare une réunion de la coalition des volontaires
+    - L'Estonie fermera sa frontière avec la Russie le 1er décembre
+    - Yémen : les houthistes à 60 km d'Aden, Bab el-Mandeb dégarni
+    - *et 7 autres…*
 
 - [**Dimanche 15 novembre 2026**](2026/11/2026-11-15.md) <span class="carte-meta">8 actus · 4 min</span>
 
@@ -169,7 +176,7 @@ Maurice va céder 40 % de la Cargo Handling Corporation, la société d'État qu
 
 </div>
 
-[Les 5 veilles dans les archives →](archives.md){ .lien-suite }
+[Les 6 veilles dans les archives →](archives.md){ .lien-suite }
 
 <p class="a-propos" markdown>
 Zeraq est une veille automatisée : les résumés sont rédigés par un assistant IA à partir des articles cités sous chaque actu. [Voir les sources suivies](sources.md).
