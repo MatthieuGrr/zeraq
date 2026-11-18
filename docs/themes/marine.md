@@ -8,12 +8,14 @@ search:
 
 # marine
 
-21 actus sur ce thème · [tous les thèmes](../tags.md)
+23 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [US Navy : le Sénat bloque le retour des catapultes à vapeur](../2026/11/2026-11-18.md#us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur) <span class="carte-meta">18 nov.</span>
+- [OTAN : vers un « internet sous-marin » commun](../2026/11/2026-11-18.md#otan-vers-un-internet-sous-marin-commun) <span class="carte-meta">18 nov.</span>
 - [Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb](../2026/11/2026-11-17.md#yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb) <span class="carte-meta">17 nov.</span>
 - [Moyen-Orient : un troisième porte-avions américain sur zone](../2026/11/2026-11-17.md#moyen-orient-un-troisieme-porte-avions-americain-sur-zone) <span class="carte-meta">17 nov.</span>
 - [Aéronautique navale : fin de service pour les Falcon 10 MER](../2026/11/2026-11-17.md#aeronautique-navale-fin-de-service-pour-les-falcon-10-mer) <span class="carte-meta">17 nov.</span>

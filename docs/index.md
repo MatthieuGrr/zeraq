@@ -15,122 +15,111 @@ search:
 *Zeraq*, le quart de minuit à quatre heures, celui qui demande le plus d'attention : chaque matin, l'essentiel en géopolitique, défense et affaires maritimes, résumé en quelques lignes et toujours sourcé.
 { .hero-baseline }
 
-[Lire la veille du jour](2026/11/2026-11-17.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
+[Lire la veille du jour](2026/11/2026-11-18.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
 { .hero-actions }
 
 </div>
 
-## [Mardi 17 novembre 2026](2026/11/2026-11-17.md) { .jour }
+## [Mercredi 18 novembre 2026](2026/11/2026-11-18.md) { .jour }
 
-**10 actus** · 4 min de lecture
+**9 actus** · 3 min de lecture
 { .veille-meta }
 
 <section class="actu" markdown>
 
-### Ukraine : frappes croisées sur les ponts de Kertch et de Kiev { #ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev data-fav="2026/11/2026-11-17/#ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev" }
+### Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec { #shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec data-fav="2026/11/2026-11-18/#shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec" }
 
-Le pont de Kertch, qui relie la Russie à la Crimée occupée, a été frappé deux fois en moins de 24 heures, selon les autorités installées par Moscou, qui ont suspendu la circulation dans la nuit du 16 au 17 novembre. Des images satellites montrent des dégâts sur l'arche de la travée routière. Dans la foulée, le maire de Kiev, Vitali Klitschko, a annoncé que des missiles balistiques russes avaient touché deux grands ponts de la capitale sur le Dniepr. L'ouvrage de Kertch est à la fois un symbole du pouvoir de Vladimir Poutine et un axe logistique routier et ferroviaire vital pour les forces russes en Crimée.
+Le sommet de la Coopération économique pour l'Asie-Pacifique (Apec, 21 membres) s'est ouvert ce mercredi à Shenzhen, avant une rencontre trilatérale inédite entre Xi Jinping, Donald Trump et Vladimir Poutine prévue jeudi 19 novembre. Pékin veut apparaître comme une puissance incontournable tout en limitant l'espace laissé aux sujets qui fâchent. Les tensions ne manquent pas : fragile trêve commerciale sino-américaine, volonté chinoise de restreindre l'accès du Japon aux terres rares, pression des alliés de l'Ukraine sur l'économie russe.
 
-[The War Zone](https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-des-frappes-russes-ont-touche-deux-ponts-importants-de-kiev-annonce-le-maire-vitali-klitschko_6810982_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [défense](themes/defense.md){ .tag }
+[RFI](https://www.rfi.fr/fr/asie-pacifique/20261118-le-sommet-de-l-apec-s-ouvre-%C3%A0-shenzhen-en-attendant-la-r%C3%A9union-entre-donald-trump-vladimir-poutine-et-xi-jinping){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/article/2026/11/18/avec-donald-trump-et-vladimir-poutine-a-ses-cotes-xi-jinping-se-place-sur-le-devant-de-la-scene-mondiale_6813065_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb { #yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb data-fav="2026/11/2026-11-17/#yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb" }
+### Pourquoi Moscou exige le départ de la Finlande de l'OTAN { #pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan data-fav="2026/11/2026-11-18/#pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan" }
 
-Les autorités yéménites, soutenues par l'Arabie saoudite, ont annoncé le 15 novembre retirer leurs forces de la zone de Bab el-Mandeb pour se concentrer sur la défense d'Aden, la capitale provisoire, dont les Houthis ne sont plus qu'à moins de 100 km. Depuis début octobre, les Houthis ont gagné environ 1 600 km² autour de Taëz, toujours assiégée. Ce recul laisse de facto aux Houthis, alliés de l'Iran, l'une des portes de la mer Rouge, passage clé du commerce maritime mondial ; le commandant saoudien de la coalition a été limogé le lendemain.
+Selon une proposition russe révélée par la presse allemande, Moscou réclamerait, dans le cadre d'un accord sur l'Ukraine, que la Finlande renonce à son adhésion à l'OTAN, obtenue en 2023 ; Helsinki a rejeté l'idée. Les analystes y voient d'abord une question de géographie : 1 340 km de frontière commune, la proximité de Saint-Pétersbourg, et un accès à la Baltique et à l'Arctique où se trouvent des bases nucléaires russes. Avec la Finlande, l'OTAN peut planifier un front continu du nord de la Norvège à l'Estonie et contrôler plus facilement les lignes de communication maritimes du nord de la Baltique.
 
-[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/16/les-forces-yemenites-se-sont-retirees-du-detroit-de-bab-el-mandeb/){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [marine](themes/marine.md){ .tag }
+[Breaking Defense](https://breakingdefense.com/2026/11/russia-reportedly-wants-finland-to-leave-nato-as-part-of-ukraine-deal-history-geography-explain-why/){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Iran : Paris attribue une cyberattaque contre des supermarchés français { #iran-paris-attribue-une-cyberattaque-contre-des-supermarches-francais data-fav="2026/11/2026-11-17/#iran-paris-attribue-une-cyberattaque-contre-des-supermarches-francais" }
+### États-Unis : les démocrates prennent le Sénat { #etats-unis-les-democrates-prennent-le-senat data-fav="2026/11/2026-11-18/#etats-unis-les-democrates-prennent-le-senat" }
 
-La France a attribué à l'Iran l'attaque informatique qui a visé les systèmes de froid de nombreux supermarchés français, une attribution présentée comme un préalable à d'éventuelles contre-mesures. Selon Le Monde, Téhéran multiplie les opérations clandestines et les menaces sur le sol européen pour dissuader les Européens de soutenir Washington, dans un contexte de confrontation ouverte avec les États-Unis et Israël.
+Avec la victoire de Mary Peltola en Alaska, dans un scrutin marqué par une controverse sur une possible confusion entre candidats, les démocrates remportent le dernier siège en jeu des élections de mi-mandat. Ils disposeront de 56 sièges contre 44 pour les républicains à la chambre haute, ce qui pèsera sur la fin du mandat de Donald Trump (nominations, budget, défense).
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/quelle-riposte-pour-la-france-apres-la-cyberattaque-contre-les-refrigerateurs-de-supermarches-attribuee-a-l-iran_6812232_3210.html){ .src target="_blank" rel="noopener" } [Le Monde (2)](https://www.lemonde.fr/international/article/2026/11/16/l-agressivite-croissante-de-l-iran-gagne-le-sol-europeen_6812168_3210.html){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [cyber](themes/cyber.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Francophonie : le sommet échoue à désigner un secrétaire général { #francophonie-le-sommet-echoue-a-designer-un-secretaire-general data-fav="2026/11/2026-11-17/#francophonie-le-sommet-echoue-a-designer-un-secretaire-general" }
+### Lac Tchad : droit de poursuite transfrontalière pour l'armée nigériane { #lac-tchad-droit-de-poursuite-transfrontaliere-pour-larmee-nigeriane data-fav="2026/11/2026-11-18/#lac-tchad-droit-de-poursuite-transfrontaliere-pour-larmee-nigeriane" }
 
-Réunis au Cambodge, les 53 États membres de l'Organisation internationale de la francophonie (OIF) ont reporté d'un an la désignation de leur secrétaire général, faute de consensus : une première. En cause, l'affrontement entre Kinshasa et Kigali autour d'un troisième mandat de la Rwandaise Louise Mushikiwabo, sur fond de guerre dans l'est de la RDC.
+Le ministre nigérian de la Défense, le général Christopher Musa, a annoncé un accord avec le Cameroun, le Niger et le Tchad autorisant l'armée nigériane à poursuivre des combattants armés jusqu'à 5 km en territoire voisin. Le but est d'empêcher les groupes jihadistes de se réfugier chez les voisins après une attaque au Nigeria. Les modalités et la réciprocité restent floues ; la Force multinationale mixte (FMM) du bassin du lac Tchad a souvent souffert de problèmes de coordination.
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html){ .src target="_blank" rel="noopener" } [RFI](https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261116-report-de-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-oif-sur-le-fond-la-position-de-la-rdc-a-gagn%C3%A9){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag }
+[RFI](https://www.rfi.fr/fr/afrique/20261118-le-nigeria-signe-un-nouvel-accord-militaire-avec-le-cameroun-le-niger-et-le-tchad){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Migrations : cinq pays de l'UE choisissent le Rwanda pour un « hub de retour » { #migrations-cinq-pays-de-lue-choisissent-le-rwanda-pour-un-hub-de-retour data-fav="2026/11/2026-11-17/#migrations-cinq-pays-de-lue-choisissent-le-rwanda-pour-un-hub-de-retour" }
+### Koalicja : premier exercice de la force multinationale pour l'Ukraine { #koalicja-premier-exercice-de-la-force-multinationale-pour-lukraine data-fav="2026/11/2026-11-18/#koalicja-premier-exercice-de-la-force-multinationale-pour-lukraine" }
 
-L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas ont présenté à Vienne un projet pilote de centre au Rwanda, prévu pour 2027, destiné à une centaine de migrants déboutés de l'asile ayant épuisé leurs recours et ne pouvant être renvoyés dans leur pays d'origine. Le projet illustre le durcissement de la politique migratoire européenne ; 45 ONG s'y opposent, en invoquant des risques de violations des droits humains.
+Jusqu'au 22 novembre, environ 2 800 soldats de 11 pays, dont 1 200 Français, s'entraînent à Nowa Deba, en Pologne, sous commandement franco-britannique. C'est le premier exercice sur le terrain de la force multinationale de la coalition des volontaires (37 pays), créée en janvier et conçue pour se déployer en Ukraine en cas de cessez-le-feu. L'enjeu principal est logistique : acheminer rapidement les moyens par air, mer et rail.
 
-[RFI](https://www.rfi.fr/fr/europe/20261116-l-allemagne-l-autriche-le-danemark-la-gr%C3%A8ce-et-les-pays-bas-pr%C3%A9sentent-leur-projet-de-hub-de-retour-pour-migrants-au-rwanda){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/17/en-pologne-aupres-d-un-exercice-militaire-inedit-de-la-coalition-des-volontaires-dirige-par-la-france-et-le-royaume-uni_6812990_3210.html){ .src target="_blank" rel="noopener" } [franceinfo](https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-a-besoin-de-s-entrainer-en-pologne-un-exercice-inedit-mobilise-des-militaires-de-la-coalition-des-volontaires-pour-defendre-l-ukraine_8286437.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Europe](themes/europe.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Moyen-Orient : un troisième porte-avions américain sur zone { #moyen-orient-un-troisieme-porte-avions-americain-sur-zone data-fav="2026/11/2026-11-17/#moyen-orient-un-troisieme-porte-avions-americain-sur-zone" }
+### Des bombardiers russes violent l'espace aérien japonais en route vers le Vietnam { #des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam data-fav="2026/11/2026-11-18/#des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam" }
 
-L'USS Theodore Roosevelt est arrivé au Moyen-Orient, où il rejoint les porte-avions George H. W. Bush et George Washington, déployés respectivement depuis avril et août. Trois groupes aéronavals simultanés dans la région constituent une concentration rare, en plein regain des tensions avec l'Iran et alors que les Gardiens de la révolution ont de nouveau visé des radars américains à Bahreïn.
+Le 17 novembre, deux avions présumés russes ont pénétré quelques minutes dans l'espace aérien japonais près d'Okinoshima (préfecture de Fukuoka), provoquant le décollage de chasseurs et une protestation de Tokyo. Le Japon avait déjà relevé une hausse de 158 % de l'activité aérienne russe autour de l'archipel entre avril et septembre.
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/un-troisieme-porte-avions-americain-le-theodore-roosevelt-est-arrive-au-moyen-orient_6812491_3210.html){ .src target="_blank" rel="noopener" } [USNI News](https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/17/deux-bombardiers-strategiques-russes-tu-95-sont-arrives-au-vietnam-apres-avoir-viole-lespace-aerien-japonais/){ .src target="_blank" rel="noopener" } [The War Zone](https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Des militaires français opèrent désormais en Ukraine { #des-militaires-francais-operent-desormais-en-ukraine data-fav="2026/11/2026-11-17/#des-militaires-francais-operent-desormais-en-ukraine" }
+### US Navy : le Sénat bloque le retour des catapultes à vapeur { #us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur data-fav="2026/11/2026-11-18/#us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur" }
 
-De petits contingents de militaires français effectuent des rotations en Ukraine pour de la formation et de la réparation de matériel, a confirmé au Monde une source proche du dossier, après des informations de RFI. C'est une évolution notable de l'engagement français, alors que les négociations de paix et le rôle d'une future force de garantie européenne restent en discussion.
+Le président de la commission des forces armées du Sénat, Roger Wicker, juge « non envisageable » la demande de Donald Trump de remplacer les catapultes électromagnétiques (EMALS) et les ascenseurs d'armes du futur porte-avions USS Doris Miller (classe Ford) par des systèmes à vapeur. Ces équipements ont connu des problèmes de fiabilité, mais une refonte coûterait cher et retarderait encore des livraisons déjà en retard.
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/16/des-militaires-francais-operent-desormais-en-ukraine_6811865_3210.html){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
+[The War Zone](https://www.twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair){ .src target="_blank" rel="noopener" } [USNI News](https://news.usni.org/2026/11/17/reverting-ford-class-carriers-to-steam-is-non-starter-says-sasc-chair-wicker){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Aéronautique navale : fin de service pour les Falcon 10 MER { #aeronautique-navale-fin-de-service-pour-les-falcon-10-mer data-fav="2026/11/2026-11-17/#aeronautique-navale-fin-de-service-pour-les-falcon-10-mer" }
+### OTAN : vers un « internet sous-marin » commun { #otan-vers-un-internet-sous-marin-commun data-fav="2026/11/2026-11-18/#otan-vers-un-internet-sous-marin-commun" }
 
-La Marine nationale a officialisé le 15 novembre le retrait de ses six Falcon 10 MER (Marine Entraînement Radar) de l'escadrille 57S de Landivisiau, après plus de cinquante ans de service, 104 444 heures de vol et près de 1 000 pilotes formés. Ils servaient à l'entraînement au vol aux instruments des pilotes de Rafale Marine et aux liaisons. Ils sont remplacés par trois Pilatus PC-24 loués à Jet Aviation (marché « Balbuzard »).
+Le consortium MANGROVE, mené par Saab, a achevé la première phase du réseau de mission allié pour l'espace de bataille sous-marin (AUWB-MN) : une architecture de référence de plus de 600 pages, examinée par 12 pays. Elle doit permettre aux marines alliées de partager leurs données et de faire opérer ensemble des systèmes habités et des centaines de drones, quelles que soient leurs technologies nationales. L'architecture sera testée en mer lors de l'exercice Task Force X Arctic en juillet 2027.
 
-[Zone Militaire](https://www.opex360.com/2026/11/16/la-marine-nationale-retire-ses-six-avions-falcon-10-mer-apres-plus-de-cinquante-ans-de-service/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/mangrove-nato-underwater-battlespace-network-arctic-trial/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Dissuasion : patrouille record de 217 jours pour un SNLE britannique { #dissuasion-patrouille-record-de-217-jours-pour-un-snle-britannique data-fav="2026/11/2026-11-17/#dissuasion-patrouille-record-de-217-jours-pour-un-snle-britannique" }
+### La Bulgarie va acheter 57 CAESAr français { #la-bulgarie-va-acheter-57-caesar-francais data-fav="2026/11/2026-11-18/#la-bulgarie-va-acheter-57-caesar-francais" }
 
-Le HMS Vengeance est rentré à Faslane le 15 novembre après 217 jours de patrouille, battant le record de 205 jours établi au printemps par le HMS Vanguard. L'allongement des patrouilles traduit les difficultés de disponibilité de la flotte de quatre SNLE de classe Vanguard, qui doit assurer en permanence la dissuasion continue en mer (CASD) du Royaume-Uni.
+Le gouvernement bulgare a transmis au Parlement une demande d'achat de 57 canons CAESAr (KNDS France), d'obus de 155 mm et d'équipements de soutien, financés par l'instrument européen de prêts SAFE. Sofia rejoint ainsi l'achat groupé négocié par la DGA, après l'Estonie, le Portugal, la Croatie, la Slovénie et la Lituanie.
 
-[Zone Militaire](https://www.opex360.com/2026/11/16/un-sous-marin-nucleaire-lanceur-dengins-britannique-etablit-un-nouveau-record-de-jours-passes-en-mer/){ .src target="_blank" rel="noopener" } [dissuasion](themes/dissuasion.md){ .tag } [marine](themes/marine.md){ .tag }
-{ .actu-foot }
-
-</section>
-
-<section class="actu" markdown>
-
-### US Navy : 82 drones sous-marins Lionfish supplémentaires { #us-navy-82-drones-sous-marins-lionfish-supplementaires data-fav="2026/11/2026-11-17/#us-navy-82-drones-sous-marins-lionfish-supplementaires" }
-
-La marine américaine a commandé à HII 82 drones sous-marins légers Lionfish de plus, portant la commande totale à 175 exemplaires (dont 50 livrés), pour un programme de cinq ans d'une valeur potentielle de plus de 347 millions de dollars. Dérivés du REMUS 300, ils servent à la guerre des mines, au renseignement, à la lutte anti-sous-marine et à la guerre électronique. C'est le premier programme de l'US Navy passé d'un prototype rapide (OTA) à la production en série.
-
-[Naval News](https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/17/artillerie-la-bulgarie-confirme-son-intention-dacquerir-57-caesar-aupres-de-la-france/){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
@@ -138,6 +127,13 @@ La marine américaine a commandé à HII 82 drones sous-marins légers Lionfish 
 ## Veilles précédentes
 
 <div class="cartes" markdown>
+
+- [**Mardi 17 novembre 2026**](2026/11/2026-11-17.md) <span class="carte-meta">10 actus · 4 min</span>
+
+    - Ukraine : frappes croisées sur les ponts de Kertch et de Kiev
+    - Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb
+    - Iran : Paris attribue une cyberattaque contre des supermarchés français
+    - *et 7 autres…*
 
 - [**Lundi 16 novembre 2026**](2026/11/2026-11-16.md) <span class="carte-meta">10 actus · 4 min</span>
 
@@ -176,7 +172,7 @@ La marine américaine a commandé à HII 82 drones sous-marins légers Lionfish 
 
 </div>
 
-[Les 6 veilles dans les archives →](archives.md){ .lien-suite }
+[Les 7 veilles dans les archives →](archives.md){ .lien-suite }
 
 <p class="a-propos" markdown>
 Zeraq est une veille automatisée : les résumés sont rédigés par un assistant IA à partir des articles cités sous chaque actu. [Voir les sources suivies](sources.md).

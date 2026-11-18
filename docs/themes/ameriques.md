@@ -8,12 +8,15 @@ search:
 
 # Amériques
 
-10 actus sur ce thème · [tous les thèmes](../tags.md)
+13 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec](../2026/11/2026-11-18.md#shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec) <span class="carte-meta">18 nov.</span>
+- [États-Unis : les démocrates prennent le Sénat](../2026/11/2026-11-18.md#etats-unis-les-democrates-prennent-le-senat) <span class="carte-meta">18 nov.</span>
+- [US Navy : le Sénat bloque le retour des catapultes à vapeur](../2026/11/2026-11-18.md#us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur) <span class="carte-meta">18 nov.</span>
 - [Moyen-Orient : un troisième porte-avions américain sur zone](../2026/11/2026-11-17.md#moyen-orient-un-troisieme-porte-avions-americain-sur-zone) <span class="carte-meta">17 nov.</span>
 - [US Navy : 82 drones sous-marins Lionfish supplémentaires](../2026/11/2026-11-17.md#us-navy-82-drones-sous-marins-lionfish-supplementaires) <span class="carte-meta">17 nov.</span>
 - [Ukraine : Zelensky prépare une réunion de la coalition des volontaires](../2026/11/2026-11-16.md#ukraine-zelensky-prepare-une-reunion-de-la-coalition-des-volontaires) <span class="carte-meta">16 nov.</span>

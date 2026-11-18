@@ -8,12 +8,17 @@ search:
 
 # défense
 
-26 actus sur ce thème · [tous les thèmes](../tags.md)
+31 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Pourquoi Moscou exige le départ de la Finlande de l'OTAN](../2026/11/2026-11-18.md#pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan) <span class="carte-meta">18 nov.</span>
+- [États-Unis : les démocrates prennent le Sénat](../2026/11/2026-11-18.md#etats-unis-les-democrates-prennent-le-senat) <span class="carte-meta">18 nov.</span>
+- [Lac Tchad : droit de poursuite transfrontalière pour l'armée nigériane](../2026/11/2026-11-18.md#lac-tchad-droit-de-poursuite-transfrontaliere-pour-larmee-nigeriane) <span class="carte-meta">18 nov.</span>
+- [OTAN : vers un « internet sous-marin » commun](../2026/11/2026-11-18.md#otan-vers-un-internet-sous-marin-commun) <span class="carte-meta">18 nov.</span>
+- [La Bulgarie va acheter 57 CAESAr français](../2026/11/2026-11-18.md#la-bulgarie-va-acheter-57-caesar-francais) <span class="carte-meta">18 nov.</span>
 - [Ukraine : frappes croisées sur les ponts de Kertch et de Kiev](../2026/11/2026-11-17.md#ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev) <span class="carte-meta">17 nov.</span>
 - [Des militaires français opèrent désormais en Ukraine](../2026/11/2026-11-17.md#des-militaires-francais-operent-desormais-en-ukraine) <span class="carte-meta">17 nov.</span>
 - [Aéronautique navale : fin de service pour les Falcon 10 MER](../2026/11/2026-11-17.md#aeronautique-navale-fin-de-service-pour-les-falcon-10-mer) <span class="carte-meta">17 nov.</span>

@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-6 veilles et 58 actus, de la plus récente à la plus ancienne.
+7 veilles et 67 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Mercredi 18 novembre 2026**](2026/11/2026-11-18.md) <span class="carte-meta">9 actus</span>  
+Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec · Pourquoi Moscou exige le départ de la Finlande de l'OTAN · États-Unis : les démocrates prennent le Sénat · Lac Tchad : droit de poursuite transfrontalière pour l'armée nigériane · Koalicja : premier exercice de la force multinationale pour l'Ukraine · Des bombardiers russes violent l'espace aérien japonais en route… · US Navy : le Sénat bloque le retour des catapultes à vapeur · OTAN : vers un « internet sous-marin » commun · La Bulgarie va acheter 57 CAESAr français
 
 [**Mardi 17 novembre 2026**](2026/11/2026-11-17.md) <span class="carte-meta">10 actus</span>  
 Ukraine : frappes croisées sur les ponts de Kertch et de Kiev · Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb · Iran : Paris attribue une cyberattaque contre des supermarchés… · Francophonie : le sommet échoue à désigner un secrétaire général · Migrations : cinq pays de l'UE choisissent le Rwanda pour un « hub… · Moyen-Orient : un troisième porte-avions américain sur zone · Des militaires français opèrent désormais en Ukraine · Aéronautique navale : fin de service pour les Falcon 10 MER · Dissuasion : patrouille record de 217 jours pour un SNLE britannique · US Navy : 82 drones sous-marins Lionfish supplémentaires

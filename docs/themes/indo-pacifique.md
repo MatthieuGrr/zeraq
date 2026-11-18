@@ -8,12 +8,13 @@ search:
 
 # Indo-Pacifique
 
-6 actus sur ce thème · [tous les thèmes](../tags.md)
+7 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Des bombardiers russes violent l'espace aérien japonais en route vers le Vietnam](../2026/11/2026-11-18.md#des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam) <span class="carte-meta">18 nov.</span>
 - [Voitures chinoises et sites militaires : le ministère des Armées mobilisé](../2026/11/2026-11-16.md#voitures-chinoises-et-sites-militaires-le-ministere-des-armees-mobilise) <span class="carte-meta">16 nov.</span>
 - [Océan Indien : MSC et Maersk vont entrer au capital du port de Port-Louis](../2026/11/2026-11-16.md#ocean-indien-msc-et-maersk-vont-entrer-au-capital-du-port-de-port-louis) <span class="carte-meta">16 nov.</span>
 - [Le Japon fournit drones et radar côtier aux Philippines](../2026/11/2026-11-15.md#le-japon-fournit-drones-et-radar-cotier-aux-philippines) <span class="carte-meta">15 nov.</span>

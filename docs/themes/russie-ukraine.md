@@ -8,12 +8,16 @@ search:
 
 # Russie-Ukraine
 
-14 actus sur ce thème · [tous les thèmes](../tags.md)
+18 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec](../2026/11/2026-11-18.md#shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec) <span class="carte-meta">18 nov.</span>
+- [Pourquoi Moscou exige le départ de la Finlande de l'OTAN](../2026/11/2026-11-18.md#pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan) <span class="carte-meta">18 nov.</span>
+- [Koalicja : premier exercice de la force multinationale pour l'Ukraine](../2026/11/2026-11-18.md#koalicja-premier-exercice-de-la-force-multinationale-pour-lukraine) <span class="carte-meta">18 nov.</span>
+- [Des bombardiers russes violent l'espace aérien japonais en route vers le Vietnam](../2026/11/2026-11-18.md#des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam) <span class="carte-meta">18 nov.</span>
 - [Ukraine : frappes croisées sur les ponts de Kertch et de Kiev](../2026/11/2026-11-17.md#ukraine-frappes-croisees-sur-les-ponts-de-kertch-et-de-kiev) <span class="carte-meta">17 nov.</span>
 - [Des militaires français opèrent désormais en Ukraine](../2026/11/2026-11-17.md#des-militaires-francais-operent-desormais-en-ukraine) <span class="carte-meta">17 nov.</span>
 - [Ukraine : Zelensky prépare une réunion de la coalition des volontaires](../2026/11/2026-11-16.md#ukraine-zelensky-prepare-une-reunion-de-la-coalition-des-volontaires) <span class="carte-meta">16 nov.</span>
