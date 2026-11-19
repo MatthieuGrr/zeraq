@@ -8,12 +8,17 @@ search:
 
 # Amériques
 
-13 actus sur ce thème · [tous les thèmes](../tags.md)
+18 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Shenzhen : première rencontre à trois entre les dirigeants américain, chinois et russe](../2026/11/2026-11-19.md#shenzhen-premiere-rencontre-a-trois-entre-les-dirigeants-americain-chinois-et-russe) <span class="carte-meta">19 nov.</span>
+- [Golfe : l'Iran étend ses frappes au Koweït après une attaque américaine sur l'île de Qeshm](../2026/11/2026-11-19.md#golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm) <span class="carte-meta">19 nov.</span>
+- [Sahara occidental : la Minurso quittera le terrain le 31 janvier](../2026/11/2026-11-19.md#sahara-occidental-la-minurso-quittera-le-terrain-le-31-janvier) <span class="carte-meta">19 nov.</span>
+- [Chagos : Maurice exige d'être associée aux discussions sur Diego Garcia](../2026/11/2026-11-19.md#chagos-maurice-exige-detre-associee-aux-discussions-sur-diego-garcia) <span class="carte-meta">19 nov.</span>
+- [États-Unis : le Sénat taille dans le « cuirassé » de la Navy](../2026/11/2026-11-19.md#etats-unis-le-senat-taille-dans-le-cuirasse-de-la-navy) <span class="carte-meta">19 nov.</span>
 - [Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec](../2026/11/2026-11-18.md#shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec) <span class="carte-meta">18 nov.</span>
 - [États-Unis : les démocrates prennent le Sénat](../2026/11/2026-11-18.md#etats-unis-les-democrates-prennent-le-senat) <span class="carte-meta">18 nov.</span>
 - [US Navy : le Sénat bloque le retour des catapultes à vapeur](../2026/11/2026-11-18.md#us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur) <span class="carte-meta">18 nov.</span>

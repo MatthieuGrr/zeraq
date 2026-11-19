@@ -8,12 +8,14 @@ search:
 
 # Afrique
 
-11 actus sur ce thème · [tous les thèmes](../tags.md)
+13 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Sahara occidental : la Minurso quittera le terrain le 31 janvier](../2026/11/2026-11-19.md#sahara-occidental-la-minurso-quittera-le-terrain-le-31-janvier) <span class="carte-meta">19 nov.</span>
+- [Chagos : Maurice exige d'être associée aux discussions sur Diego Garcia](../2026/11/2026-11-19.md#chagos-maurice-exige-detre-associee-aux-discussions-sur-diego-garcia) <span class="carte-meta">19 nov.</span>
 - [Lac Tchad : droit de poursuite transfrontalière pour l'armée nigériane](../2026/11/2026-11-18.md#lac-tchad-droit-de-poursuite-transfrontaliere-pour-larmee-nigeriane) <span class="carte-meta">18 nov.</span>
 - [Francophonie : le sommet échoue à désigner un secrétaire général](../2026/11/2026-11-17.md#francophonie-le-sommet-echoue-a-designer-un-secretaire-general) <span class="carte-meta">17 nov.</span>
 - [Algérie-Maroc : nouvelle querelle autour d'un cours d'eau pollué](../2026/11/2026-11-16.md#algerie-maroc-nouvelle-querelle-autour-dun-cours-deau-pollue) <span class="carte-meta">16 nov.</span>

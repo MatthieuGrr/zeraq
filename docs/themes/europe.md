@@ -8,12 +8,14 @@ search:
 
 # Europe
 
-7 actus sur ce thème · [tous les thèmes](../tags.md)
+9 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Allemagne : quatre frégates anti-sous-marines MEKO A-200 supplémentaires](../2026/11/2026-11-19.md#allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires) <span class="carte-meta">19 nov.</span>
+- [Espace : MBDA Deutschland étudie la « frappe orbitale de précision »](../2026/11/2026-11-19.md#espace-mbda-deutschland-etudie-la-frappe-orbitale-de-precision) <span class="carte-meta">19 nov.</span>
 - [Koalicja : premier exercice de la force multinationale pour l'Ukraine](../2026/11/2026-11-18.md#koalicja-premier-exercice-de-la-force-multinationale-pour-lukraine) <span class="carte-meta">18 nov.</span>
 - [La Bulgarie va acheter 57 CAESAr français](../2026/11/2026-11-18.md#la-bulgarie-va-acheter-57-caesar-francais) <span class="carte-meta">18 nov.</span>
 - [Migrations : cinq pays de l'UE choisissent le Rwanda pour un « hub de retour »](../2026/11/2026-11-17.md#migrations-cinq-pays-de-lue-choisissent-le-rwanda-pour-un-hub-de-retour) <span class="carte-meta">17 nov.</span>

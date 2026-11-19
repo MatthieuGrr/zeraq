@@ -8,12 +8,15 @@ search:
 
 # marine
 
-23 actus sur ce thème · [tous les thèmes](../tags.md)
+26 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Patrouille maritime : la facture du futur avion PATMAR s'envole](../2026/11/2026-11-19.md#patrouille-maritime-la-facture-du-futur-avion-patmar-senvole) <span class="carte-meta">19 nov.</span>
+- [Allemagne : quatre frégates anti-sous-marines MEKO A-200 supplémentaires](../2026/11/2026-11-19.md#allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires) <span class="carte-meta">19 nov.</span>
+- [États-Unis : le Sénat taille dans le « cuirassé » de la Navy](../2026/11/2026-11-19.md#etats-unis-le-senat-taille-dans-le-cuirasse-de-la-navy) <span class="carte-meta">19 nov.</span>
 - [US Navy : le Sénat bloque le retour des catapultes à vapeur](../2026/11/2026-11-18.md#us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur) <span class="carte-meta">18 nov.</span>
 - [OTAN : vers un « internet sous-marin » commun](../2026/11/2026-11-18.md#otan-vers-un-internet-sous-marin-commun) <span class="carte-meta">18 nov.</span>
 - [Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb](../2026/11/2026-11-17.md#yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb) <span class="carte-meta">17 nov.</span>

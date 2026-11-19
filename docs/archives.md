@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-7 veilles et 67 actus, de la plus récente à la plus ancienne.
+8 veilles et 75 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Jeudi 19 novembre 2026**](2026/11/2026-11-19.md) <span class="carte-meta">8 actus</span>  
+Shenzhen : première rencontre à trois entre les dirigeants… · Golfe : l'Iran étend ses frappes au Koweït après une attaque… · Sahara occidental : la Minurso quittera le terrain le 31 janvier · Chagos : Maurice exige d'être associée aux discussions sur Diego… · Patrouille maritime : la facture du futur avion PATMAR s'envole · Allemagne : quatre frégates anti-sous-marines MEKO A-200… · États-Unis : le Sénat taille dans le « cuirassé » de la Navy · Espace : MBDA Deutschland étudie la « frappe orbitale de précision »
 
 [**Mercredi 18 novembre 2026**](2026/11/2026-11-18.md) <span class="carte-meta">9 actus</span>  
 Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec · Pourquoi Moscou exige le départ de la Finlande de l'OTAN · États-Unis : les démocrates prennent le Sénat · Lac Tchad : droit de poursuite transfrontalière pour l'armée nigériane · Koalicja : premier exercice de la force multinationale pour l'Ukraine · Des bombardiers russes violent l'espace aérien japonais en route… · US Navy : le Sénat bloque le retour des catapultes à vapeur · OTAN : vers un « internet sous-marin » commun · La Bulgarie va acheter 57 CAESAr français

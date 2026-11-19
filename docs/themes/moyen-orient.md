@@ -8,12 +8,13 @@ search:
 
 # Moyen-Orient
 
-6 actus sur ce thème · [tous les thèmes](../tags.md)
+7 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Golfe : l'Iran étend ses frappes au Koweït après une attaque américaine sur l'île de Qeshm](../2026/11/2026-11-19.md#golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm) <span class="carte-meta">19 nov.</span>
 - [Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb](../2026/11/2026-11-17.md#yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb) <span class="carte-meta">17 nov.</span>
 - [Iran : Paris attribue une cyberattaque contre des supermarchés français](../2026/11/2026-11-17.md#iran-paris-attribue-une-cyberattaque-contre-des-supermarches-francais) <span class="carte-meta">17 nov.</span>
 - [Yémen : les houthistes à 60 km d'Aden, Bab el-Mandeb dégarni](../2026/11/2026-11-16.md#yemen-les-houthistes-a-60-km-daden-bab-el-mandeb-degarni) <span class="carte-meta">16 nov.</span>

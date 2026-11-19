@@ -15,111 +15,100 @@ search:
 *Zeraq*, le quart de minuit à quatre heures, celui qui demande le plus d'attention : chaque matin, l'essentiel en géopolitique, défense et affaires maritimes, résumé en quelques lignes et toujours sourcé.
 { .hero-baseline }
 
-[Lire la veille du jour](2026/11/2026-11-18.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
+[Lire la veille du jour](2026/11/2026-11-19.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
 { .hero-actions }
 
 </div>
 
-## [Mercredi 18 novembre 2026](2026/11/2026-11-18.md) { .jour }
+## [Jeudi 19 novembre 2026](2026/11/2026-11-19.md) { .jour }
 
-**9 actus** · 3 min de lecture
+**8 actus** · 4 min de lecture
 { .veille-meta }
 
 <section class="actu" markdown>
 
-### Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec { #shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec data-fav="2026/11/2026-11-18/#shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec" }
+### Shenzhen : première rencontre à trois entre les dirigeants américain, chinois et russe { #shenzhen-premiere-rencontre-a-trois-entre-les-dirigeants-americain-chinois-et-russe data-fav="2026/11/2026-11-19/#shenzhen-premiere-rencontre-a-trois-entre-les-dirigeants-americain-chinois-et-russe" }
 
-Le sommet de la Coopération économique pour l'Asie-Pacifique (Apec, 21 membres) s'est ouvert ce mercredi à Shenzhen, avant une rencontre trilatérale inédite entre Xi Jinping, Donald Trump et Vladimir Poutine prévue jeudi 19 novembre. Pékin veut apparaître comme une puissance incontournable tout en limitant l'espace laissé aux sujets qui fâchent. Les tensions ne manquent pas : fragile trêve commerciale sino-américaine, volonté chinoise de restreindre l'accès du Japon aux terres rares, pression des alliés de l'Ukraine sur l'économie russe.
+En marge du sommet de l'APEC à Shenzhen, Donald Trump doit participer ce jeudi 19 novembre à une réunion trilatérale avec Xi Jinping et Vladimir Poutine, une première pour un président américain. Washington annonce que la dénucléarisation sera à l'ordre du jour (un sujet que Pékin a jusqu'ici refusé d'aborder), la guerre en Iran pourrait être évoquée, mais pas l'Ukraine. Xi a accueilli Trump au pied de l'avion, rompant avec près de cinquante ans de protocole, tout en dénonçant le protectionnisme « occidental » dans son discours d'ouverture. Pour Poutine, qui n'avait plus figuré sur une photo de famille de l'APEC depuis 2017, c'est un retour remarqué sur la scène internationale ; en parallèle, les émissaires américains Witkoff et Kushner rencontrent des responsables européens à Berlin.
 
-[RFI](https://www.rfi.fr/fr/asie-pacifique/20261118-le-sommet-de-l-apec-s-ouvre-%C3%A0-shenzhen-en-attendant-la-r%C3%A9union-entre-donald-trump-vladimir-poutine-et-xi-jinping){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/article/2026/11/18/avec-donald-trump-et-vladimir-poutine-a-ses-cotes-xi-jinping-se-place-sur-le-devant-de-la-scene-mondiale_6813065_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/18/a-shenzhen-la-premiere-rencontre-de-lhistoire-entre-les-dirigeants-des-etats-unis-de-la-chine-et-de-la-russie/){ .src target="_blank" rel="noopener" } [Le Grand Continent (2)](https://legrandcontinent.eu/fr/2026/11/18/xi-trump-et-poutine-ont-enfin-leur-photo-de-famille/){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Pourquoi Moscou exige le départ de la Finlande de l'OTAN { #pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan data-fav="2026/11/2026-11-18/#pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan" }
+### Golfe : l'Iran étend ses frappes au Koweït après une attaque américaine sur l'île de Qeshm { #golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm data-fav="2026/11/2026-11-19/#golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm" }
 
-Selon une proposition russe révélée par la presse allemande, Moscou réclamerait, dans le cadre d'un accord sur l'Ukraine, que la Finlande renonce à son adhésion à l'OTAN, obtenue en 2023 ; Helsinki a rejeté l'idée. Les analystes y voient d'abord une question de géographie : 1 340 km de frontière commune, la proximité de Saint-Pétersbourg, et un accès à la Baltique et à l'Arctique où se trouvent des bases nucléaires russes. Avec la Finlande, l'OTAN peut planifier un front continu du nord de la Norvège à l'Estonie et contrôler plus facilement les lignes de communication maritimes du nord de la Baltique.
+Le Koweït et Bahreïn ont annoncé le 18 novembre avoir intercepté des attaques iraniennes, au lendemain d'une frappe américaine sur l'île iranienne de Qeshm, dans le détroit d'Ormuz. C'est la première attaque contre le Koweït depuis septembre ; les frappes sur Bahreïn, qui abrite la Ve Flotte américaine, avaient repris le 13 novembre après deux mois de pause. Téhéran affirme avoir visé des batteries Patriot sur la base d'Ali Al-Salem, sans preuve à ce stade. Faute d'accord de paix, le blocus naval américain contre l'Iran entretient une escalade graduelle, alors que Donald Trump jugeait début novembre la guerre « effectivement terminée ».
 
-[Breaking Defense](https://breakingdefense.com/2026/11/russia-reportedly-wants-finland-to-leave-nato-as-part-of-ukraine-deal-history-geography-explain-why/){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [défense](themes/defense.md){ .tag }
+[The War Zone](https://www.twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### États-Unis : les démocrates prennent le Sénat { #etats-unis-les-democrates-prennent-le-senat data-fav="2026/11/2026-11-18/#etats-unis-les-democrates-prennent-le-senat" }
+### Sahara occidental : la Minurso quittera le terrain le 31 janvier { #sahara-occidental-la-minurso-quittera-le-terrain-le-31-janvier data-fav="2026/11/2026-11-19/#sahara-occidental-la-minurso-quittera-le-terrain-le-31-janvier" }
 
-Avec la victoire de Mary Peltola en Alaska, dans un scrutin marqué par une controverse sur une possible confusion entre candidats, les démocrates remportent le dernier siège en jeu des élections de mi-mandat. Ils disposeront de 56 sièges contre 44 pour les républicains à la chambre haute, ce qui pèsera sur la fin du mandat de Donald Trump (nominations, budget, défense).
+Moins de trois semaines après la décision de liquider la Mission de l'ONU pour l'organisation d'un référendum au Sahara occidental (Minurso), consécutive à un veto russe sur le projet de réforme américain, l'ambassadeur des États-Unis à l'ONU, Mike Waltz, s'est rendu au Maroc le 17 novembre. Il y a réaffirmé l'engagement de Washington à régler le conflit dans le cadre de l'autonomie sous souveraineté marocaine, position reconnue par les États-Unis. La date du retrait complet de la mission, présente depuis 1991, a été fixée au 31 janvier.
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [défense](themes/defense.md){ .tag }
+[RFI](https://www.rfi.fr/fr/afrique/20261119-sahara-occidental-washington-r%C3%A9affirme-son-engagement-apr%C3%A8s-l-annonce-de-la-fin-de-la-minurso){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [Afrique](themes/afrique.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Lac Tchad : droit de poursuite transfrontalière pour l'armée nigériane { #lac-tchad-droit-de-poursuite-transfrontaliere-pour-larmee-nigeriane data-fav="2026/11/2026-11-18/#lac-tchad-droit-de-poursuite-transfrontaliere-pour-larmee-nigeriane" }
+### Chagos : Maurice exige d'être associée aux discussions sur Diego Garcia { #chagos-maurice-exige-detre-associee-aux-discussions-sur-diego-garcia data-fav="2026/11/2026-11-19/#chagos-maurice-exige-detre-associee-aux-discussions-sur-diego-garcia" }
 
-Le ministre nigérian de la Défense, le général Christopher Musa, a annoncé un accord avec le Cameroun, le Niger et le Tchad autorisant l'armée nigériane à poursuivre des combattants armés jusqu'à 5 km en territoire voisin. Le but est d'empêcher les groupes jihadistes de se réfugier chez les voisins après une attaque au Nigeria. Les modalités et la réciprocité restent floues ; la Force multinationale mixte (FMM) du bassin du lac Tchad a souvent souffert de problèmes de coordination.
+Le Premier ministre mauricien, Navin Ramgoolam, réclame d'être présent à toute négociation entre Londres et Washington sur la base militaire de Diego Garcia, principale île de l'archipel des Chagos. L'accord de mai 2025 prévoit la restitution de l'archipel à Maurice avec un bail de 99 ans pour la base anglo-américaine, mais Londres ne l'a toujours pas ratifié, faute d'entente avec les États-Unis, qui ont rouvert le dossier à la demande de Donald Trump. Port-Louis veut une feuille de route d'ici décembre et menace sinon d'une nouvelle bataille juridique.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261118-le-nigeria-signe-un-nouvel-accord-militaire-avec-le-cameroun-le-niger-et-le-tchad){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
+[RFI](https://www.rfi.fr/fr/afrique/20261119-r%C3%A9trocession-des-chagos-%C3%A0-maurice-port-louis-exige-d-%C3%AAtre-associ%C3%A9-aux-discussions-entre-londres-et-washington){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Koalicja : premier exercice de la force multinationale pour l'Ukraine { #koalicja-premier-exercice-de-la-force-multinationale-pour-lukraine data-fav="2026/11/2026-11-18/#koalicja-premier-exercice-de-la-force-multinationale-pour-lukraine" }
+### Patrouille maritime : la facture du futur avion PATMAR s'envole { #patrouille-maritime-la-facture-du-futur-avion-patmar-senvole data-fav="2026/11/2026-11-19/#patrouille-maritime-la-facture-du-futur-avion-patmar-senvole" }
 
-Jusqu'au 22 novembre, environ 2 800 soldats de 11 pays, dont 1 200 Français, s'entraînent à Nowa Deba, en Pologne, sous commandement franco-britannique. C'est le premier exercice sur le terrain de la force multinationale de la coalition des volontaires (37 pays), créée en janvier et conçue pour se déployer en Ukraine en cas de cessez-le-feu. L'enjeu principal est logistique : acheminer rapidement les moyens par air, mer et rail.
+Selon un avis budgétaire de l'Assemblée nationale, le coût estimé du programme « PATMAR futur », qui doit remplacer les 18 Atlantique 2 de la Marine nationale par une version militarisée de l'Airbus A321XLR, est passé de 2,768 à 4,574 milliards d'euros (+65 %) ; Les Échos évoquent même plus de 10 milliards pour douze appareils, soit l'ordre de grandeur du futur porte-avions France Libre. Les négociations entre la DGA et Airbus sont dans l'impasse et le lancement en réalisation, attendu avant fin 2026, est repoussé. La Marine anticipe une possible rupture temporaire de capacité et étudie une prolongation des Atlantique 2, avec de « premiers retours positifs ».
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/17/en-pologne-aupres-d-un-exercice-militaire-inedit-de-la-coalition-des-volontaires-dirige-par-la-france-et-le-royaume-uni_6812990_3210.html){ .src target="_blank" rel="noopener" } [franceinfo](https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-a-besoin-de-s-entrainer-en-pologne-un-exercice-inedit-mobilise-des-militaires-de-la-coalition-des-volontaires-pour-defendre-l-ukraine_8286437.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Europe](themes/europe.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/18/le-cout-des-douze-futurs-avions-patmar-de-la-marine-nationale-serait-aussi-eleve-que-celui-du-porte-avions-france-libre/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Des bombardiers russes violent l'espace aérien japonais en route vers le Vietnam { #des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam data-fav="2026/11/2026-11-18/#des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam" }
+### Allemagne : quatre frégates anti-sous-marines MEKO A-200 supplémentaires { #allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires data-fav="2026/11/2026-11-19/#allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires" }
 
-Le 17 novembre, deux avions présumés russes ont pénétré quelques minutes dans l'espace aérien japonais près d'Okinoshima (préfecture de Fukuoka), provoquant le décollage de chasseurs et une protestation de Tokyo. Le Japon avait déjà relevé une hausse de 158 % de l'activité aérienne russe autour de l'archipel entre avril et septembre.
+TKMS et l'office d'acquisition de la Bundeswehr (BAAINBw) ont signé le 18 novembre le contrat d'une seconde tranche de quatre frégates MEKO A-200 DEU, portant le programme à huit navires, la plus grosse commande de bâtiments de surface de l'histoire du chantier. Conçues pour la lutte anti-sous-marine, elles embarqueront un sonar de coque, un sonar remorqué, des torpilles MU90 et un hélicoptère NH90 Sea Tiger. La première frégate doit être livrée fin 2029, les suivantes à neuf mois d'intervalle.
 
-[Zone Militaire](https://www.opex360.com/2026/11/17/deux-bombardiers-strategiques-russes-tu-95-sont-arrives-au-vietnam-apres-avoir-viole-lespace-aerien-japonais/){ .src target="_blank" rel="noopener" } [The War Zone](https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Europe](themes/europe.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### US Navy : le Sénat bloque le retour des catapultes à vapeur { #us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur data-fav="2026/11/2026-11-18/#us-navy-le-senat-bloque-le-retour-des-catapultes-a-vapeur" }
+### États-Unis : le Sénat taille dans le « cuirassé » de la Navy { #etats-unis-le-senat-taille-dans-le-cuirasse-de-la-navy data-fav="2026/11/2026-11-19/#etats-unis-le-senat-taille-dans-le-cuirasse-de-la-navy" }
 
-Le président de la commission des forces armées du Sénat, Roger Wicker, juge « non envisageable » la demande de Donald Trump de remplacer les catapultes électromagnétiques (EMALS) et les ascenseurs d'armes du futur porte-avions USS Doris Miller (classe Ford) par des systèmes à vapeur. Ces équipements ont connu des problèmes de fiabilité, mais une refonte coûterait cher et retarderait encore des livraisons déjà en retard.
+Le projet de budget de défense de la commission des crédits du Sénat (1 100 milliards de dollars pour 2027) supprime près de 1,84 milliard de dollars destinés au BBG(X), le « cuirassé lance-missiles » de 34 000 tonnes voulu par l'administration Trump dans le cadre de sa « Golden Fleet ». Les sénateurs jugent prématurée la demande d'un milliard d'approvisionnements anticipés et retirent aussi 836,9 millions de crédits de recherche. Ils contestent plus largement 6,2 milliards demandés pour accélérer des navires déjà en avance sur leur calendrier : un revers important pour le programme naval phare de la Maison-Blanche.
 
-[The War Zone](https://www.twz.com/sea/trumps-demand-for-steam-catapults-on-new-carriers-is-a-non-starter-senate-armed-forces-chair){ .src target="_blank" rel="noopener" } [USNI News](https://news.usni.org/2026/11/17/reverting-ford-class-carriers-to-steam-is-non-starter-says-sasc-chair-wicker){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [marine](themes/marine.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### OTAN : vers un « internet sous-marin » commun { #otan-vers-un-internet-sous-marin-commun data-fav="2026/11/2026-11-18/#otan-vers-un-internet-sous-marin-commun" }
+### Espace : MBDA Deutschland étudie la « frappe orbitale de précision » { #espace-mbda-deutschland-etudie-la-frappe-orbitale-de-precision data-fav="2026/11/2026-11-19/#espace-mbda-deutschland-etudie-la-frappe-orbitale-de-precision" }
 
-Le consortium MANGROVE, mené par Saab, a achevé la première phase du réseau de mission allié pour l'espace de bataille sous-marin (AUWB-MN) : une architecture de référence de plus de 600 pages, examinée par 12 pays. Elle doit permettre aux marines alliées de partager leurs données et de faire opérer ensemble des systèmes habités et des centaines de drones, quelles que soient leurs technologies nationales. L'architecture sera testée en mer lors de l'exercice Task Force X Arctic en juillet 2027.
+MBDA Deutschland et la start-up allemande Atmos Space Cargo ont signé le 18 novembre un accord pour concevoir et démontrer une capacité de « frappe orbitale de précision en profondeur » (PODS) : des munitions conventionnelles stationnées plusieurs mois en orbite basse dans une capsule de rentrée, puis guidées vers leur cible. Le traité de l'Espace de 1967 n'interdit en orbite que les armes de destruction massive, ce qui place le projet dans une zone grise juridique. Les industriels le présentent comme un complément à la dissuasion conventionnelle européenne.
 
-[Naval News](https://www.navalnews.com/naval-news/2026/11/mangrove-nato-underwater-battlespace-network-arctic-trial/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
-{ .actu-foot }
-
-</section>
-
-<section class="actu" markdown>
-
-### La Bulgarie va acheter 57 CAESAr français { #la-bulgarie-va-acheter-57-caesar-francais data-fav="2026/11/2026-11-18/#la-bulgarie-va-acheter-57-caesar-francais" }
-
-Le gouvernement bulgare a transmis au Parlement une demande d'achat de 57 canons CAESAr (KNDS France), d'obus de 155 mm et d'équipements de soutien, financés par l'instrument européen de prêts SAFE. Sofia rejoint ainsi l'achat groupé négocié par la DGA, après l'Estonie, le Portugal, la Croatie, la Slovénie et la Lituanie.
-
-[Zone Militaire](https://www.opex360.com/2026/11/17/artillerie-la-bulgarie-confirme-son-intention-dacquerir-57-caesar-aupres-de-la-france/){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag } [défense](themes/defense.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/18/mbda-deutschland-et-atmos-space-cargo-veulent-developper-une-capacite-de-frappe-orbitale-de-precision/){ .src target="_blank" rel="noopener" } [The War Zone](https://www.twz.com/space/europe-is-exploring-orbital-deep-strike-weapons){ .src target="_blank" rel="noopener" } [industrie](themes/industrie.md){ .tag } [Europe](themes/europe.md){ .tag }
 { .actu-foot }
 
 </section>
@@ -127,6 +116,13 @@ Le gouvernement bulgare a transmis au Parlement une demande d'achat de 57 canons
 ## Veilles précédentes
 
 <div class="cartes" markdown>
+
+- [**Mercredi 18 novembre 2026**](2026/11/2026-11-18.md) <span class="carte-meta">9 actus · 3 min</span>
+
+    - Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec
+    - Pourquoi Moscou exige le départ de la Finlande de l'OTAN
+    - États-Unis : les démocrates prennent le Sénat
+    - *et 6 autres…*
 
 - [**Mardi 17 novembre 2026**](2026/11/2026-11-17.md) <span class="carte-meta">10 actus · 4 min</span>
 
@@ -163,16 +159,9 @@ Le gouvernement bulgare a transmis au Parlement une demande d'achat de 57 canons
     - RDC : 323 000 déplacés en quatre jours au Sud-Kivu
     - *et 7 autres…*
 
-- [**Jeudi 12 novembre 2026**](2026/11/2026-11-12.md) <span class="carte-meta">10 actus · 4 min</span>
-
-    - Ukraine : les émissaires américains chez Poutine, puis chez Zelensky
-    - RDC : une loi référendaire qui rouvre la question d'un troisième mandat
-    - Paris-Moscou : deux députés et deux journalistes français interdits de séjour en Russie
-    - *et 7 autres…*
-
 </div>
 
-[Les 7 veilles dans les archives →](archives.md){ .lien-suite }
+[Les 8 veilles dans les archives →](archives.md){ .lien-suite }
 
 <p class="a-propos" markdown>
 Zeraq est une veille automatisée : les résumés sont rédigés par un assistant IA à partir des articles cités sous chaque actu. [Voir les sources suivies](sources.md).
