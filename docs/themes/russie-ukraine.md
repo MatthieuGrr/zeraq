@@ -8,12 +8,13 @@ search:
 
 # Russie-Ukraine
 
-19 actus sur ce thème · [tous les thèmes](../tags.md)
+20 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Ukraine : la coalition des volontaires se réunit à Berlin](../2026/11/2026-11-20.md#ukraine-la-coalition-des-volontaires-se-reunit-a-berlin) <span class="carte-meta">20 nov.</span>
 - [Shenzhen : première rencontre à trois entre les dirigeants américain, chinois et russe](../2026/11/2026-11-19.md#shenzhen-premiere-rencontre-a-trois-entre-les-dirigeants-americain-chinois-et-russe) <span class="carte-meta">19 nov.</span>
 - [Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec](../2026/11/2026-11-18.md#shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec) <span class="carte-meta">18 nov.</span>
 - [Pourquoi Moscou exige le départ de la Finlande de l'OTAN](../2026/11/2026-11-18.md#pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan) <span class="carte-meta">18 nov.</span>

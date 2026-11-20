@@ -8,12 +8,17 @@ search:
 
 # défense
 
-31 actus sur ce thème · [tous les thèmes](../tags.md)
+36 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Rohingya : la CIJ reconnaît la Birmanie coupable de génocide](../2026/11/2026-11-20.md#rohingya-la-cij-reconnait-la-birmanie-coupable-de-genocide) <span class="carte-meta">20 nov.</span>
+- [Groenland : le Danemark ratifie l'accord renforçant la présence militaire américaine](../2026/11/2026-11-20.md#groenland-le-danemark-ratifie-laccord-renforcant-la-presence-militaire-americaine) <span class="carte-meta">20 nov.</span>
+- [US Navy : le Sénat sabre la construction navale au profit des munitions](../2026/11/2026-11-20.md#us-navy-le-senat-sabre-la-construction-navale-au-profit-des-munitions) <span class="carte-meta">20 nov.</span>
+- [Excalibur : premier exercice de « dissuasion avancée » franco-suédois](../2026/11/2026-11-20.md#excalibur-premier-exercice-de-dissuasion-avancee-franco-suedois) <span class="carte-meta">20 nov.</span>
+- [Armées françaises : 72 000 fusils HK416F supplémentaires](../2026/11/2026-11-20.md#armees-francaises-72-000-fusils-hk416f-supplementaires) <span class="carte-meta">20 nov.</span>
 - [Pourquoi Moscou exige le départ de la Finlande de l'OTAN](../2026/11/2026-11-18.md#pourquoi-moscou-exige-le-depart-de-la-finlande-de-lotan) <span class="carte-meta">18 nov.</span>
 - [États-Unis : les démocrates prennent le Sénat](../2026/11/2026-11-18.md#etats-unis-les-democrates-prennent-le-senat) <span class="carte-meta">18 nov.</span>
 - [Lac Tchad : droit de poursuite transfrontalière pour l'armée nigériane](../2026/11/2026-11-18.md#lac-tchad-droit-de-poursuite-transfrontaliere-pour-larmee-nigeriane) <span class="carte-meta">18 nov.</span>

@@ -8,12 +8,14 @@ search:
 
 # Moyen-Orient
 
-7 actus sur ce thème · [tous les thèmes](../tags.md)
+9 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [La Somalie expulse l'ambassadeur des Émirats arabes unis](../2026/11/2026-11-20.md#la-somalie-expulse-lambassadeur-des-emirats-arabes-unis) <span class="carte-meta">20 nov.</span>
+- [Les États-Unis étendent leur blocus naval de l'Iran](../2026/11/2026-11-20.md#les-etats-unis-etendent-leur-blocus-naval-de-liran) <span class="carte-meta">20 nov.</span>
 - [Golfe : l'Iran étend ses frappes au Koweït après une attaque américaine sur l'île de Qeshm](../2026/11/2026-11-19.md#golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm) <span class="carte-meta">19 nov.</span>
 - [Yémen : le gouvernement abandonne la rive du détroit de Bab el-Mandeb](../2026/11/2026-11-17.md#yemen-le-gouvernement-abandonne-la-rive-du-detroit-de-bab-el-mandeb) <span class="carte-meta">17 nov.</span>
 - [Iran : Paris attribue une cyberattaque contre des supermarchés français](../2026/11/2026-11-17.md#iran-paris-attribue-une-cyberattaque-contre-des-supermarches-francais) <span class="carte-meta">17 nov.</span>

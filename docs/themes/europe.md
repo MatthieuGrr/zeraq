@@ -8,12 +8,13 @@ search:
 
 # Europe
 
-9 actus sur ce thème · [tous les thèmes](../tags.md)
+10 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [EUROGUARD : l'Estonie lance le prototype d'un navire de guerre modulaire européen](../2026/11/2026-11-20.md#euroguard-lestonie-lance-le-prototype-dun-navire-de-guerre-modulaire-europeen) <span class="carte-meta">20 nov.</span>
 - [Allemagne : quatre frégates anti-sous-marines MEKO A-200 supplémentaires](../2026/11/2026-11-19.md#allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires) <span class="carte-meta">19 nov.</span>
 - [Espace : MBDA Deutschland étudie la « frappe orbitale de précision »](../2026/11/2026-11-19.md#espace-mbda-deutschland-etudie-la-frappe-orbitale-de-precision) <span class="carte-meta">19 nov.</span>
 - [Koalicja : premier exercice de la force multinationale pour l'Ukraine](../2026/11/2026-11-18.md#koalicja-premier-exercice-de-la-force-multinationale-pour-lukraine) <span class="carte-meta">18 nov.</span>

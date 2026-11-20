@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-8 veilles et 75 actus, de la plus récente à la plus ancienne.
+9 veilles et 84 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Vendredi 20 novembre 2026**](2026/11/2026-11-20.md) <span class="carte-meta">9 actus</span>  
+Rohingya : la CIJ reconnaît la Birmanie coupable de génocide · Ukraine : la coalition des volontaires se réunit à Berlin · Groenland : le Danemark ratifie l'accord renforçant la présence… · La Somalie expulse l'ambassadeur des Émirats arabes unis · Les États-Unis étendent leur blocus naval de l'Iran · US Navy : le Sénat sabre la construction navale au profit des… · Excalibur : premier exercice de « dissuasion avancée » franco-suédois · EUROGUARD : l'Estonie lance le prototype d'un navire de guerre… · Armées françaises : 72 000 fusils HK416F supplémentaires
 
 [**Jeudi 19 novembre 2026**](2026/11/2026-11-19.md) <span class="carte-meta">8 actus</span>  
 Shenzhen : première rencontre à trois entre les dirigeants… · Golfe : l'Iran étend ses frappes au Koweït après une attaque… · Sahara occidental : la Minurso quittera le terrain le 31 janvier · Chagos : Maurice exige d'être associée aux discussions sur Diego… · Patrouille maritime : la facture du futur avion PATMAR s'envole · Allemagne : quatre frégates anti-sous-marines MEKO A-200… · États-Unis : le Sénat taille dans le « cuirassé » de la Navy · Espace : MBDA Deutschland étudie la « frappe orbitale de précision »

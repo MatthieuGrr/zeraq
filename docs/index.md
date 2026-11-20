@@ -15,100 +15,111 @@ search:
 *Zeraq*, le quart de minuit à quatre heures, celui qui demande le plus d'attention : chaque matin, l'essentiel en géopolitique, défense et affaires maritimes, résumé en quelques lignes et toujours sourcé.
 { .hero-baseline }
 
-[Lire la veille du jour](2026/11/2026-11-19.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
+[Lire la veille du jour](2026/11/2026-11-20.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
 { .hero-actions }
 
 </div>
 
-## [Jeudi 19 novembre 2026](2026/11/2026-11-19.md) { .jour }
+## [Vendredi 20 novembre 2026](2026/11/2026-11-20.md) { .jour }
 
-**8 actus** · 4 min de lecture
+**9 actus** · 4 min de lecture
 { .veille-meta }
 
 <section class="actu" markdown>
 
-### Shenzhen : première rencontre à trois entre les dirigeants américain, chinois et russe { #shenzhen-premiere-rencontre-a-trois-entre-les-dirigeants-americain-chinois-et-russe data-fav="2026/11/2026-11-19/#shenzhen-premiere-rencontre-a-trois-entre-les-dirigeants-americain-chinois-et-russe" }
+### Rohingya : la CIJ reconnaît la Birmanie coupable de génocide { #rohingya-la-cij-reconnait-la-birmanie-coupable-de-genocide data-fav="2026/11/2026-11-20/#rohingya-la-cij-reconnait-la-birmanie-coupable-de-genocide" }
 
-En marge du sommet de l'APEC à Shenzhen, Donald Trump doit participer ce jeudi 19 novembre à une réunion trilatérale avec Xi Jinping et Vladimir Poutine, une première pour un président américain. Washington annonce que la dénucléarisation sera à l'ordre du jour (un sujet que Pékin a jusqu'ici refusé d'aborder), la guerre en Iran pourrait être évoquée, mais pas l'Ukraine. Xi a accueilli Trump au pied de l'avion, rompant avec près de cinquante ans de protocole, tout en dénonçant le protectionnisme « occidental » dans son discours d'ouverture. Pour Poutine, qui n'avait plus figuré sur une photo de famille de l'APEC depuis 2017, c'est un retour remarqué sur la scène internationale ; en parallèle, les émissaires américains Witkoff et Kushner rencontrent des responsables européens à Berlin.
+La Cour internationale de justice, organe judiciaire de l'ONU, a jugé le 19 novembre que la Birmanie avait violé à six reprises la convention de 1948 sur le génocide. C'est la première fois qu'un État est condamné pour ce « crime des crimes ». Quelque 10 000 Rohingya, minorité musulmane, avaient été massacrés par l'armée birmane et leurs villages rasés lors des opérations de 2017 ; l'arrêt pourrait faire jurisprudence.
 
-[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/18/a-shenzhen-la-premiere-rencontre-de-lhistoire-entre-les-dirigeants-des-etats-unis-de-la-chine-et-de-la-russie/){ .src target="_blank" rel="noopener" } [Le Grand Continent (2)](https://legrandcontinent.eu/fr/2026/11/18/xi-trump-et-poutine-ont-enfin-leur-photo-de-famille/){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/19/rohingya-un-arret-historique-de-la-cour-de-justice-internationale-reconnait-la-birmanie-coupable-de-genocide_6813377_3210.html){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Golfe : l'Iran étend ses frappes au Koweït après une attaque américaine sur l'île de Qeshm { #golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm data-fav="2026/11/2026-11-19/#golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm" }
+### Ukraine : la coalition des volontaires se réunit à Berlin { #ukraine-la-coalition-des-volontaires-se-reunit-a-berlin data-fav="2026/11/2026-11-20/#ukraine-la-coalition-des-volontaires-se-reunit-a-berlin" }
 
-Le Koweït et Bahreïn ont annoncé le 18 novembre avoir intercepté des attaques iraniennes, au lendemain d'une frappe américaine sur l'île iranienne de Qeshm, dans le détroit d'Ormuz. C'est la première attaque contre le Koweït depuis septembre ; les frappes sur Bahreïn, qui abrite la Ve Flotte américaine, avaient repris le 13 novembre après deux mois de pause. Téhéran affirme avoir visé des batteries Patriot sur la base d'Ali Al-Salem, sans preuve à ce stade. Faute d'accord de paix, le blocus naval américain contre l'Iran entretient une escalade graduelle, alors que Donald Trump jugeait début novembre la guerre « effectivement terminée ».
+Réunis jeudi en Allemagne, les membres de la coalition des volontaires se sont engagés à verser l'intégralité de l'aide promise à Kiev pour 2026 et à maintenir ce soutien en 2027. La réunion intervient au lendemain du sommet de Shenzhen, où Vladimir Poutine a mis en scène, aux côtés de Xi Jinping, l'« amitié » que lui porte Donald Trump.
 
-[The War Zone](https://www.twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/20/guerre-en-ukraine-a-berlin-la-reunion-des-allies-de-kiev-miroir-inverse-de-la-rencontre-de-shenzhen-entre-xi-trump-et-poutine_6813557_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Sahara occidental : la Minurso quittera le terrain le 31 janvier { #sahara-occidental-la-minurso-quittera-le-terrain-le-31-janvier data-fav="2026/11/2026-11-19/#sahara-occidental-la-minurso-quittera-le-terrain-le-31-janvier" }
+### Groenland : le Danemark ratifie l'accord renforçant la présence militaire américaine { #groenland-le-danemark-ratifie-laccord-renforcant-la-presence-militaire-americaine data-fav="2026/11/2026-11-20/#groenland-le-danemark-ratifie-laccord-renforcant-la-presence-militaire-americaine" }
 
-Moins de trois semaines après la décision de liquider la Mission de l'ONU pour l'organisation d'un référendum au Sahara occidental (Minurso), consécutive à un veto russe sur le projet de réforme américain, l'ambassadeur des États-Unis à l'ONU, Mike Waltz, s'est rendu au Maroc le 17 novembre. Il y a réaffirmé l'engagement de Washington à régler le conflit dans le cadre de l'autonomie sous souveraineté marocaine, position reconnue par les États-Unis. La date du retrait complet de la mission, présente depuis 1991, a été fixée au 31 janvier.
+Le Parlement danois a ratifié le 19 novembre l'accord de sécurité entre les États-Unis, le Danemark et le Groenland signé en septembre à New York. Il amende l'accord de défense de 1951 et autorise deux nouvelles bases américaines dans le sud et l'est de l'île, en plus de Pituffik au nord, ainsi que l'installation du bouclier antimissile « Golden Dome ». Le texte interdit à tout acteur extérieur à l'UE et à l'OTAN de contrôler des secteurs stratégiques, une façon de tenir la Chine et la Russie à distance ; l'opposition indépendantiste groenlandaise juge que le territoire n'en tire aucun avantage.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261119-sahara-occidental-washington-r%C3%A9affirme-son-engagement-apr%C3%A8s-l-annonce-de-la-fin-de-la-minurso){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [Afrique](themes/afrique.md){ .tag }
+[RFI](https://www.rfi.fr/fr/monde/20261119-le-danemark-ratifie-l-accord-de-s%C3%A9curit%C3%A9-accentuant-la-pr%C3%A9sence-militaire-am%C3%A9ricaine-au-groenland){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Chagos : Maurice exige d'être associée aux discussions sur Diego Garcia { #chagos-maurice-exige-detre-associee-aux-discussions-sur-diego-garcia data-fav="2026/11/2026-11-19/#chagos-maurice-exige-detre-associee-aux-discussions-sur-diego-garcia" }
+### La Somalie expulse l'ambassadeur des Émirats arabes unis { #la-somalie-expulse-lambassadeur-des-emirats-arabes-unis data-fav="2026/11/2026-11-20/#la-somalie-expulse-lambassadeur-des-emirats-arabes-unis" }
 
-Le Premier ministre mauricien, Navin Ramgoolam, réclame d'être présent à toute négociation entre Londres et Washington sur la base militaire de Diego Garcia, principale île de l'archipel des Chagos. L'accord de mai 2025 prévoit la restitution de l'archipel à Maurice avec un bail de 99 ans pour la base anglo-américaine, mais Londres ne l'a toujours pas ratifié, faute d'entente avec les États-Unis, qui ont rouvert le dossier à la demande de Donald Trump. Port-Louis veut une feuille de route d'ici décembre et menace sinon d'une nouvelle bataille juridique.
+Mogadiscio a annoncé le 18 novembre l'expulsion de l'ambassadeur émirien et rappelé le sien, accusant Abou Dhabi d'ingérence via des alliances militaires avec des États fédérés hostiles au pouvoir central. La rupture couve depuis janvier, quand la Somalie a annulé tous ses accords avec les Émirats, dont la gestion des ports de Berbera, Bosaso et Kismayo, sur la côte stratégique du golfe d'Aden. Le président Hassan Cheikh Mohamoud est très contesté : la Cour suprême vient de déclarer illégale la prolongation d'un an de son mandat.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261119-r%C3%A9trocession-des-chagos-%C3%A0-maurice-port-louis-exige-d-%C3%AAtre-associ%C3%A9-aux-discussions-entre-londres-et-washington){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[RFI](https://www.rfi.fr/fr/afrique/20261119-faites-vos-valises-et-partez-la-somalie-expulse-l-ambassadeur-des-%C3%A9mirats-arabes-unis){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [Moyen-Orient](themes/moyen-orient.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Patrouille maritime : la facture du futur avion PATMAR s'envole { #patrouille-maritime-la-facture-du-futur-avion-patmar-senvole data-fav="2026/11/2026-11-19/#patrouille-maritime-la-facture-du-futur-avion-patmar-senvole" }
+### Les États-Unis étendent leur blocus naval de l'Iran { #les-etats-unis-etendent-leur-blocus-naval-de-liran data-fav="2026/11/2026-11-20/#les-etats-unis-etendent-leur-blocus-naval-de-liran" }
 
-Selon un avis budgétaire de l'Assemblée nationale, le coût estimé du programme « PATMAR futur », qui doit remplacer les 18 Atlantique 2 de la Marine nationale par une version militarisée de l'Airbus A321XLR, est passé de 2,768 à 4,574 milliards d'euros (+65 %) ; Les Échos évoquent même plus de 10 milliards pour douze appareils, soit l'ordre de grandeur du futur porte-avions France Libre. Les négociations entre la DGA et Airbus sont dans l'impasse et le lancement en réalisation, attendu avant fin 2026, est repoussé. La Marine anticipe une possible rupture temporaire de capacité et étudie une prolongation des Atlantique 2, avec de « premiers retours positifs ».
+Selon le Joint Maritime Information Center, le blocus américain des ports iraniens s'applique désormais à tout navire recevant une cargaison par transbordement en mer depuis un bâtiment chargé en Iran. Depuis son rétablissement en juillet, l'US Navy a dérouté environ 150 navires et en a neutralisé cinq. Les attaques contre la marine marchande continuent (34 en octobre, record depuis le début de la guerre le 27 février, 16 depuis le début de novembre) ; l'OMI recense 25 marins tués. Deux groupes aéronavals américains, Theodore Roosevelt et George H.W. Bush, sont dans la zone.
 
-[Zone Militaire](https://www.opex360.com/2026/11/18/le-cout-des-douze-futurs-avions-patmar-de-la-marine-nationale-serait-aussi-eleve-que-celui-du-porte-avions-france-libre/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag }
+[USNI News](https://news.usni.org/2026/11/19/u-s-expands-iranian-blockade-as-ship-attacks-continue){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Moyen-Orient](themes/moyen-orient.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Allemagne : quatre frégates anti-sous-marines MEKO A-200 supplémentaires { #allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires data-fav="2026/11/2026-11-19/#allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires" }
+### US Navy : le Sénat sabre la construction navale au profit des munitions { #us-navy-le-senat-sabre-la-construction-navale-au-profit-des-munitions data-fav="2026/11/2026-11-20/#us-navy-le-senat-sabre-la-construction-navale-au-profit-des-munitions" }
 
-TKMS et l'office d'acquisition de la Bundeswehr (BAAINBw) ont signé le 18 novembre le contrat d'une seconde tranche de quatre frégates MEKO A-200 DEU, portant le programme à huit navires, la plus grosse commande de bâtiments de surface de l'histoire du chantier. Conçues pour la lutte anti-sous-marine, elles embarqueront un sonar de coque, un sonar remorqué, des torpilles MU90 et un hélicoptère NH90 Sea Tiger. La première frégate doit être livrée fin 2029, les suivantes à neuf mois d'intervalle.
+Les appropriateurs du Sénat accordent 41,6 milliards de dollars à la construction navale pour l'exercice 2027, soit 18,5 milliards de moins que demandé : coupes sur les SNLE Columbia (-5,6 Md$), les sous-marins Virginia (-4,6 Md$) et les amphibies, et aucun crédit pour le « cuirassé » de classe Trump. Un second destroyer Arleigh Burke est ajouté, et la construction de navires de guerre dans des chantiers étrangers est interdite. En parallèle, la commission des forces armées augmente fortement les munitions : missiles SM-6/SM-3 (+3,6 Md$), Tomahawk (+2 Md$), PAC-3 MSE.
 
-[Naval News](https://www.navalnews.com/naval-news/2026/11/tkms-and-baainbw-sign-contract-for-four-additional-meko-a-200-deu-frigates/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Europe](themes/europe.md){ .tag }
+[USNI News](https://news.usni.org/2026/11/18/senate-appropriators-cut-20b-from-navy-shipbuilding-request){ .src target="_blank" rel="noopener" } [Naval News](https://www.navalnews.com/naval-news/2026/11/u-s-senate-seeks-to-exchange-shipbuilding-funds-for-more-munitions/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### États-Unis : le Sénat taille dans le « cuirassé » de la Navy { #etats-unis-le-senat-taille-dans-le-cuirasse-de-la-navy data-fav="2026/11/2026-11-19/#etats-unis-le-senat-taille-dans-le-cuirasse-de-la-navy" }
+### Excalibur : premier exercice de « dissuasion avancée » franco-suédois { #excalibur-premier-exercice-de-dissuasion-avancee-franco-suedois data-fav="2026/11/2026-11-20/#excalibur-premier-exercice-de-dissuasion-avancee-franco-suedois" }
 
-Le projet de budget de défense de la commission des crédits du Sénat (1 100 milliards de dollars pour 2027) supprime près de 1,84 milliard de dollars destinés au BBG(X), le « cuirassé lance-missiles » de 34 000 tonnes voulu par l'administration Trump dans le cadre de sa « Golden Fleet ». Les sénateurs jugent prématurée la demande d'un milliard d'approvisionnements anticipés et retirent aussi 836,9 millions de crédits de recherche. Ils contestent plus largement 6,2 milliards demandés pour accélérer des navires déjà en avance sur leur calendrier : un revers important pour le programme naval phare de la Maison-Blanche.
+Du 16 au 18 novembre, les Forces aériennes stratégiques ont déployé au moins trois Rafale de la 4e Escadre de chasse et un A330 MRTT dans le nord de la Suède, aux côtés de Gripen suédois. C'est le premier exercice de ce type depuis que la Suède a adhéré au concept de « dissuasion avancée » présenté par Emmanuel Macron à l'Île-Longue le 2 mars, qui permet de disperser des éléments des forces stratégiques chez des partenaires européens sans partager la décision. Le ministère des Armées précise qu'aucune arme nucléaire n'était impliquée et qu'aucun pays n'était visé.
 
-[Naval News](https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/19/la-france-et-la-suede-ont-mene-leur-premier-exercice-aerien-de-dissuasion-nucleaire-avancee/){ .src target="_blank" rel="noopener" } [dissuasion](themes/dissuasion.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Espace : MBDA Deutschland étudie la « frappe orbitale de précision » { #espace-mbda-deutschland-etudie-la-frappe-orbitale-de-precision data-fav="2026/11/2026-11-19/#espace-mbda-deutschland-etudie-la-frappe-orbitale-de-precision" }
+### EUROGUARD : l'Estonie lance le prototype d'un navire de guerre modulaire européen { #euroguard-lestonie-lance-le-prototype-dun-navire-de-guerre-modulaire-europeen data-fav="2026/11/2026-11-20/#euroguard-lestonie-lance-le-prototype-dun-navire-de-guerre-modulaire-europeen" }
 
-MBDA Deutschland et la start-up allemande Atmos Space Cargo ont signé le 18 novembre un accord pour concevoir et démontrer une capacité de « frappe orbitale de précision en profondeur » (PODS) : des munitions conventionnelles stationnées plusieurs mois en orbite basse dans une capsule de rentrée, puis guidées vers leur cible. Le traité de l'Espace de 1967 n'interdit en orbite que les armes de destruction massive, ce qui place le projet dans une zone grise juridique. Les industriels le présentent comme un complément à la dissuasion conventionnelle européenne.
+Le 19 novembre, le chantier Baltic Workboats de Saaremaa a lancé EUROGUARD, un navire expérimental de 45 m, le plus grand bâtiment de guerre construit en Estonie. Financé par le Fonds européen de la défense, le projet réunit 10 pays et 27 industriels sous direction estonienne. Il servira de banc d'essai en mer pour des technologies navales modulaires et autonomes destinées aux futurs navires européens.
 
-[Zone Militaire](https://www.opex360.com/2026/11/18/mbda-deutschland-et-atmos-space-cargo-veulent-developper-une-capacite-de-frappe-orbitale-de-precision/){ .src target="_blank" rel="noopener" } [The War Zone](https://www.twz.com/space/europe-is-exploring-orbital-deep-strike-weapons){ .src target="_blank" rel="noopener" } [industrie](themes/industrie.md){ .tag } [Europe](themes/europe.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/estonian-president-christens-first-euroguard-the-largest-warship-ever-built-in-the-country/){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag } [marine](themes/marine.md){ .tag }
+{ .actu-foot }
+
+</section>
+
+<section class="actu" markdown>
+
+### Armées françaises : 72 000 fusils HK416F supplémentaires { #armees-francaises-72-000-fusils-hk416f-supplementaires data-fav="2026/11/2026-11-20/#armees-francaises-72-000-fusils-hk416f-supplementaires" }
+
+Le ministère des Armées a commandé 72 000 HK416F de plus à Heckler & Koch, en complément des 102 000 prévus depuis 2016 pour remplacer le FAMAS. La rallonge doit équiper les trois armées, les services interarmées et la réserve opérationnelle, dont la montée en puissance n'avait pas été anticipée. Le montant n'est pas publié ; Opex360 l'estime à environ 245 millions d'euros.
+
+[Zone Militaire](https://www.opex360.com/2026/11/19/le-ministere-des-armees-a-commande-72-000-fusils-dassaut-hk416f-supplementaires-aupres-dheckler-koch/){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [industrie](themes/industrie.md){ .tag }
 { .actu-foot }
 
 </section>
@@ -116,6 +127,13 @@ MBDA Deutschland et la start-up allemande Atmos Space Cargo ont signé le 18 nov
 ## Veilles précédentes
 
 <div class="cartes" markdown>
+
+- [**Jeudi 19 novembre 2026**](2026/11/2026-11-19.md) <span class="carte-meta">8 actus · 4 min</span>
+
+    - Shenzhen : première rencontre à trois entre les dirigeants américain, chinois et russe
+    - Golfe : l'Iran étend ses frappes au Koweït après une attaque américaine sur l'île de Qeshm
+    - Sahara occidental : la Minurso quittera le terrain le 31 janvier
+    - *et 5 autres…*
 
 - [**Mercredi 18 novembre 2026**](2026/11/2026-11-18.md) <span class="carte-meta">9 actus · 3 min</span>
 
@@ -152,16 +170,9 @@ MBDA Deutschland et la start-up allemande Atmos Space Cargo ont signé le 18 nov
     - Iran : le Parlement examine une sortie du TNP
     - *et 7 autres…*
 
-- [**Vendredi 13 novembre 2026**](2026/11/2026-11-13.md) <span class="carte-meta">10 actus · 4 min</span>
-
-    - Ukraine : les Européens annoncés aux prochaines négociations de paix
-    - Sahara occidental : le Polisario décrète la mobilisation générale
-    - RDC : 323 000 déplacés en quatre jours au Sud-Kivu
-    - *et 7 autres…*
-
 </div>
 
-[Les 8 veilles dans les archives →](archives.md){ .lien-suite }
+[Les 9 veilles dans les archives →](archives.md){ .lien-suite }
 
 <p class="a-propos" markdown>
 Zeraq est une veille automatisée : les résumés sont rédigés par un assistant IA à partir des articles cités sous chaque actu. [Voir les sources suivies](sources.md).

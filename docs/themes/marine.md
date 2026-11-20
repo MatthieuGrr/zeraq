@@ -8,12 +8,15 @@ search:
 
 # marine
 
-26 actus sur ce thème · [tous les thèmes](../tags.md)
+29 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Les États-Unis étendent leur blocus naval de l'Iran](../2026/11/2026-11-20.md#les-etats-unis-etendent-leur-blocus-naval-de-liran) <span class="carte-meta">20 nov.</span>
+- [US Navy : le Sénat sabre la construction navale au profit des munitions](../2026/11/2026-11-20.md#us-navy-le-senat-sabre-la-construction-navale-au-profit-des-munitions) <span class="carte-meta">20 nov.</span>
+- [EUROGUARD : l'Estonie lance le prototype d'un navire de guerre modulaire européen](../2026/11/2026-11-20.md#euroguard-lestonie-lance-le-prototype-dun-navire-de-guerre-modulaire-europeen) <span class="carte-meta">20 nov.</span>
 - [Patrouille maritime : la facture du futur avion PATMAR s'envole](../2026/11/2026-11-19.md#patrouille-maritime-la-facture-du-futur-avion-patmar-senvole) <span class="carte-meta">19 nov.</span>
 - [Allemagne : quatre frégates anti-sous-marines MEKO A-200 supplémentaires](../2026/11/2026-11-19.md#allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires) <span class="carte-meta">19 nov.</span>
 - [États-Unis : le Sénat taille dans le « cuirassé » de la Navy](../2026/11/2026-11-19.md#etats-unis-le-senat-taille-dans-le-cuirasse-de-la-navy) <span class="carte-meta">19 nov.</span>
