@@ -8,12 +8,15 @@ search:
 
 # marine
 
-29 actus sur ce thème · [tous les thèmes](../tags.md)
+32 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [La Marine nationale reçoit son troisième avion de surveillance maritime Albatros](../2026/11/2026-11-21.md#la-marine-nationale-recoit-son-troisieme-avion-de-surveillance-maritime-albatros) <span class="carte-meta">21 nov.</span>
+- [US Navy : le plan de construction navale coûterait bien plus que prévu (CBO)](../2026/11/2026-11-21.md#us-navy-le-plan-de-construction-navale-couterait-bien-plus-que-prevu-cbo) <span class="carte-meta">21 nov.</span>
+- [L'Argentine veut trois corvettes italiennes FCX20](../2026/11/2026-11-21.md#largentine-veut-trois-corvettes-italiennes-fcx20) <span class="carte-meta">21 nov.</span>
 - [Les États-Unis étendent leur blocus naval de l'Iran](../2026/11/2026-11-20.md#les-etats-unis-etendent-leur-blocus-naval-de-liran) <span class="carte-meta">20 nov.</span>
 - [US Navy : le Sénat sabre la construction navale au profit des munitions](../2026/11/2026-11-20.md#us-navy-le-senat-sabre-la-construction-navale-au-profit-des-munitions) <span class="carte-meta">20 nov.</span>
 - [EUROGUARD : l'Estonie lance le prototype d'un navire de guerre modulaire européen](../2026/11/2026-11-20.md#euroguard-lestonie-lance-le-prototype-dun-navire-de-guerre-modulaire-europeen) <span class="carte-meta">20 nov.</span>

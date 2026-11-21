@@ -8,12 +8,14 @@ search:
 
 # Afrique
 
-14 actus sur ce thème · [tous les thèmes](../tags.md)
+16 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Sahel : Crisis Group plaide pour négocier avec le JNIM](../2026/11/2026-11-21.md#sahel-crisis-group-plaide-pour-negocier-avec-le-jnim) <span class="carte-meta">21 nov.</span>
+- [Mali : une société militaire turque aux côtés de la junte](../2026/11/2026-11-21.md#mali-une-societe-militaire-turque-aux-cotes-de-la-junte) <span class="carte-meta">21 nov.</span>
 - [La Somalie expulse l'ambassadeur des Émirats arabes unis](../2026/11/2026-11-20.md#la-somalie-expulse-lambassadeur-des-emirats-arabes-unis) <span class="carte-meta">20 nov.</span>
 - [Sahara occidental : la Minurso quittera le terrain le 31 janvier](../2026/11/2026-11-19.md#sahara-occidental-la-minurso-quittera-le-terrain-le-31-janvier) <span class="carte-meta">19 nov.</span>
 - [Chagos : Maurice exige d'être associée aux discussions sur Diego Garcia](../2026/11/2026-11-19.md#chagos-maurice-exige-detre-associee-aux-discussions-sur-diego-garcia) <span class="carte-meta">19 nov.</span>

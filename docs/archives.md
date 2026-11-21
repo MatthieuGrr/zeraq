@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-9 veilles et 84 actus, de la plus récente à la plus ancienne.
+10 veilles et 93 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Samedi 21 novembre 2026**](2026/11/2026-11-21.md) <span class="carte-meta">9 actus</span>  
+Missiles russes tombés en Pologne, près d'un exercice de la… · Le Danemark accuse Moscou d'un projet d'assassinat et expulse… · Royaume-Uni et Union européenne : nouveaux accords post-Brexit · Sahel : Crisis Group plaide pour négocier avec le JNIM · Mali : une société militaire turque aux côtés de la junte · La Marine nationale reçoit son troisième avion de surveillance… · Obus de 155 mm : objectif 150 000 par an en 2029 · US Navy : le plan de construction navale coûterait bien plus que… · L'Argentine veut trois corvettes italiennes FCX20
 
 [**Vendredi 20 novembre 2026**](2026/11/2026-11-20.md) <span class="carte-meta">9 actus</span>  
 Rohingya : la CIJ reconnaît la Birmanie coupable de génocide · Ukraine : la coalition des volontaires se réunit à Berlin · Groenland : le Danemark ratifie l'accord renforçant la présence… · La Somalie expulse l'ambassadeur des Émirats arabes unis · Les États-Unis étendent leur blocus naval de l'Iran · US Navy : le Sénat sabre la construction navale au profit des… · Excalibur : premier exercice de « dissuasion avancée » franco-suédois · EUROGUARD : l'Estonie lance le prototype d'un navire de guerre… · Armées françaises : 72 000 fusils HK416F supplémentaires

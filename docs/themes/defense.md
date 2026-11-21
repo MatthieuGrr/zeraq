@@ -8,12 +8,19 @@ search:
 
 # défense
 
-36 actus sur ce thème · [tous les thèmes](../tags.md)
+43 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Missiles russes tombés en Pologne, près d'un exercice de la Coalition des volontaires](../2026/11/2026-11-21.md#missiles-russes-tombes-en-pologne-pres-dun-exercice-de-la-coalition-des-volontaires) <span class="carte-meta">21 nov.</span>
+- [Le Danemark accuse Moscou d'un projet d'assassinat et expulse l'attaché militaire russe](../2026/11/2026-11-21.md#le-danemark-accuse-moscou-dun-projet-dassassinat-et-expulse-lattache-militaire-russe) <span class="carte-meta">21 nov.</span>
+- [Sahel : Crisis Group plaide pour négocier avec le JNIM](../2026/11/2026-11-21.md#sahel-crisis-group-plaide-pour-negocier-avec-le-jnim) <span class="carte-meta">21 nov.</span>
+- [Mali : une société militaire turque aux côtés de la junte](../2026/11/2026-11-21.md#mali-une-societe-militaire-turque-aux-cotes-de-la-junte) <span class="carte-meta">21 nov.</span>
+- [La Marine nationale reçoit son troisième avion de surveillance maritime Albatros](../2026/11/2026-11-21.md#la-marine-nationale-recoit-son-troisieme-avion-de-surveillance-maritime-albatros) <span class="carte-meta">21 nov.</span>
+- [Obus de 155 mm : objectif 150 000 par an en 2029](../2026/11/2026-11-21.md#obus-de-155-mm-objectif-150-000-par-an-en-2029) <span class="carte-meta">21 nov.</span>
+- [L'Argentine veut trois corvettes italiennes FCX20](../2026/11/2026-11-21.md#largentine-veut-trois-corvettes-italiennes-fcx20) <span class="carte-meta">21 nov.</span>
 - [Rohingya : la CIJ reconnaît la Birmanie coupable de génocide](../2026/11/2026-11-20.md#rohingya-la-cij-reconnait-la-birmanie-coupable-de-genocide) <span class="carte-meta">20 nov.</span>
 - [Groenland : le Danemark ratifie l'accord renforçant la présence militaire américaine](../2026/11/2026-11-20.md#groenland-le-danemark-ratifie-laccord-renforcant-la-presence-militaire-americaine) <span class="carte-meta">20 nov.</span>
 - [US Navy : le Sénat sabre la construction navale au profit des munitions](../2026/11/2026-11-20.md#us-navy-le-senat-sabre-la-construction-navale-au-profit-des-munitions) <span class="carte-meta">20 nov.</span>

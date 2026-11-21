@@ -8,12 +8,14 @@ search:
 
 # Russie-Ukraine
 
-20 actus sur ce thème · [tous les thèmes](../tags.md)
+22 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Missiles russes tombés en Pologne, près d'un exercice de la Coalition des volontaires](../2026/11/2026-11-21.md#missiles-russes-tombes-en-pologne-pres-dun-exercice-de-la-coalition-des-volontaires) <span class="carte-meta">21 nov.</span>
+- [Le Danemark accuse Moscou d'un projet d'assassinat et expulse l'attaché militaire russe](../2026/11/2026-11-21.md#le-danemark-accuse-moscou-dun-projet-dassassinat-et-expulse-lattache-militaire-russe) <span class="carte-meta">21 nov.</span>
 - [Ukraine : la coalition des volontaires se réunit à Berlin](../2026/11/2026-11-20.md#ukraine-la-coalition-des-volontaires-se-reunit-a-berlin) <span class="carte-meta">20 nov.</span>
 - [Shenzhen : première rencontre à trois entre les dirigeants américain, chinois et russe](../2026/11/2026-11-19.md#shenzhen-premiere-rencontre-a-trois-entre-les-dirigeants-americain-chinois-et-russe) <span class="carte-meta">19 nov.</span>
 - [Shenzhen : Xi Jinping réunit Trump et Poutine en marge de l'Apec](../2026/11/2026-11-18.md#shenzhen-xi-jinping-reunit-trump-et-poutine-en-marge-de-lapec) <span class="carte-meta">18 nov.</span>
