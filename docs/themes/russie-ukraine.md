@@ -8,12 +8,15 @@ search:
 
 # Russie-Ukraine
 
-22 actus sur ce thème · [tous les thèmes](../tags.md)
+25 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Robots tueurs : un accord a minima à Genève](../2026/11/2026-11-22.md#robots-tueurs-un-accord-a-minima-a-geneve) <span class="carte-meta">22 nov.</span>
+- [Baltique : un cargo russe sanctionné touché par un drone au large de la Finlande](../2026/11/2026-11-22.md#baltique-un-cargo-russe-sanctionne-touche-par-un-drone-au-large-de-la-finlande) <span class="carte-meta">22 nov.</span>
+- [Mer Noire : Londres et Oslo financent deux vedettes d'attaque rapides pour l'Ukraine](../2026/11/2026-11-22.md#mer-noire-londres-et-oslo-financent-deux-vedettes-dattaque-rapides-pour-lukraine) <span class="carte-meta">22 nov.</span>
 - [Missiles russes tombés en Pologne, près d'un exercice de la Coalition des volontaires](../2026/11/2026-11-21.md#missiles-russes-tombes-en-pologne-pres-dun-exercice-de-la-coalition-des-volontaires) <span class="carte-meta">21 nov.</span>
 - [Le Danemark accuse Moscou d'un projet d'assassinat et expulse l'attaché militaire russe](../2026/11/2026-11-21.md#le-danemark-accuse-moscou-dun-projet-dassassinat-et-expulse-lattache-militaire-russe) <span class="carte-meta">21 nov.</span>
 - [Ukraine : la coalition des volontaires se réunit à Berlin](../2026/11/2026-11-20.md#ukraine-la-coalition-des-volontaires-se-reunit-a-berlin) <span class="carte-meta">20 nov.</span>

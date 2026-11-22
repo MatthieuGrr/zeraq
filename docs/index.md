@@ -15,111 +15,122 @@ search:
 *Zeraq*, le quart de minuit à quatre heures, celui qui demande le plus d'attention : chaque matin, l'essentiel en géopolitique, défense et affaires maritimes, résumé en quelques lignes et toujours sourcé.
 { .hero-baseline }
 
-[Lire la veille du jour](2026/11/2026-11-21.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
+[Lire la veille du jour](2026/11/2026-11-22.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
 { .hero-actions }
 
 </div>
 
-## [Samedi 21 novembre 2026](2026/11/2026-11-21.md) { .jour }
+## [Dimanche 22 novembre 2026](2026/11/2026-11-22.md) { .jour }
 
-**9 actus** · 4 min de lecture
+**10 actus** · 4 min de lecture
 { .veille-meta }
 
 <section class="actu" markdown>
 
-### Missiles russes tombés en Pologne, près d'un exercice de la Coalition des volontaires { #missiles-russes-tombes-en-pologne-pres-dun-exercice-de-la-coalition-des-volontaires data-fav="2026/11/2026-11-21/#missiles-russes-tombes-en-pologne-pres-dun-exercice-de-la-coalition-des-volontaires" }
+### Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel { #golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel data-fav="2026/11/2026-11-22/#golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel" }
 
-Dans la nuit du 19 au 20 novembre, en représailles aux frappes ukrainiennes sur le pont de Kertch, la Russie a lancé contre l'Ukraine environ 80 missiles de croisière, 20 missiles balistiques et 400 drones ; Kiev compte au moins six morts et trois ponts touchés. Deux missiles de croisière, dont au moins un Kh-101, et un drone à réaction sont tombés dans les régions de Lublin et des Basses-Carpates, non loin de Nowa Dęba, où se déroule l'exercice KOALICJA 26.2 (2 800 militaires de onze pays, dont 1 000 Français, sous commandement franco-britannique). Le ministre polonais de la Défense y voit un lien avec l'exercice ; le secrétaire général de l'OTAN, Mark Rutte, est attendu à Varsovie ce samedi 21 novembre.
+Une frappe iranienne a provoqué samedi 21 novembre un incendie sur un site « industriel civil » à Bahreïn, sans faire de blessés selon Manama ; des habitants ont vu de la fumée au-dessus de l'île de Sitra, qui abrite notamment la raffinerie de la compagnie publique Bapco. C'est la cinquième attaque contre le royaume depuis la mi-novembre. Téhéran dit riposter aux frappes américaines contre l'île de Qechm, dans le détroit d'Ormuz, et affirme avoir visé les bases américaines de Cheikh Issa et d'Al-Jufair. La guerre a été déclenchée fin février par des frappes israélo-américaines contre l'Iran.
 
-[Zone Militaire](https://www.opex360.com/2026/11/20/deux-missiles-et-un-drone-dattaque-russes-sont-tombes-en-pologne-pres-de-la-zone-ou-se-deroule-lexercice-koalicja/){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/article/2026/11/20/apres-que-des-missiles-russes-se-sont-ecrases-en-pologne-le-premier-ministre-donald-tusk-annonce-des-mois-de-grands-defis-pour-nous-tous_6813699_3210.html){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
+[RFI](https://www.rfi.fr/fr/moyen-orient/20261121-bahre%C3%AFn-accuse-l-iran-d-avoir-men%C3%A9-une-frappe-contre-un-de-ses-sites-industriels){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/21/bahrein-accuse-l-iran-d-avoir-frappe-l-un-de-ses-sites-industriels_6814069_6325529.html){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Le Danemark accuse Moscou d'un projet d'assassinat et expulse l'attaché militaire russe { #le-danemark-accuse-moscou-dun-projet-dassassinat-et-expulse-lattache-militaire-russe data-fav="2026/11/2026-11-21/#le-danemark-accuse-moscou-dun-projet-dassassinat-et-expulse-lattache-militaire-russe" }
+### Israël : Gadi Eisenkot invite le Likoud à négocier une coalition { #israel-gadi-eisenkot-invite-le-likoud-a-negocier-une-coalition data-fav="2026/11/2026-11-22/#israel-gadi-eisenkot-invite-le-likoud-a-negocier-une-coalition" }
 
-Selon Copenhague, les services de renseignement russes avaient planifié le meurtre d'un rappeur ukrainien réfugié au Danemark, Albert Vasiliev (« Kyivstoner »), en recourant au gang danois Loyal to Familia. Le ministre des Affaires étrangères a annoncé le 20 novembre l'expulsion de l'attaché militaire russe. L'affaire s'ajoute à la série d'actions hybrides (sabotages, intimidations, recours à des criminels locaux) attribuées à la Russie en Europe.
+Chargé de former le gouvernement, Gadi Eisenkot a invité le parti de Benyamin Nétanyahou à des négociations de coalition. Les législatives de fin octobre n'ont donné de majorité absolue ni à son camp ni à celui du premier ministre sortant, et il a jusqu'au mois prochain pour aboutir.
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [défense](themes/defense.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/21/israel-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_6814066_3210.html){ .src target="_blank" rel="noopener" } [Moyen-Orient](themes/moyen-orient.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Royaume-Uni et Union européenne : nouveaux accords post-Brexit { #royaume-uni-et-union-europeenne-nouveaux-accords-post-brexit data-fav="2026/11/2026-11-21/#royaume-uni-et-union-europeenne-nouveaux-accords-post-brexit" }
+### Espagne : le PP et Vox pourraient obtenir la majorité absolue le 29 novembre { #espagne-le-pp-et-vox-pourraient-obtenir-la-majorite-absolue-le-29-novembre data-fav="2026/11/2026-11-22/#espagne-le-pp-et-vox-pourraient-obtenir-la-majorite-absolue-le-29-novembre" }
 
-Londres et Bruxelles ont conclu des accords sur la taxe carbone aux frontières, la mobilité des jeunes et le rétablissement d'un espace sanitaire et phytosanitaire commun, qui faciliterait les échanges agricoles. Ces textes restent toutefois suspendus à une dernière négociation, sur l'allègement des frais de scolarité des étudiants européens dans les universités britanniques. C'est l'étape la plus concrète du rapprochement engagé depuis le Brexit.
+À une semaine des législatives, un sondage Cluster 17 donne le Parti populaire (30,4 %) au coude-à-coude avec le PSOE de Pedro Sánchez (29,9 %), et Vox à 18,4 %, contre 12,4 % en 2023. Avec environ 125 et 65 sièges, le PP et Vox dépasseraient la majorité absolue, alors que la gauche plafonnerait à 150 sièges. Après huit ans au pouvoir, Sánchez pourrait être battu ; son gouvernement s'opposait notamment à la hausse des dépenses de défense.
 
-[Le Monde](https://www.lemonde.fr/international/article/2026/11/20/au-terme-de-longues-negociations-le-royaume-uni-et-l-union-europeenne-font-un-pas-l-un-vers-l-autre_6813690_3210.html){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag }
+[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/22/en-espagne-vox-est-aux-portes-du-pouvoir/){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Sahel : Crisis Group plaide pour négocier avec le JNIM { #sahel-crisis-group-plaide-pour-negocier-avec-le-jnim data-fav="2026/11/2026-11-21/#sahel-crisis-group-plaide-pour-negocier-avec-le-jnim" }
+### Robots tueurs : un accord a minima à Genève { #robots-tueurs-un-accord-a-minima-a-geneve data-fav="2026/11/2026-11-22/#robots-tueurs-un-accord-a-minima-a-geneve" }
 
-Dans un rapport publié le 20 novembre, l'International Crisis Group recommande aux juntes du Mali, du Burkina Faso et du Niger (Alliance des États du Sahel) d'ouvrir des négociations avec le JNIM, affilié à al-Qaïda, jugeant cette voie « la moins préjudiciable » pour les populations. Les attaques du 25 avril contre sept villes maliennes, au cours desquelles le ministre de la Défense Sadio Camara a été tué, ont placé Bamako « au bord du gouffre », et le JNIM appelle désormais ouvertement au renversement des régimes militaires. Les armées sahéliennes concentrent leurs efforts sur la défense des villes et l'escorte des convois de carburant.
+À Genève, les 128 États parties à la Convention sur certaines armes classiques ont convenu samedi d'« élaborer » en deux ans un instrument international sur les systèmes d'armes létaux autonomes. Le mot « négocier » a été écarté. Les États-Unis, la Russie et Israël s'opposent à un traité juridiquement contraignant, et les ONG jugent le mandat « édulcoré ».
 
-[RFI](https://www.rfi.fr/fr/afrique/20261120-international-crisis-group-recommande-des-n%C3%A9gociations-entre-les-r%C3%A9gimes-militaires-sah%C3%A9liens-et-le-jnim){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
+[RFI](https://www.rfi.fr/fr/monde/20261121-robots-tueurs-un-accord-%C3%A0-l-onu-en-vue-d-un-possible-encadrement-international){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Moyen-Orient](themes/moyen-orient.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Mali : une société militaire turque aux côtés de la junte { #mali-une-societe-militaire-turque-aux-cotes-de-la-junte data-fav="2026/11/2026-11-21/#mali-une-societe-militaire-turque-aux-cotes-de-la-junte" }
+### Mali : le JNIM attaque l'armée et l'Africa Corps près de Niono { #mali-le-jnim-attaque-larmee-et-lafrica-corps-pres-de-niono data-fav="2026/11/2026-11-22/#mali-le-jnim-attaque-larmee-et-lafrica-corps-pres-de-niono" }
 
-Des instructeurs de la société turque Equipped Tactical Academy ont formé fin 2025 des éléments des forces spéciales maliennes, révèle Le Monde. La Russie reste le premier partenaire de défense de Bamako, avec environ 2 000 militaires de l'Africa Corps, mais la Turquie s'affirme comme un soutien fiable du régime d'Assimi Goïta.
+Samedi, dans la région de Ségou (centre du Mali), le JNIM, affilié à Al-Qaïda, a attaqué au moins deux positions : un camp de l'armée malienne à Niono et une position de l'Africa Corps russe, où un engin explosif improvisé a détruit un blindé. L'armée conteste les bilans revendiqués par les jihadistes. Des sources sécuritaires régionales s'inquiètent de l'afflux d'armes venues de Libye vers les groupes sahéliens.
 
-[Le Monde](https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Afrique](themes/afrique.md){ .tag }
+[RFI](https://www.rfi.fr/fr/afrique/20261122-mali-des-jihadistes-du-jnim-attaquent-l-arm%C3%A9e-et-ses-suppl%C3%A9tifs-dans-la-r%C3%A9gion-de-s%C3%A9gou){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### La Marine nationale reçoit son troisième avion de surveillance maritime Albatros { #la-marine-nationale-recoit-son-troisieme-avion-de-surveillance-maritime-albatros data-fav="2026/11/2026-11-21/#la-marine-nationale-recoit-son-troisieme-avion-de-surveillance-maritime-albatros" }
+### Le SNA De Grasse admis au service actif { #le-sna-de-grasse-admis-au-service-actif data-fav="2026/11/2026-11-22/#le-sna-de-grasse-admis-au-service-actif" }
 
-La DGA a livré le 16 novembre le troisième Falcon 2000 Albatros du programme AVSIMAR, respectant l'objectif de trois appareils en 2026. Affectés à la flottille 24F de Lann-Bihoué, ces avions sont dédiés à la surveillance et à l'intervention maritimes. La LPM actualisée prévoit onze Albatros et un Falcon 50M « Triton » d'ici 2030, tous livrés avant 2035, complétés par des drones.
+Le chef d'état-major de la Marine, l'amiral Christophe Cluzel, a prononcé le 20 novembre l'admission au service actif du De Grasse, quatrième sous-marin nucléaire d'attaque de la classe Suffren (programme Barracuda). Il n'a fallu que cinq mois après sa livraison du 25 juin, contre environ sept pour les trois premiers. Pendant son déploiement de longue durée, il est allé dans les eaux polaires, a fait escale à Tromsø et s'est rendu à Norfolk.
 
-[Zone Militaire](https://www.opex360.com/2026/11/20/comme-prevu-la-marine-nationale-a-recu-son-troisieme-avion-de-surveillance-maritime-albatros-en-2026/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/21/le-sous-marin-nucleaire-dattaque-de-grasse-a-ete-officiellement-admis-au-service-actif/){ .src target="_blank" rel="noopener" } [Naval News](https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Obus de 155 mm : objectif 150 000 par an en 2029 { #obus-de-155-mm-objectif-150-000-par-an-en-2029 data-fav="2026/11/2026-11-21/#obus-de-155-mm-objectif-150-000-par-an-en-2029" }
+### Baltique : un cargo russe sanctionné touché par un drone au large de la Finlande { #baltique-un-cargo-russe-sanctionne-touche-par-un-drone-au-large-de-la-finlande data-fav="2026/11/2026-11-22/#baltique-un-cargo-russe-sanctionne-touche-par-un-drone-au-large-de-la-finlande" }
 
-Le ministère des Armées a commandé à KNDS Ammo France une forte extension de son usine de La Chapelle-Saint-Ursin (Cher) : nouvelle coulée d'explosifs et deux unités d'usinage, pour passer de 60 000 à 150 000 obus par an d'ici 2029. La production était d'environ 500 obus par an entre 2012 et 2017 et de 30 000 en 2022. Une commande de 50 000 obus pour l'armée de Terre, livrables en 2029-2030, donne de la visibilité à l'industriel et doit reconstituer les stocks.
+Samedi, le cargo russe Sparta II a été endommagé et a pris feu après une attaque de drone dans les eaux internationales du golfe de Finlande. Ce navire, sanctionné par les États-Unis et l'Ukraine, est soupçonné d'avoir transporté des armes de Syrie vers la Russie. Quelques heures plus tard, un hélicoptère russe est soupçonné d'avoir pénétré de 4,1 km dans l'espace aérien finlandais, au large de Loviisa. Selon Helsinki, ce survol pourrait être lié à des opérations de secours ou de surveillance.
 
-[Zone Militaire](https://www.opex360.com/2026/11/20/le-ministere-des-armees-porter-la-production-dobus-de-155-mm-a-150-000-exemplaires-par-an-dici-2029/){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [industrie](themes/industrie.md){ .tag }
+[RFI](https://www.rfi.fr/fr/europe/20261121-cargo-russe-cibl%C3%A9-et-survol-d-h%C3%A9licopt%C3%A8re-la-finlande-signale-une-s%C3%A9rie-d-incidents){ .src target="_blank" rel="noopener" } [Le Monde](https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-le-point-sur-l-attaque-par-drone-d-un-cargo-russe-en-mer-baltique-la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_6810982_3210.html){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### US Navy : le plan de construction navale coûterait bien plus que prévu (CBO) { #us-navy-le-plan-de-construction-navale-couterait-bien-plus-que-prevu-cbo data-fav="2026/11/2026-11-21/#us-navy-le-plan-de-construction-navale-couterait-bien-plus-que-prevu-cbo" }
+### Mer Noire : Londres et Oslo financent deux vedettes d'attaque rapides pour l'Ukraine { #mer-noire-londres-et-oslo-financent-deux-vedettes-dattaque-rapides-pour-lukraine data-fav="2026/11/2026-11-22/#mer-noire-londres-et-oslo-financent-deux-vedettes-dattaque-rapides-pour-lukraine" }
 
-Selon le Congressional Budget Office, le plan de construction navale 2027 de l'US Navy exigerait en moyenne 53,8 milliards de dollars par an, soit 41 % de plus que les 38,1 milliards obtenus chaque année depuis cinq ans. Pour les seuls navires neufs, le CBO estime le coût sur 30 ans à 1 470 milliards de dollars, contre 1 230 milliards selon la Navy. Un niveau inédit depuis le réarmement de l'ère Reagan, alors que le Sénat veut déjà réduire les crédits de construction navale.
+Le Royaume-Uni et la Norvège vont financer à parts égales, pour plus de 100 millions de livres, deux vedettes d'attaque rapides de 30 m construites au Royaume-Uni pour la marine ukrainienne. Armées de défense aérienne et de missiles, elles devront protéger le corridor céréalier de la mer Noire. Le programme passe par la Maritime Capability Coalition, que les deux pays codirigent.
 
-[Breaking Defense](https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo/){ .src target="_blank" rel="noopener" } [USNI News](https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/uk-and-norway-commit-over-100m-for-two-new-fast-attack-craft-for-ukraine/){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### L'Argentine veut trois corvettes italiennes FCX20 { #largentine-veut-trois-corvettes-italiennes-fcx20 data-fav="2026/11/2026-11-21/#largentine-veut-trois-corvettes-italiennes-fcx20" }
+### Moyen-Orient : le Theodore Roosevelt relève le George Washington { #moyen-orient-le-theodore-roosevelt-releve-le-george-washington data-fav="2026/11/2026-11-22/#moyen-orient-le-theodore-roosevelt-releve-le-george-washington" }
 
-Le 18 novembre, le ministre argentin de la Défense a signé avec son homologue italien une lettre d'intention pour l'achat de trois corvettes FCX20 de Fincantieri. L'Armada Argentina, qui doit surveiller une ZEE de plus d'un million de km², aligne surtout des frégates MEKO 360 et des corvettes MEKO 140 conçues dans les années 1980, ainsi que quatre patrouilleurs Gowind de Naval Group. Le choix de trois sous-marins, où le Scorpène français avait la préférence, reste bloqué par le financement, ce qui pourrait profiter à l'allemand TKMS.
+Le porte-avions USS Theodore Roosevelt est entré dans la zone de la 5e flotte vers le 15 novembre et a brièvement porté à trois le nombre de porte-avions américains dans la région. Le George Washington est reparti vers le Japon : il reste donc deux groupes aéronavals, avec le George H.W. Bush. Le secrétaire à la Navy par intérim a prévenu le Sénat que l'US Navy ne disposerait que de neuf porte-avions pendant cinq ans, au lieu des onze exigés par la loi.
 
-[Zone Militaire](https://www.opex360.com/2026/11/20/largentine-envisage-lachat-de-trois-corvettes-fcx20-aupres-de-litalie/){ .src target="_blank" rel="noopener" } [Naval News](https://www.navalnews.com/naval-news/2026/11/argentine-navy-interested-in-acquiring-up-to-three-fcx20-corvettes/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
+[The War Zone](https://www.twz.com/sea/theodore-roosevelt-strike-group-arrives-in-the-middle-east-relieving-uss-george-washington){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
+{ .actu-foot }
+
+</section>
+
+<section class="actu" markdown>
+
+### Paris et Londres préparent le successeur du missile Meteor { #paris-et-londres-preparent-le-successeur-du-missile-meteor data-fav="2026/11/2026-11-22/#paris-et-londres-preparent-le-successeur-du-missile-meteor" }
+
+Une étude franco-britannique doit livrer d'ici l'été 2027 une « feuille de route » pour un missile air-air à très longue portée qui succédera au Meteor. Les deux pays ont renoncé à rénover le Meteor à mi-vie, car sa portée est désormais dépassée par celle des derniers missiles chinois et russes. La France lance en parallèle le programme intérimaire COMETE, alors que les États-Unis développent au moins quatre projets de ce type.
+
+[Zone Militaire](https://www.opex360.com/2026/11/21/la-france-et-le-royaume-uni-preparent-une-feuille-de-route-pour-developper-le-successeur-du-missile-air-air-meteor/){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Europe](themes/europe.md){ .tag }
 { .actu-foot }
 
 </section>
@@ -127,6 +138,13 @@ Le 18 novembre, le ministre argentin de la Défense a signé avec son homologue 
 ## Veilles précédentes
 
 <div class="cartes" markdown>
+
+- [**Samedi 21 novembre 2026**](2026/11/2026-11-21.md) <span class="carte-meta">9 actus · 4 min</span>
+
+    - Missiles russes tombés en Pologne, près d'un exercice de la Coalition des volontaires
+    - Le Danemark accuse Moscou d'un projet d'assassinat et expulse l'attaché militaire russe
+    - Royaume-Uni et Union européenne : nouveaux accords post-Brexit
+    - *et 6 autres…*
 
 - [**Vendredi 20 novembre 2026**](2026/11/2026-11-20.md) <span class="carte-meta">9 actus · 4 min</span>
 
@@ -163,16 +181,9 @@ Le 18 novembre, le ministre argentin de la Défense a signé avec son homologue 
     - Yémen : les houthistes à 60 km d'Aden, Bab el-Mandeb dégarni
     - *et 7 autres…*
 
-- [**Dimanche 15 novembre 2026**](2026/11/2026-11-15.md) <span class="carte-meta">8 actus · 4 min</span>
-
-    - Ukraine : Moscou durcit ses exigences, Washington évoque l'OTAN contre le Donbass
-    - Libye : l'Égypte prend ses distances avec le clan Haftar
-    - Nigeria : la commission électorale contestée à deux mois du scrutin
-    - *et 5 autres…*
-
 </div>
 
-[Les 10 veilles dans les archives →](archives.md){ .lien-suite }
+[Les 11 veilles dans les archives →](archives.md){ .lien-suite }
 
 <p class="a-propos" markdown>
 Zeraq est une veille automatisée : les résumés sont rédigés par un assistant IA à partir des articles cités sous chaque actu. [Voir les sources suivies](sources.md).

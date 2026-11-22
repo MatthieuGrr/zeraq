@@ -8,12 +8,15 @@ search:
 
 # Moyen-Orient
 
-9 actus sur ce thème · [tous les thèmes](../tags.md)
+12 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel](../2026/11/2026-11-22.md#golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel) <span class="carte-meta">22 nov.</span>
+- [Israël : Gadi Eisenkot invite le Likoud à négocier une coalition](../2026/11/2026-11-22.md#israel-gadi-eisenkot-invite-le-likoud-a-negocier-une-coalition) <span class="carte-meta">22 nov.</span>
+- [Robots tueurs : un accord a minima à Genève](../2026/11/2026-11-22.md#robots-tueurs-un-accord-a-minima-a-geneve) <span class="carte-meta">22 nov.</span>
 - [La Somalie expulse l'ambassadeur des Émirats arabes unis](../2026/11/2026-11-20.md#la-somalie-expulse-lambassadeur-des-emirats-arabes-unis) <span class="carte-meta">20 nov.</span>
 - [Les États-Unis étendent leur blocus naval de l'Iran](../2026/11/2026-11-20.md#les-etats-unis-etendent-leur-blocus-naval-de-liran) <span class="carte-meta">20 nov.</span>
 - [Golfe : l'Iran étend ses frappes au Koweït après une attaque américaine sur l'île de Qeshm](../2026/11/2026-11-19.md#golfe-liran-etend-ses-frappes-au-koweit-apres-une-attaque-americaine-sur-lile-de-qeshm) <span class="carte-meta">19 nov.</span>

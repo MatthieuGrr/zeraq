@@ -8,12 +8,14 @@ search:
 
 # Amériques
 
-21 actus sur ce thème · [tous les thèmes](../tags.md)
+23 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel](../2026/11/2026-11-22.md#golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel) <span class="carte-meta">22 nov.</span>
+- [Moyen-Orient : le Theodore Roosevelt relève le George Washington](../2026/11/2026-11-22.md#moyen-orient-le-theodore-roosevelt-releve-le-george-washington) <span class="carte-meta">22 nov.</span>
 - [US Navy : le plan de construction navale coûterait bien plus que prévu (CBO)](../2026/11/2026-11-21.md#us-navy-le-plan-de-construction-navale-couterait-bien-plus-que-prevu-cbo) <span class="carte-meta">21 nov.</span>
 - [Ukraine : la coalition des volontaires se réunit à Berlin](../2026/11/2026-11-20.md#ukraine-la-coalition-des-volontaires-se-reunit-a-berlin) <span class="carte-meta">20 nov.</span>
 - [Groenland : le Danemark ratifie l'accord renforçant la présence militaire américaine](../2026/11/2026-11-20.md#groenland-le-danemark-ratifie-laccord-renforcant-la-presence-militaire-americaine) <span class="carte-meta">20 nov.</span>

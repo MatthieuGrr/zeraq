@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-10 veilles et 93 actus, de la plus récente à la plus ancienne.
+11 veilles et 103 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Dimanche 22 novembre 2026**](2026/11/2026-11-22.md) <span class="carte-meta">10 actus</span>  
+Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel · Israël : Gadi Eisenkot invite le Likoud à négocier une coalition · Espagne : le PP et Vox pourraient obtenir la majorité absolue le 29… · Robots tueurs : un accord a minima à Genève · Mali : le JNIM attaque l'armée et l'Africa Corps près de Niono · Le SNA De Grasse admis au service actif · Baltique : un cargo russe sanctionné touché par un drone au large de… · Mer Noire : Londres et Oslo financent deux vedettes d'attaque… · Moyen-Orient : le Theodore Roosevelt relève le George Washington · Paris et Londres préparent le successeur du missile Meteor
 
 [**Samedi 21 novembre 2026**](2026/11/2026-11-21.md) <span class="carte-meta">9 actus</span>  
 Missiles russes tombés en Pologne, près d'un exercice de la… · Le Danemark accuse Moscou d'un projet d'assassinat et expulse… · Royaume-Uni et Union européenne : nouveaux accords post-Brexit · Sahel : Crisis Group plaide pour négocier avec le JNIM · Mali : une société militaire turque aux côtés de la junte · La Marine nationale reçoit son troisième avion de surveillance… · Obus de 155 mm : objectif 150 000 par an en 2029 · US Navy : le plan de construction navale coûterait bien plus que… · L'Argentine veut trois corvettes italiennes FCX20

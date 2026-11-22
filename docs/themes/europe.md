@@ -8,12 +8,13 @@ search:
 
 # Europe
 
-11 actus sur ce thème · [tous les thèmes](../tags.md)
+12 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Paris et Londres préparent le successeur du missile Meteor](../2026/11/2026-11-22.md#paris-et-londres-preparent-le-successeur-du-missile-meteor) <span class="carte-meta">22 nov.</span>
 - [Royaume-Uni et Union européenne : nouveaux accords post-Brexit](../2026/11/2026-11-21.md#royaume-uni-et-union-europeenne-nouveaux-accords-post-brexit) <span class="carte-meta">21 nov.</span>
 - [EUROGUARD : l'Estonie lance le prototype d'un navire de guerre modulaire européen](../2026/11/2026-11-20.md#euroguard-lestonie-lance-le-prototype-dun-navire-de-guerre-modulaire-europeen) <span class="carte-meta">20 nov.</span>
 - [Allemagne : quatre frégates anti-sous-marines MEKO A-200 supplémentaires](../2026/11/2026-11-19.md#allemagne-quatre-fregates-anti-sous-marines-meko-a-200-supplementaires) <span class="carte-meta">19 nov.</span>

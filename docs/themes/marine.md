@@ -8,12 +8,15 @@ search:
 
 # marine
 
-32 actus sur ce thème · [tous les thèmes](../tags.md)
+35 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Le SNA De Grasse admis au service actif](../2026/11/2026-11-22.md#le-sna-de-grasse-admis-au-service-actif) <span class="carte-meta">22 nov.</span>
+- [Mer Noire : Londres et Oslo financent deux vedettes d'attaque rapides pour l'Ukraine](../2026/11/2026-11-22.md#mer-noire-londres-et-oslo-financent-deux-vedettes-dattaque-rapides-pour-lukraine) <span class="carte-meta">22 nov.</span>
+- [Moyen-Orient : le Theodore Roosevelt relève le George Washington](../2026/11/2026-11-22.md#moyen-orient-le-theodore-roosevelt-releve-le-george-washington) <span class="carte-meta">22 nov.</span>
 - [La Marine nationale reçoit son troisième avion de surveillance maritime Albatros](../2026/11/2026-11-21.md#la-marine-nationale-recoit-son-troisieme-avion-de-surveillance-maritime-albatros) <span class="carte-meta">21 nov.</span>
 - [US Navy : le plan de construction navale coûterait bien plus que prévu (CBO)](../2026/11/2026-11-21.md#us-navy-le-plan-de-construction-navale-couterait-bien-plus-que-prevu-cbo) <span class="carte-meta">21 nov.</span>
 - [L'Argentine veut trois corvettes italiennes FCX20](../2026/11/2026-11-21.md#largentine-veut-trois-corvettes-italiennes-fcx20) <span class="carte-meta">21 nov.</span>
