@@ -8,12 +8,15 @@ search:
 
 # marine
 
-35 actus sur ce thème · [tous les thèmes](../tags.md)
+38 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Ukraine : au moins une douzaine de morts dans des frappes russes autour de Kiev](../2026/11/2026-11-23.md#ukraine-au-moins-une-douzaine-de-morts-dans-des-frappes-russes-autour-de-kiev) <span class="carte-meta">23 nov.</span>
+- [Libye : une corvette russe détruite par des drones navals à Benghazi](../2026/11/2026-11-23.md#libye-une-corvette-russe-detruite-par-des-drones-navals-a-benghazi) <span class="carte-meta">23 nov.</span>
+- [US Navy : un troisième Zumwalt recevra des missiles hypersoniques](../2026/11/2026-11-23.md#us-navy-un-troisieme-zumwalt-recevra-des-missiles-hypersoniques) <span class="carte-meta">23 nov.</span>
 - [Le SNA De Grasse admis au service actif](../2026/11/2026-11-22.md#le-sna-de-grasse-admis-au-service-actif) <span class="carte-meta">22 nov.</span>
 - [Mer Noire : Londres et Oslo financent deux vedettes d'attaque rapides pour l'Ukraine](../2026/11/2026-11-22.md#mer-noire-londres-et-oslo-financent-deux-vedettes-dattaque-rapides-pour-lukraine) <span class="carte-meta">22 nov.</span>
 - [Moyen-Orient : le Theodore Roosevelt relève le George Washington](../2026/11/2026-11-22.md#moyen-orient-le-theodore-roosevelt-releve-le-george-washington) <span class="carte-meta">22 nov.</span>

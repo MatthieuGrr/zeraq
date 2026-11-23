@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-11 veilles et 103 actus, de la plus récente à la plus ancienne.
+12 veilles et 111 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Lundi 23 novembre 2026**](2026/11/2026-11-23.md) <span class="carte-meta">8 actus</span>  
+Ukraine : au moins une douzaine de morts dans des frappes russes… · Soudan : drones sur Khartoum, l'Éthiopie mise en cause · Climat : la COP31 d'Antalya s'achève sans accord · Israël : pas d'accord entre Eisenkot et le Likoud · Grands Lacs : mini-sommet d'Oyo pour réconcilier la RDC et le Kenya · Libye : une corvette russe détruite par des drones navals à Benghazi · Le Rafale opère pour la première fois depuis une autoroute finlandaise · US Navy : un troisième Zumwalt recevra des missiles hypersoniques
 
 [**Dimanche 22 novembre 2026**](2026/11/2026-11-22.md) <span class="carte-meta">10 actus</span>  
 Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel · Israël : Gadi Eisenkot invite le Likoud à négocier une coalition · Espagne : le PP et Vox pourraient obtenir la majorité absolue le 29… · Robots tueurs : un accord a minima à Genève · Mali : le JNIM attaque l'armée et l'Africa Corps près de Niono · Le SNA De Grasse admis au service actif · Baltique : un cargo russe sanctionné touché par un drone au large de… · Mer Noire : Londres et Oslo financent deux vedettes d'attaque… · Moyen-Orient : le Theodore Roosevelt relève le George Washington · Paris et Londres préparent le successeur du missile Meteor

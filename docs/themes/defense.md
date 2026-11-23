@@ -8,12 +8,15 @@ search:
 
 # défense
 
-47 actus sur ce thème · [tous les thèmes](../tags.md)
+50 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Soudan : drones sur Khartoum, l'Éthiopie mise en cause](../2026/11/2026-11-23.md#soudan-drones-sur-khartoum-lethiopie-mise-en-cause) <span class="carte-meta">23 nov.</span>
+- [Le Rafale opère pour la première fois depuis une autoroute finlandaise](../2026/11/2026-11-23.md#le-rafale-opere-pour-la-premiere-fois-depuis-une-autoroute-finlandaise) <span class="carte-meta">23 nov.</span>
+- [US Navy : un troisième Zumwalt recevra des missiles hypersoniques](../2026/11/2026-11-23.md#us-navy-un-troisieme-zumwalt-recevra-des-missiles-hypersoniques) <span class="carte-meta">23 nov.</span>
 - [Espagne : le PP et Vox pourraient obtenir la majorité absolue le 29 novembre](../2026/11/2026-11-22.md#espagne-le-pp-et-vox-pourraient-obtenir-la-majorite-absolue-le-29-novembre) <span class="carte-meta">22 nov.</span>
 - [Mali : le JNIM attaque l'armée et l'Africa Corps près de Niono](../2026/11/2026-11-22.md#mali-le-jnim-attaque-larmee-et-lafrica-corps-pres-de-niono) <span class="carte-meta">22 nov.</span>
 - [Baltique : un cargo russe sanctionné touché par un drone au large de la Finlande](../2026/11/2026-11-22.md#baltique-un-cargo-russe-sanctionne-touche-par-un-drone-au-large-de-la-finlande) <span class="carte-meta">22 nov.</span>

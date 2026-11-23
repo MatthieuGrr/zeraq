@@ -8,12 +8,14 @@ search:
 
 # Europe
 
-12 actus sur ce thème · [tous les thèmes](../tags.md)
+14 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Climat : la COP31 d'Antalya s'achève sans accord](../2026/11/2026-11-23.md#climat-la-cop31-dantalya-sacheve-sans-accord) <span class="carte-meta">23 nov.</span>
+- [Le Rafale opère pour la première fois depuis une autoroute finlandaise](../2026/11/2026-11-23.md#le-rafale-opere-pour-la-premiere-fois-depuis-une-autoroute-finlandaise) <span class="carte-meta">23 nov.</span>
 - [Paris et Londres préparent le successeur du missile Meteor](../2026/11/2026-11-22.md#paris-et-londres-preparent-le-successeur-du-missile-meteor) <span class="carte-meta">22 nov.</span>
 - [Royaume-Uni et Union européenne : nouveaux accords post-Brexit](../2026/11/2026-11-21.md#royaume-uni-et-union-europeenne-nouveaux-accords-post-brexit) <span class="carte-meta">21 nov.</span>
 - [EUROGUARD : l'Estonie lance le prototype d'un navire de guerre modulaire européen](../2026/11/2026-11-20.md#euroguard-lestonie-lance-le-prototype-dun-navire-de-guerre-modulaire-europeen) <span class="carte-meta">20 nov.</span>

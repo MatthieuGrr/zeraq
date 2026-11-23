@@ -8,12 +8,14 @@ search:
 
 # Russie-Ukraine
 
-25 actus sur ce thème · [tous les thèmes](../tags.md)
+27 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Ukraine : au moins une douzaine de morts dans des frappes russes autour de Kiev](../2026/11/2026-11-23.md#ukraine-au-moins-une-douzaine-de-morts-dans-des-frappes-russes-autour-de-kiev) <span class="carte-meta">23 nov.</span>
+- [Libye : une corvette russe détruite par des drones navals à Benghazi](../2026/11/2026-11-23.md#libye-une-corvette-russe-detruite-par-des-drones-navals-a-benghazi) <span class="carte-meta">23 nov.</span>
 - [Robots tueurs : un accord a minima à Genève](../2026/11/2026-11-22.md#robots-tueurs-un-accord-a-minima-a-geneve) <span class="carte-meta">22 nov.</span>
 - [Baltique : un cargo russe sanctionné touché par un drone au large de la Finlande](../2026/11/2026-11-22.md#baltique-un-cargo-russe-sanctionne-touche-par-un-drone-au-large-de-la-finlande) <span class="carte-meta">22 nov.</span>
 - [Mer Noire : Londres et Oslo financent deux vedettes d'attaque rapides pour l'Ukraine](../2026/11/2026-11-22.md#mer-noire-londres-et-oslo-financent-deux-vedettes-dattaque-rapides-pour-lukraine) <span class="carte-meta">22 nov.</span>

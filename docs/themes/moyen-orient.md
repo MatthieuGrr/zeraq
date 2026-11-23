@@ -8,12 +8,14 @@ search:
 
 # Moyen-Orient
 
-12 actus sur ce thème · [tous les thèmes](../tags.md)
+14 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Climat : la COP31 d'Antalya s'achève sans accord](../2026/11/2026-11-23.md#climat-la-cop31-dantalya-sacheve-sans-accord) <span class="carte-meta">23 nov.</span>
+- [Israël : pas d'accord entre Eisenkot et le Likoud](../2026/11/2026-11-23.md#israel-pas-daccord-entre-eisenkot-et-le-likoud) <span class="carte-meta">23 nov.</span>
 - [Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel](../2026/11/2026-11-22.md#golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel) <span class="carte-meta">22 nov.</span>
 - [Israël : Gadi Eisenkot invite le Likoud à négocier une coalition](../2026/11/2026-11-22.md#israel-gadi-eisenkot-invite-le-likoud-a-negocier-une-coalition) <span class="carte-meta">22 nov.</span>
 - [Robots tueurs : un accord a minima à Genève](../2026/11/2026-11-22.md#robots-tueurs-un-accord-a-minima-a-geneve) <span class="carte-meta">22 nov.</span>
