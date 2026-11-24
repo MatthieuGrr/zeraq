@@ -8,12 +8,13 @@ search:
 
 # Russie-Ukraine
 
-27 actus sur ce thème · [tous les thèmes](../tags.md)
+28 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Benghazi : la guerre russo-ukrainienne gagne la Libye](../2026/11/2026-11-24.md#benghazi-la-guerre-russo-ukrainienne-gagne-la-libye) <span class="carte-meta">24 nov.</span>
 - [Ukraine : au moins une douzaine de morts dans des frappes russes autour de Kiev](../2026/11/2026-11-23.md#ukraine-au-moins-une-douzaine-de-morts-dans-des-frappes-russes-autour-de-kiev) <span class="carte-meta">23 nov.</span>
 - [Libye : une corvette russe détruite par des drones navals à Benghazi](../2026/11/2026-11-23.md#libye-une-corvette-russe-detruite-par-des-drones-navals-a-benghazi) <span class="carte-meta">23 nov.</span>
 - [Robots tueurs : un accord a minima à Genève](../2026/11/2026-11-22.md#robots-tueurs-un-accord-a-minima-a-geneve) <span class="carte-meta">22 nov.</span>

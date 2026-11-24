@@ -8,12 +8,13 @@ search:
 
 # Afrique
 
-19 actus sur ce thème · [tous les thèmes](../tags.md)
+20 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Benghazi : la guerre russo-ukrainienne gagne la Libye](../2026/11/2026-11-24.md#benghazi-la-guerre-russo-ukrainienne-gagne-la-libye) <span class="carte-meta">24 nov.</span>
 - [Soudan : drones sur Khartoum, l'Éthiopie mise en cause](../2026/11/2026-11-23.md#soudan-drones-sur-khartoum-lethiopie-mise-en-cause) <span class="carte-meta">23 nov.</span>
 - [Grands Lacs : mini-sommet d'Oyo pour réconcilier la RDC et le Kenya](../2026/11/2026-11-23.md#grands-lacs-mini-sommet-doyo-pour-reconcilier-la-rdc-et-le-kenya) <span class="carte-meta">23 nov.</span>
 - [Mali : le JNIM attaque l'armée et l'Africa Corps près de Niono](../2026/11/2026-11-22.md#mali-le-jnim-attaque-larmee-et-lafrica-corps-pres-de-niono) <span class="carte-meta">22 nov.</span>

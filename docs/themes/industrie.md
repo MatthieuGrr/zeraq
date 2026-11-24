@@ -8,12 +8,13 @@ search:
 
 # industrie
 
-7 actus sur ce thème · [tous les thèmes](../tags.md)
+8 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Thaïlande : l'appel d'offres pour une nouvelle frégate est annulé](../2026/11/2026-11-24.md#thailande-lappel-doffres-pour-une-nouvelle-fregate-est-annule) <span class="carte-meta">24 nov.</span>
 - [Obus de 155 mm : objectif 150 000 par an en 2029](../2026/11/2026-11-21.md#obus-de-155-mm-objectif-150-000-par-an-en-2029) <span class="carte-meta">21 nov.</span>
 - [Armées françaises : 72 000 fusils HK416F supplémentaires](../2026/11/2026-11-20.md#armees-francaises-72-000-fusils-hk416f-supplementaires) <span class="carte-meta">20 nov.</span>
 - [Espace : MBDA Deutschland étudie la « frappe orbitale de précision »](../2026/11/2026-11-19.md#espace-mbda-deutschland-etudie-la-frappe-orbitale-de-precision) <span class="carte-meta">19 nov.</span>

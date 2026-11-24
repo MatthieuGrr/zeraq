@@ -8,12 +8,13 @@ search:
 
 # Europe
 
-14 actus sur ce thème · [tous les thèmes](../tags.md)
+15 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Gaz : les prix s'envolent en Europe avec le premier froid](../2026/11/2026-11-24.md#gaz-les-prix-senvolent-en-europe-avec-le-premier-froid) <span class="carte-meta">24 nov.</span>
 - [Climat : la COP31 d'Antalya s'achève sans accord](../2026/11/2026-11-23.md#climat-la-cop31-dantalya-sacheve-sans-accord) <span class="carte-meta">23 nov.</span>
 - [Le Rafale opère pour la première fois depuis une autoroute finlandaise](../2026/11/2026-11-23.md#le-rafale-opere-pour-la-premiere-fois-depuis-une-autoroute-finlandaise) <span class="carte-meta">23 nov.</span>
 - [Paris et Londres préparent le successeur du missile Meteor](../2026/11/2026-11-22.md#paris-et-londres-preparent-le-successeur-du-missile-meteor) <span class="carte-meta">22 nov.</span>

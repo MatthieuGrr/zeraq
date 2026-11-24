@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-12 veilles et 111 actus, de la plus récente à la plus ancienne.
+13 veilles et 118 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Mardi 24 novembre 2026**](2026/11/2026-11-24.md) <span class="carte-meta">7 actus</span>  
+Benghazi : la guerre russo-ukrainienne gagne la Libye · Gaz : les prix s'envolent en Europe avec le premier froid · Turquie-PKK : 14 nouvelles bases évacuées dans le nord de l'Irak · Chine : le porte-avions nucléaire Type 004 prend forme à Dalian · Japon : un canon électromagnétique tire dix coups de suite · Rafale F5 : les Émirats cofinancent le moteur et les capteurs · Thaïlande : l'appel d'offres pour une nouvelle frégate est annulé
 
 [**Lundi 23 novembre 2026**](2026/11/2026-11-23.md) <span class="carte-meta">8 actus</span>  
 Ukraine : au moins une douzaine de morts dans des frappes russes… · Soudan : drones sur Khartoum, l'Éthiopie mise en cause · Climat : la COP31 d'Antalya s'achève sans accord · Israël : pas d'accord entre Eisenkot et le Likoud · Grands Lacs : mini-sommet d'Oyo pour réconcilier la RDC et le Kenya · Libye : une corvette russe détruite par des drones navals à Benghazi · Le Rafale opère pour la première fois depuis une autoroute finlandaise · US Navy : un troisième Zumwalt recevra des missiles hypersoniques

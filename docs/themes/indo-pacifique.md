@@ -8,12 +8,14 @@ search:
 
 # Indo-Pacifique
 
-7 actus sur ce thème · [tous les thèmes](../tags.md)
+9 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Chine : le porte-avions nucléaire Type 004 prend forme à Dalian](../2026/11/2026-11-24.md#chine-le-porte-avions-nucleaire-type-004-prend-forme-a-dalian) <span class="carte-meta">24 nov.</span>
+- [Japon : un canon électromagnétique tire dix coups de suite](../2026/11/2026-11-24.md#japon-un-canon-electromagnetique-tire-dix-coups-de-suite) <span class="carte-meta">24 nov.</span>
 - [Des bombardiers russes violent l'espace aérien japonais en route vers le Vietnam](../2026/11/2026-11-18.md#des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam) <span class="carte-meta">18 nov.</span>
 - [Voitures chinoises et sites militaires : le ministère des Armées mobilisé](../2026/11/2026-11-16.md#voitures-chinoises-et-sites-militaires-le-ministere-des-armees-mobilise) <span class="carte-meta">16 nov.</span>
 - [Océan Indien : MSC et Maersk vont entrer au capital du port de Port-Louis](../2026/11/2026-11-16.md#ocean-indien-msc-et-maersk-vont-entrer-au-capital-du-port-de-port-louis) <span class="carte-meta">16 nov.</span>

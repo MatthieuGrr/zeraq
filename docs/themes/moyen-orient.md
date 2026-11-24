@@ -8,12 +8,15 @@ search:
 
 # Moyen-Orient
 
-14 actus sur ce thème · [tous les thèmes](../tags.md)
+17 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Gaz : les prix s'envolent en Europe avec le premier froid](../2026/11/2026-11-24.md#gaz-les-prix-senvolent-en-europe-avec-le-premier-froid) <span class="carte-meta">24 nov.</span>
+- [Turquie-PKK : 14 nouvelles bases évacuées dans le nord de l'Irak](../2026/11/2026-11-24.md#turquie-pkk-14-nouvelles-bases-evacuees-dans-le-nord-de-lirak) <span class="carte-meta">24 nov.</span>
+- [Rafale F5 : les Émirats cofinancent le moteur et les capteurs](../2026/11/2026-11-24.md#rafale-f5-les-emirats-cofinancent-le-moteur-et-les-capteurs) <span class="carte-meta">24 nov.</span>
 - [Climat : la COP31 d'Antalya s'achève sans accord](../2026/11/2026-11-23.md#climat-la-cop31-dantalya-sacheve-sans-accord) <span class="carte-meta">23 nov.</span>
 - [Israël : pas d'accord entre Eisenkot et le Likoud](../2026/11/2026-11-23.md#israel-pas-daccord-entre-eisenkot-et-le-likoud) <span class="carte-meta">23 nov.</span>
 - [Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel](../2026/11/2026-11-22.md#golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel) <span class="carte-meta">22 nov.</span>

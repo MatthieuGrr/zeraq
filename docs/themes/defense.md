@@ -8,12 +8,13 @@ search:
 
 # défense
 
-50 actus sur ce thème · [tous les thèmes](../tags.md)
+51 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Rafale F5 : les Émirats cofinancent le moteur et les capteurs](../2026/11/2026-11-24.md#rafale-f5-les-emirats-cofinancent-le-moteur-et-les-capteurs) <span class="carte-meta">24 nov.</span>
 - [Soudan : drones sur Khartoum, l'Éthiopie mise en cause](../2026/11/2026-11-23.md#soudan-drones-sur-khartoum-lethiopie-mise-en-cause) <span class="carte-meta">23 nov.</span>
 - [Le Rafale opère pour la première fois depuis une autoroute finlandaise](../2026/11/2026-11-23.md#le-rafale-opere-pour-la-premiere-fois-depuis-une-autoroute-finlandaise) <span class="carte-meta">23 nov.</span>
 - [US Navy : un troisième Zumwalt recevra des missiles hypersoniques](../2026/11/2026-11-23.md#us-navy-un-troisieme-zumwalt-recevra-des-missiles-hypersoniques) <span class="carte-meta">23 nov.</span>

@@ -8,12 +8,15 @@ search:
 
 # marine
 
-38 actus sur ce thème · [tous les thèmes](../tags.md)
+41 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Chine : le porte-avions nucléaire Type 004 prend forme à Dalian](../2026/11/2026-11-24.md#chine-le-porte-avions-nucleaire-type-004-prend-forme-a-dalian) <span class="carte-meta">24 nov.</span>
+- [Japon : un canon électromagnétique tire dix coups de suite](../2026/11/2026-11-24.md#japon-un-canon-electromagnetique-tire-dix-coups-de-suite) <span class="carte-meta">24 nov.</span>
+- [Thaïlande : l'appel d'offres pour une nouvelle frégate est annulé](../2026/11/2026-11-24.md#thailande-lappel-doffres-pour-une-nouvelle-fregate-est-annule) <span class="carte-meta">24 nov.</span>
 - [Ukraine : au moins une douzaine de morts dans des frappes russes autour de Kiev](../2026/11/2026-11-23.md#ukraine-au-moins-une-douzaine-de-morts-dans-des-frappes-russes-autour-de-kiev) <span class="carte-meta">23 nov.</span>
 - [Libye : une corvette russe détruite par des drones navals à Benghazi](../2026/11/2026-11-23.md#libye-une-corvette-russe-detruite-par-des-drones-navals-a-benghazi) <span class="carte-meta">23 nov.</span>
 - [US Navy : un troisième Zumwalt recevra des missiles hypersoniques](../2026/11/2026-11-23.md#us-navy-un-troisieme-zumwalt-recevra-des-missiles-hypersoniques) <span class="carte-meta">23 nov.</span>
