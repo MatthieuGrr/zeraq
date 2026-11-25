@@ -8,12 +8,18 @@ search:
 
 # marine
 
-41 actus sur ce thème · [tous les thèmes](../tags.md)
+47 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Ormuz : les Émirats organisent le convoyage du pétrole du Golfe](../2026/11/2026-11-25.md#ormuz-les-emirats-organisent-le-convoyage-du-petrole-du-golfe) <span class="carte-meta">25 nov.</span>
+- [Pêche : accord entre la Mauritanie et l'UE](../2026/11/2026-11-25.md#peche-accord-entre-la-mauritanie-et-lue) <span class="carte-meta">25 nov.</span>
+- [Le Charles de Gaulle reprend la mer avant son dernier arrêt technique majeur](../2026/11/2026-11-25.md#le-charles-de-gaulle-reprend-la-mer-avant-son-dernier-arret-technique-majeur) <span class="carte-meta">25 nov.</span>
+- [La France préside pour la première fois le symposium des marines du Pacifique](../2026/11/2026-11-25.md#la-france-preside-pour-la-premiere-fois-le-symposium-des-marines-du-pacifique) <span class="carte-meta">25 nov.</span>
+- [États-Unis : Raytheon développera le missile de croisière nucléaire SLCM-N](../2026/11/2026-11-25.md#etats-unis-raytheon-developpera-le-missile-de-croisiere-nucleaire-slcm-n) <span class="carte-meta">25 nov.</span>
+- [Espace : les satellites patrouilleurs français YODA lancés par des Américains ?](../2026/11/2026-11-25.md#espace-les-satellites-patrouilleurs-francais-yoda-lances-par-des-americains) <span class="carte-meta">25 nov.</span>
 - [Chine : le porte-avions nucléaire Type 004 prend forme à Dalian](../2026/11/2026-11-24.md#chine-le-porte-avions-nucleaire-type-004-prend-forme-a-dalian) <span class="carte-meta">24 nov.</span>
 - [Japon : un canon électromagnétique tire dix coups de suite](../2026/11/2026-11-24.md#japon-un-canon-electromagnetique-tire-dix-coups-de-suite) <span class="carte-meta">24 nov.</span>
 - [Thaïlande : l'appel d'offres pour une nouvelle frégate est annulé](../2026/11/2026-11-24.md#thailande-lappel-doffres-pour-une-nouvelle-fregate-est-annule) <span class="carte-meta">24 nov.</span>

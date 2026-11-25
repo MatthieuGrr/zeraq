@@ -8,12 +8,14 @@ search:
 
 # Indo-Pacifique
 
-9 actus sur ce thème · [tous les thèmes](../tags.md)
+11 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [La France préside pour la première fois le symposium des marines du Pacifique](../2026/11/2026-11-25.md#la-france-preside-pour-la-premiere-fois-le-symposium-des-marines-du-pacifique) <span class="carte-meta">25 nov.</span>
+- [Corée du Sud : des bombardiers russes frôlent l'espace aérien près d'Ulleungdo](../2026/11/2026-11-25.md#coree-du-sud-des-bombardiers-russes-frolent-lespace-aerien-pres-dulleungdo) <span class="carte-meta">25 nov.</span>
 - [Chine : le porte-avions nucléaire Type 004 prend forme à Dalian](../2026/11/2026-11-24.md#chine-le-porte-avions-nucleaire-type-004-prend-forme-a-dalian) <span class="carte-meta">24 nov.</span>
 - [Japon : un canon électromagnétique tire dix coups de suite](../2026/11/2026-11-24.md#japon-un-canon-electromagnetique-tire-dix-coups-de-suite) <span class="carte-meta">24 nov.</span>
 - [Des bombardiers russes violent l'espace aérien japonais en route vers le Vietnam](../2026/11/2026-11-18.md#des-bombardiers-russes-violent-lespace-aerien-japonais-en-route-vers-le-vietnam) <span class="carte-meta">18 nov.</span>

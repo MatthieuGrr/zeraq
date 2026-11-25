@@ -8,12 +8,15 @@ search:
 
 # Afrique
 
-20 actus sur ce thème · [tous les thèmes](../tags.md)
+23 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Libye : après l'attaque ukrainienne de Benghazi, appels au départ des forces étrangères](../2026/11/2026-11-25.md#libye-apres-lattaque-ukrainienne-de-benghazi-appels-au-depart-des-forces-etrangeres) <span class="carte-meta">25 nov.</span>
+- [RDC : suspension des exportations de cobalt](../2026/11/2026-11-25.md#rdc-suspension-des-exportations-de-cobalt) <span class="carte-meta">25 nov.</span>
+- [Mali : au moins 349 combattants russes tués en trois ans](../2026/11/2026-11-25.md#mali-au-moins-349-combattants-russes-tues-en-trois-ans) <span class="carte-meta">25 nov.</span>
 - [Benghazi : la guerre russo-ukrainienne gagne la Libye](../2026/11/2026-11-24.md#benghazi-la-guerre-russo-ukrainienne-gagne-la-libye) <span class="carte-meta">24 nov.</span>
 - [Soudan : drones sur Khartoum, l'Éthiopie mise en cause](../2026/11/2026-11-23.md#soudan-drones-sur-khartoum-lethiopie-mise-en-cause) <span class="carte-meta">23 nov.</span>
 - [Grands Lacs : mini-sommet d'Oyo pour réconcilier la RDC et le Kenya](../2026/11/2026-11-23.md#grands-lacs-mini-sommet-doyo-pour-reconcilier-la-rdc-et-le-kenya) <span class="carte-meta">23 nov.</span>

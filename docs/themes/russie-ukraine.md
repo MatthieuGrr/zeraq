@@ -8,12 +8,15 @@ search:
 
 # Russie-Ukraine
 
-28 actus sur ce thème · [tous les thèmes](../tags.md)
+31 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Libye : après l'attaque ukrainienne de Benghazi, appels au départ des forces étrangères](../2026/11/2026-11-25.md#libye-apres-lattaque-ukrainienne-de-benghazi-appels-au-depart-des-forces-etrangeres) <span class="carte-meta">25 nov.</span>
+- [Mali : au moins 349 combattants russes tués en trois ans](../2026/11/2026-11-25.md#mali-au-moins-349-combattants-russes-tues-en-trois-ans) <span class="carte-meta">25 nov.</span>
+- [Corée du Sud : des bombardiers russes frôlent l'espace aérien près d'Ulleungdo](../2026/11/2026-11-25.md#coree-du-sud-des-bombardiers-russes-frolent-lespace-aerien-pres-dulleungdo) <span class="carte-meta">25 nov.</span>
 - [Benghazi : la guerre russo-ukrainienne gagne la Libye](../2026/11/2026-11-24.md#benghazi-la-guerre-russo-ukrainienne-gagne-la-libye) <span class="carte-meta">24 nov.</span>
 - [Ukraine : au moins une douzaine de morts dans des frappes russes autour de Kiev](../2026/11/2026-11-23.md#ukraine-au-moins-une-douzaine-de-morts-dans-des-frappes-russes-autour-de-kiev) <span class="carte-meta">23 nov.</span>
 - [Libye : une corvette russe détruite par des drones navals à Benghazi](../2026/11/2026-11-23.md#libye-une-corvette-russe-detruite-par-des-drones-navals-a-benghazi) <span class="carte-meta">23 nov.</span>

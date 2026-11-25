@@ -8,12 +8,13 @@ search:
 
 # industrie
 
-8 actus sur ce thème · [tous les thèmes](../tags.md)
+9 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [RDC : suspension des exportations de cobalt](../2026/11/2026-11-25.md#rdc-suspension-des-exportations-de-cobalt) <span class="carte-meta">25 nov.</span>
 - [Thaïlande : l'appel d'offres pour une nouvelle frégate est annulé](../2026/11/2026-11-24.md#thailande-lappel-doffres-pour-une-nouvelle-fregate-est-annule) <span class="carte-meta">24 nov.</span>
 - [Obus de 155 mm : objectif 150 000 par an en 2029](../2026/11/2026-11-21.md#obus-de-155-mm-objectif-150-000-par-an-en-2029) <span class="carte-meta">21 nov.</span>
 - [Armées françaises : 72 000 fusils HK416F supplémentaires](../2026/11/2026-11-20.md#armees-francaises-72-000-fusils-hk416f-supplementaires) <span class="carte-meta">20 nov.</span>

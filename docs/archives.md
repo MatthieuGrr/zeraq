@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-13 veilles et 118 actus, de la plus récente à la plus ancienne.
+14 veilles et 128 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Mercredi 25 novembre 2026**](2026/11/2026-11-25.md) <span class="carte-meta">10 actus</span>  
+Libye : après l'attaque ukrainienne de Benghazi, appels au départ… · Ormuz : les Émirats organisent le convoyage du pétrole du Golfe · RDC : suspension des exportations de cobalt · Mali : au moins 349 combattants russes tués en trois ans · Pêche : accord entre la Mauritanie et l'UE · Le Charles de Gaulle reprend la mer avant son dernier arrêt… · La France préside pour la première fois le symposium des marines du… · États-Unis : Raytheon développera le missile de croisière nucléaire… · Corée du Sud : des bombardiers russes frôlent l'espace aérien près… · Espace : les satellites patrouilleurs français YODA lancés par des…
 
 [**Mardi 24 novembre 2026**](2026/11/2026-11-24.md) <span class="carte-meta">7 actus</span>  
 Benghazi : la guerre russo-ukrainienne gagne la Libye · Gaz : les prix s'envolent en Europe avec le premier froid · Turquie-PKK : 14 nouvelles bases évacuées dans le nord de l'Irak · Chine : le porte-avions nucléaire Type 004 prend forme à Dalian · Japon : un canon électromagnétique tire dix coups de suite · Rafale F5 : les Émirats cofinancent le moteur et les capteurs · Thaïlande : l'appel d'offres pour une nouvelle frégate est annulé

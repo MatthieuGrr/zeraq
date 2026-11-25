@@ -8,12 +8,14 @@ search:
 
 # défense
 
-51 actus sur ce thème · [tous les thèmes](../tags.md)
+53 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Le Charles de Gaulle reprend la mer avant son dernier arrêt technique majeur](../2026/11/2026-11-25.md#le-charles-de-gaulle-reprend-la-mer-avant-son-dernier-arret-technique-majeur) <span class="carte-meta">25 nov.</span>
+- [États-Unis : Raytheon développera le missile de croisière nucléaire SLCM-N](../2026/11/2026-11-25.md#etats-unis-raytheon-developpera-le-missile-de-croisiere-nucleaire-slcm-n) <span class="carte-meta">25 nov.</span>
 - [Rafale F5 : les Émirats cofinancent le moteur et les capteurs](../2026/11/2026-11-24.md#rafale-f5-les-emirats-cofinancent-le-moteur-et-les-capteurs) <span class="carte-meta">24 nov.</span>
 - [Soudan : drones sur Khartoum, l'Éthiopie mise en cause](../2026/11/2026-11-23.md#soudan-drones-sur-khartoum-lethiopie-mise-en-cause) <span class="carte-meta">23 nov.</span>
 - [Le Rafale opère pour la première fois depuis une autoroute finlandaise](../2026/11/2026-11-23.md#le-rafale-opere-pour-la-premiere-fois-depuis-une-autoroute-finlandaise) <span class="carte-meta">23 nov.</span>
