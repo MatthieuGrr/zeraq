@@ -8,12 +8,13 @@ search:
 
 # Europe
 
-16 actus sur ce thème · [tous les thèmes](../tags.md)
+17 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Négociations Russie-Ukraine : Kaja Kallas mise sur la touche](../2026/11/2026-11-26.md#negociations-russie-ukraine-kaja-kallas-mise-sur-la-touche) <span class="carte-meta">26 nov.</span>
 - [Pêche : accord entre la Mauritanie et l'UE](../2026/11/2026-11-25.md#peche-accord-entre-la-mauritanie-et-lue) <span class="carte-meta">25 nov.</span>
 - [Gaz : les prix s'envolent en Europe avec le premier froid](../2026/11/2026-11-24.md#gaz-les-prix-senvolent-en-europe-avec-le-premier-froid) <span class="carte-meta">24 nov.</span>
 - [Climat : la COP31 d'Antalya s'achève sans accord](../2026/11/2026-11-23.md#climat-la-cop31-dantalya-sacheve-sans-accord) <span class="carte-meta">23 nov.</span>

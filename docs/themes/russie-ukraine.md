@@ -8,12 +8,16 @@ search:
 
 # Russie-Ukraine
 
-31 actus sur ce thème · [tous les thèmes](../tags.md)
+35 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Négociations Russie-Ukraine : Kaja Kallas mise sur la touche](../2026/11/2026-11-26.md#negociations-russie-ukraine-kaja-kallas-mise-sur-la-touche) <span class="carte-meta">26 nov.</span>
+- [La Pologne va créer une zone d'exclusion aérienne à sa frontière avec l'Ukraine](../2026/11/2026-11-26.md#la-pologne-va-creer-une-zone-dexclusion-aerienne-a-sa-frontiere-avec-lukraine) <span class="carte-meta">26 nov.</span>
+- [Mer d'Azov : la Crimée de plus en plus isolée par les frappes sur les ponts](../2026/11/2026-11-26.md#mer-dazov-la-crimee-de-plus-en-plus-isolee-par-les-frappes-sur-les-ponts) <span class="carte-meta">26 nov.</span>
+- [Espace : manœuvre conjointe franco-américaine autour d'un satellite « compétiteur »](../2026/11/2026-11-26.md#espace-manuvre-conjointe-franco-americaine-autour-dun-satellite-competiteur) <span class="carte-meta">26 nov.</span>
 - [Libye : après l'attaque ukrainienne de Benghazi, appels au départ des forces étrangères](../2026/11/2026-11-25.md#libye-apres-lattaque-ukrainienne-de-benghazi-appels-au-depart-des-forces-etrangeres) <span class="carte-meta">25 nov.</span>
 - [Mali : au moins 349 combattants russes tués en trois ans](../2026/11/2026-11-25.md#mali-au-moins-349-combattants-russes-tues-en-trois-ans) <span class="carte-meta">25 nov.</span>
 - [Corée du Sud : des bombardiers russes frôlent l'espace aérien près d'Ulleungdo](../2026/11/2026-11-25.md#coree-du-sud-des-bombardiers-russes-frolent-lespace-aerien-pres-dulleungdo) <span class="carte-meta">25 nov.</span>

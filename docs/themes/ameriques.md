@@ -8,12 +8,13 @@ search:
 
 # Amériques
 
-24 actus sur ce thème · [tous les thèmes](../tags.md)
+25 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Espace : manœuvre conjointe franco-américaine autour d'un satellite « compétiteur »](../2026/11/2026-11-26.md#espace-manuvre-conjointe-franco-americaine-autour-dun-satellite-competiteur) <span class="carte-meta">26 nov.</span>
 - [Espace : les satellites patrouilleurs français YODA lancés par des Américains ?](../2026/11/2026-11-25.md#espace-les-satellites-patrouilleurs-francais-yoda-lances-par-des-americains) <span class="carte-meta">25 nov.</span>
 - [Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel](../2026/11/2026-11-22.md#golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel) <span class="carte-meta">22 nov.</span>
 - [Moyen-Orient : le Theodore Roosevelt relève le George Washington](../2026/11/2026-11-22.md#moyen-orient-le-theodore-roosevelt-releve-le-george-washington) <span class="carte-meta">22 nov.</span>

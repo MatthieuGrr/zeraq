@@ -8,12 +8,14 @@ search:
 
 # Afrique
 
-23 actus sur ce thème · [tous les thèmes](../tags.md)
+25 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [RDC : le chef de l'armée ougandaise menace d'avancer en territoire congolais](../2026/11/2026-11-26.md#rdc-le-chef-de-larmee-ougandaise-menace-davancer-en-territoire-congolais) <span class="carte-meta">26 nov.</span>
+- [Libye : Khalifa Haftar reçu pour la première fois par Erdogan](../2026/11/2026-11-26.md#libye-khalifa-haftar-recu-pour-la-premiere-fois-par-erdogan) <span class="carte-meta">26 nov.</span>
 - [Libye : après l'attaque ukrainienne de Benghazi, appels au départ des forces étrangères](../2026/11/2026-11-25.md#libye-apres-lattaque-ukrainienne-de-benghazi-appels-au-depart-des-forces-etrangeres) <span class="carte-meta">25 nov.</span>
 - [RDC : suspension des exportations de cobalt](../2026/11/2026-11-25.md#rdc-suspension-des-exportations-de-cobalt) <span class="carte-meta">25 nov.</span>
 - [Mali : au moins 349 combattants russes tués en trois ans](../2026/11/2026-11-25.md#mali-au-moins-349-combattants-russes-tues-en-trois-ans) <span class="carte-meta">25 nov.</span>

@@ -8,12 +8,13 @@ search:
 
 # Moyen-Orient
 
-18 actus sur ce thème · [tous les thèmes](../tags.md)
+19 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Libye : Khalifa Haftar reçu pour la première fois par Erdogan](../2026/11/2026-11-26.md#libye-khalifa-haftar-recu-pour-la-premiere-fois-par-erdogan) <span class="carte-meta">26 nov.</span>
 - [Ormuz : les Émirats organisent le convoyage du pétrole du Golfe](../2026/11/2026-11-25.md#ormuz-les-emirats-organisent-le-convoyage-du-petrole-du-golfe) <span class="carte-meta">25 nov.</span>
 - [Gaz : les prix s'envolent en Europe avec le premier froid](../2026/11/2026-11-24.md#gaz-les-prix-senvolent-en-europe-avec-le-premier-froid) <span class="carte-meta">24 nov.</span>
 - [Turquie-PKK : 14 nouvelles bases évacuées dans le nord de l'Irak](../2026/11/2026-11-24.md#turquie-pkk-14-nouvelles-bases-evacuees-dans-le-nord-de-lirak) <span class="carte-meta">24 nov.</span>

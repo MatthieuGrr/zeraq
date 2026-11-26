@@ -8,12 +8,16 @@ search:
 
 # marine
 
-47 actus sur ce thème · [tous les thèmes](../tags.md)
+51 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Pacifique : la Marine nationale saisit 3,3 tonnes de méthamphétamine près de Clipperton](../2026/11/2026-11-26.md#pacifique-la-marine-nationale-saisit-33-tonnes-de-methamphetamine-pres-de-clipperton) <span class="carte-meta">26 nov.</span>
+- [Mer d'Azov : la Crimée de plus en plus isolée par les frappes sur les ponts](../2026/11/2026-11-26.md#mer-dazov-la-crimee-de-plus-en-plus-isolee-par-les-frappes-sur-les-ponts) <span class="carte-meta">26 nov.</span>
+- [Pologne : quille de la troisième frégate Miecznik et accord sur le missile CAMM-MR](../2026/11/2026-11-26.md#pologne-quille-de-la-troisieme-fregate-miecznik-et-accord-sur-le-missile-camm-mr) <span class="carte-meta">26 nov.</span>
+- [Méditerranée : l'OTAN n'attend pas de renfort naval russe après l'attaque de Benghazi](../2026/11/2026-11-26.md#mediterranee-lotan-nattend-pas-de-renfort-naval-russe-apres-lattaque-de-benghazi) <span class="carte-meta">26 nov.</span>
 - [Ormuz : les Émirats organisent le convoyage du pétrole du Golfe](../2026/11/2026-11-25.md#ormuz-les-emirats-organisent-le-convoyage-du-petrole-du-golfe) <span class="carte-meta">25 nov.</span>
 - [Pêche : accord entre la Mauritanie et l'UE](../2026/11/2026-11-25.md#peche-accord-entre-la-mauritanie-et-lue) <span class="carte-meta">25 nov.</span>
 - [Le Charles de Gaulle reprend la mer avant son dernier arrêt technique majeur](../2026/11/2026-11-25.md#le-charles-de-gaulle-reprend-la-mer-avant-son-dernier-arret-technique-majeur) <span class="carte-meta">25 nov.</span>

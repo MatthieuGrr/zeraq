@@ -8,12 +8,17 @@ search:
 
 # défense
 
-53 actus sur ce thème · [tous les thèmes](../tags.md)
+58 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [La Pologne va créer une zone d'exclusion aérienne à sa frontière avec l'Ukraine](../2026/11/2026-11-26.md#la-pologne-va-creer-une-zone-dexclusion-aerienne-a-sa-frontiere-avec-lukraine) <span class="carte-meta">26 nov.</span>
+- [RDC : le chef de l'armée ougandaise menace d'avancer en territoire congolais](../2026/11/2026-11-26.md#rdc-le-chef-de-larmee-ougandaise-menace-davancer-en-territoire-congolais) <span class="carte-meta">26 nov.</span>
+- [Pacifique : les Îles Salomon s'engagent auprès de l'Australie à refuser toute base étrangère](../2026/11/2026-11-26.md#pacifique-les-iles-salomon-sengagent-aupres-de-laustralie-a-refuser-toute-base-etrangere) <span class="carte-meta">26 nov.</span>
+- [Pologne : quille de la troisième frégate Miecznik et accord sur le missile CAMM-MR](../2026/11/2026-11-26.md#pologne-quille-de-la-troisieme-fregate-miecznik-et-accord-sur-le-missile-camm-mr) <span class="carte-meta">26 nov.</span>
+- [Méditerranée : l'OTAN n'attend pas de renfort naval russe après l'attaque de Benghazi](../2026/11/2026-11-26.md#mediterranee-lotan-nattend-pas-de-renfort-naval-russe-apres-lattaque-de-benghazi) <span class="carte-meta">26 nov.</span>
 - [Le Charles de Gaulle reprend la mer avant son dernier arrêt technique majeur](../2026/11/2026-11-25.md#le-charles-de-gaulle-reprend-la-mer-avant-son-dernier-arret-technique-majeur) <span class="carte-meta">25 nov.</span>
 - [États-Unis : Raytheon développera le missile de croisière nucléaire SLCM-N](../2026/11/2026-11-25.md#etats-unis-raytheon-developpera-le-missile-de-croisiere-nucleaire-slcm-n) <span class="carte-meta">25 nov.</span>
 - [Rafale F5 : les Émirats cofinancent le moteur et les capteurs](../2026/11/2026-11-24.md#rafale-f5-les-emirats-cofinancent-le-moteur-et-les-capteurs) <span class="carte-meta">24 nov.</span>

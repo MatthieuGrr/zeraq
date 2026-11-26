@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-14 veilles et 128 actus, de la plus récente à la plus ancienne.
+15 veilles et 138 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Jeudi 26 novembre 2026**](2026/11/2026-11-26.md) <span class="carte-meta">10 actus</span>  
+Négociations Russie-Ukraine : Kaja Kallas mise sur la touche · La Pologne va créer une zone d'exclusion aérienne à sa frontière… · RDC : le chef de l'armée ougandaise menace d'avancer en territoire… · Pacifique : les Îles Salomon s'engagent auprès de l'Australie à… · Libye : Khalifa Haftar reçu pour la première fois par Erdogan · Pacifique : la Marine nationale saisit 3,3 tonnes de méthamphétamine… · Mer d'Azov : la Crimée de plus en plus isolée par les frappes sur… · Pologne : quille de la troisième frégate Miecznik et accord sur le… · Méditerranée : l'OTAN n'attend pas de renfort naval russe après… · Espace : manœuvre conjointe franco-américaine autour d'un satellite…
 
 [**Mercredi 25 novembre 2026**](2026/11/2026-11-25.md) <span class="carte-meta">10 actus</span>  
 Libye : après l'attaque ukrainienne de Benghazi, appels au départ… · Ormuz : les Émirats organisent le convoyage du pétrole du Golfe · RDC : suspension des exportations de cobalt · Mali : au moins 349 combattants russes tués en trois ans · Pêche : accord entre la Mauritanie et l'UE · Le Charles de Gaulle reprend la mer avant son dernier arrêt… · La France préside pour la première fois le symposium des marines du… · États-Unis : Raytheon développera le missile de croisière nucléaire… · Corée du Sud : des bombardiers russes frôlent l'espace aérien près… · Espace : les satellites patrouilleurs français YODA lancés par des…

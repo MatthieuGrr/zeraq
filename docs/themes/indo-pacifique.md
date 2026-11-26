@@ -8,12 +8,14 @@ search:
 
 # Indo-Pacifique
 
-11 actus sur ce thème · [tous les thèmes](../tags.md)
+13 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Pacifique : les Îles Salomon s'engagent auprès de l'Australie à refuser toute base étrangère](../2026/11/2026-11-26.md#pacifique-les-iles-salomon-sengagent-aupres-de-laustralie-a-refuser-toute-base-etrangere) <span class="carte-meta">26 nov.</span>
+- [Pacifique : la Marine nationale saisit 3,3 tonnes de méthamphétamine près de Clipperton](../2026/11/2026-11-26.md#pacifique-la-marine-nationale-saisit-33-tonnes-de-methamphetamine-pres-de-clipperton) <span class="carte-meta">26 nov.</span>
 - [La France préside pour la première fois le symposium des marines du Pacifique](../2026/11/2026-11-25.md#la-france-preside-pour-la-premiere-fois-le-symposium-des-marines-du-pacifique) <span class="carte-meta">25 nov.</span>
 - [Corée du Sud : des bombardiers russes frôlent l'espace aérien près d'Ulleungdo](../2026/11/2026-11-25.md#coree-du-sud-des-bombardiers-russes-frolent-lespace-aerien-pres-dulleungdo) <span class="carte-meta">25 nov.</span>
 - [Chine : le porte-avions nucléaire Type 004 prend forme à Dalian](../2026/11/2026-11-24.md#chine-le-porte-avions-nucleaire-type-004-prend-forme-a-dalian) <span class="carte-meta">24 nov.</span>
