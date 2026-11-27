@@ -15,122 +15,100 @@ search:
 *Zeraq*, le quart de minuit à quatre heures, celui qui demande le plus d'attention : chaque matin, l'essentiel en géopolitique, défense et affaires maritimes, résumé en quelques lignes et toujours sourcé.
 { .hero-baseline }
 
-[Lire la veille du jour](2026/11/2026-11-26.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
+[Lire la veille du jour](2026/11/2026-11-27.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
 { .hero-actions }
 
 </div>
 
-## [Jeudi 26 novembre 2026](2026/11/2026-11-26.md) { .jour }
+## [Vendredi 27 novembre 2026](2026/11/2026-11-27.md) { .jour }
 
-**10 actus** · 4 min de lecture
+**8 actus** · 4 min de lecture
 { .veille-meta }
 
 <section class="actu" markdown>
 
-### Négociations Russie-Ukraine : Kaja Kallas mise sur la touche { #negociations-russie-ukraine-kaja-kallas-mise-sur-la-touche data-fav="2026/11/2026-11-26/#negociations-russie-ukraine-kaja-kallas-mise-sur-la-touche" }
+### Iran : le blocus maritime américain asphyxie l'économie { #iran-le-blocus-maritime-americain-asphyxie-leconomie data-fav="2026/11/2026-11-27/#iran-le-blocus-maritime-americain-asphyxie-leconomie" }
 
-Alors que la date d'une reprise des pourparlers entre Moscou et Kyiv reste inconnue, l'Allemagne, la France, l'Italie, la Pologne et le Royaume-Uni se portent candidats à un rôle dans les discussions. La cheffe de la diplomatie de l'UE, Kaja Kallas, ancienne Première ministre estonienne réputée pour sa fermeté envers le Kremlin, en est écartée, reléguée derrière Ursula von der Leyen et Antonio Costa. Plusieurs eurodéputés y voient le symptôme d'une Union incapable de parler d'une seule voix, et redoutent que Moscou choisisse ses interlocuteurs.
+Les ports iraniens sont soumis depuis avril à un blocus maritime américain, suspendu en juin puis rétabli le 14 juillet, qui entrave l'essentiel du commerce du pays : pénuries de carburant, flambée des prix (l'huile de cuisson a été multipliée par 41 depuis 2020) et manifestations, notamment de routiers dans le sud depuis le 22 novembre. Le 21 novembre, Téhéran a qualifié le blocus d'« acte de guerre » et les Gardiens de la révolution ont visé les radars de deux bases américaines à Bahreïn, troisième attaque en cinq jours. Des discussions indirectes se poursuivent via le Qatar et le Pakistan pour rétablir un cessez-le-feu et rouvrir le détroit d'Ormuz.
 
-[RFI](https://www.rfi.fr/fr/europe/20261125-kaja-kallas-cheffe-de-la-diplomatie-europ%C3%A9enne-mais-%C3%A9vinc%C3%A9e-des-n%C3%A9gociations-russie-ukraine){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [Europe](themes/europe.md){ .tag }
+[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/26/le-blocus-maritime-americain-etouffe-leconomie-iranienne/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Moyen-Orient](themes/moyen-orient.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### La Pologne va créer une zone d'exclusion aérienne à sa frontière avec l'Ukraine { #la-pologne-va-creer-une-zone-dexclusion-aerienne-a-sa-frontiere-avec-lukraine data-fav="2026/11/2026-11-26/#la-pologne-va-creer-une-zone-dexclusion-aerienne-a-sa-frontiere-avec-lukraine" }
+### Nouveaux droits de douane américains : levée de boucliers { #nouveaux-droits-de-douane-americains-levee-de-boucliers data-fav="2026/11/2026-11-27/#nouveaux-droits-de-douane-americains-levee-de-boucliers" }
 
-Varsovie instaurera fin décembre ou début janvier une zone de quelques dizaines de kilomètres le long de la frontière pour identifier et, si nécessaire, abattre les aéronefs militaires russes, a annoncé le vice-ministre de la Défense Cezary Tomczyk. La décision fait suite à la chute de missiles russes dans le sud-est du pays le 20 novembre et à l'incursion d'un drone de reconnaissance le 24. Varsovie dément vouloir frapper missiles et drones dans l'espace aérien ukrainien : une telle décision relèverait de l'OTAN, qui n'y est pas favorable.
+Washington a annoncé le 25 novembre une nouvelle série de surtaxes contre ses principaux partenaires (UE, Chine, Japon, Inde, Brésil, Singapour…), accusés de subventions provoquant une surproduction. Elles s'ajoutent aux droits d'au moins 10 % imposés fin juillet à une soixantaine de pays et s'appuient sur une loi de 1974, l'administration cherchant à rétablir les droits annulés en février par la Cour suprême. Bruxelles « conteste fermement » l'argument, Pékin se réserve le droit de riposter et le Brésil, visé aussi sur l'aviation civile, refuse de « céder ».
 
-[RFI](https://www.rfi.fr/fr/europe/20261125-la-pologne-va-instaurer-une-zone-d-exclusion-a%C3%A9rienne-%C3%A0-la-fronti%C3%A8re-ukrainienne){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
+[RFI](https://www.rfi.fr/fr/monde/20261126-l-annonce-de-nouveaux-droits-de-douane-am%C3%A9ricains-par-washington-suscite-l-indignation-des-pays-vis%C3%A9s){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### RDC : le chef de l'armée ougandaise menace d'avancer en territoire congolais { #rdc-le-chef-de-larmee-ougandaise-menace-davancer-en-territoire-congolais data-fav="2026/11/2026-11-26/#rdc-le-chef-de-larmee-ougandaise-menace-davancer-en-territoire-congolais" }
+### Soudan : un général transfuge des FSR accuse ses anciens chefs de massacres à El-Fasher { #soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher data-fav="2026/11/2026-11-27/#soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher" }
 
-Kinshasa a convoqué le représentant de l'ambassade d'Ouganda après des messages du général Muhoozi Kainerugaba, fils du président Museveni. Il affirme que ses troupes, déployées au Nord-Kivu contre les ADF (affiliés à l'État islamique), ne s'opposeraient pas à la prise de Walikale par le mouvement armé de l'ex-président Joseph Kabila, menace de s'en emparer lui-même et exige la reddition de l'aéroport d'Isiro. Il présente aussi le Rwanda et l'Ouganda comme des « pays jumeaux », ce qui accroît la pression sur Kinshasa dans l'Est du pays.
+Le général de division Ammar Rabih, passé des Forces de soutien rapide (FSR) à l'armée régulière, a affirmé le 23 novembre à Khartoum qu'il existe à El-Fasher « d'immenses fosses communes contenant les corps de milliers de civils ». Ce sont les premières accusations d'un responsable des FSR sur la prise de la capitale du Darfour du Nord en octobre 2025. Une mission d'enquête mandatée par l'ONU y avait relevé en février des « signes distinctifs d'un génocide » ; la guerre civile oppose armée et FSR depuis avril 2023.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261126-rdc-le-chef-de-l-arm%C3%A9e-ougandaise-menace-d-intervenir-dans-le-pays-kinshasa-r%C3%A9clame-des-explications){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
+[RFI](https://www.rfi.fr/fr/afrique/20261126-soudan-il-y-a-des-fosses-communes-avec-des-milliers-de-corps-%C3%A0-el-fasher-accuse-un-g%C3%A9n%C3%A9ral-ayant-d%C3%A9sert%C3%A9-les-fsr){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Pacifique : les Îles Salomon s'engagent auprès de l'Australie à refuser toute base étrangère { #pacifique-les-iles-salomon-sengagent-aupres-de-laustralie-a-refuser-toute-base-etrangere data-fav="2026/11/2026-11-26/#pacifique-les-iles-salomon-sengagent-aupres-de-laustralie-a-refuser-toute-base-etrangere" }
+### Hongrie-Ukraine : rapprochement affiché en Transcarpatie { #hongrie-ukraine-rapprochement-affiche-en-transcarpatie data-fav="2026/11/2026-11-27/#hongrie-ukraine-rapprochement-affiche-en-transcarpatie" }
 
-Le traité signé le 25 novembre interdit l'installation d'une base militaire ou de sécurité étrangère dans l'archipel et la militarisation de ses infrastructures sensibles, en échange de 740 millions de dollars australiens (environ 450 M€) sur dix ans. C'est un revers pour Pékin, qui avait signé en 2022 un accord de sécurité avec Honiara ; le Premier ministre Matthew Wale, au pouvoir depuis mai, a rompu avec la ligne pro-chinoise de son prédécesseur. C'est le sixième accord de ce type conclu par Canberra dans le Pacifique depuis 2023.
+Le Premier ministre hongrois Peter Magyar et Volodymyr Zelensky se sont rencontrés le 24 novembre en Transcarpatie, région ukrainienne abritant une minorité hongroise, pour tourner la page des tensions de l'ère Orban. Ils ont évoqué l'énergie, l'économie, les liaisons de transport et les droits de la communauté hongroise. Budapest refuse toujours de livrer des armes, mais se dit prête à fournir une aide humanitaire et à déployer des forces de maintien de la paix.
 
-[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/25/laccord-signe-entre-laustralie-et-les-iles-salomon-marque-un-revers-pour-pekin/){ .src target="_blank" rel="noopener" } [Indo-Pacifique](themes/indo-pacifique.md){ .tag } [défense](themes/defense.md){ .tag }
+[Courrier international](https://www.courrierinternational.com/article/diplomatie-budapest-et-kiev-affichent-leur-rapprochement-en-transcarpatie_290313){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Libye : Khalifa Haftar reçu pour la première fois par Erdogan { #libye-khalifa-haftar-recu-pour-la-premiere-fois-par-erdogan data-fav="2026/11/2026-11-26/#libye-khalifa-haftar-recu-pour-la-premiere-fois-par-erdogan" }
+### Royaume-Uni : contrat record de 8 milliards de livres pour la disponibilité des sous-marins { #royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins data-fav="2026/11/2026-11-27/#royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins" }
 
-Le maréchal qui contrôle l'Est libyen a été reçu à huis clos à Ankara le 25 novembre, deux jours après l'attaque ukrainienne contre deux navires russes à Benghazi. Longtemps soutien du gouvernement de Tripoli, la Turquie cherche désormais des relations équilibrées avec les deux camps et dit vouloir contribuer à la réunification du pays, à l'approche d'un sommet Afrique-Turquie à Tripoli.
+Le ministère britannique de la Défense a notifié le 26 novembre à Babcock le contrat « Gateway » (environ 10 milliards d'euros sur cinq ans), consacré au maintien en condition des sous-marins de la Royal Navy et des bases de Devonport et Faslane. L'enjeu est critique : il est arrivé qu'aucun SNA Astute ne puisse prendre la mer, les patrouilles des SNLE Vanguard s'allongent (217 jours pour le HMS Vengeance) et le HMS Victorious est en cale sèche depuis l'été 2023. Le contrat suit les 8,4 milliards de livres engagés en juillet pour le programme Dreadnought, successeur des Vanguard.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261125-le-leader-de-l-est-libyen-khalifa-haftar-rencontre-recep-tayyip-erdogan-et-d-autres-responsables-en-turquie){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [Moyen-Orient](themes/moyen-orient.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/26/londres-investit-10-milliards-deuros-pour-ameliorer-la-disponibilite-de-ses-sous-marins-nucleaires/){ .src target="_blank" rel="noopener" } [Naval News](https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [industrie](themes/industrie.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Pacifique : la Marine nationale saisit 3,3 tonnes de méthamphétamine près de Clipperton { #pacifique-la-marine-nationale-saisit-33-tonnes-de-methamphetamine-pres-de-clipperton data-fav="2026/11/2026-11-26/#pacifique-la-marine-nationale-saisit-33-tonnes-de-methamphetamine-pres-de-clipperton" }
+### Marine nationale : patrouille conjointe avec les Philippines en mer de Sulu { #marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu data-fav="2026/11/2026-11-27/#marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu" }
 
-Le 20 novembre, une frégate de surveillance et son hélicoptère, appuyés par un Falcon 50 de la flottille 25F (Tahiti) et un avion de l'US Coast Guard, ont arraisonné un pétrolier léger sans pavillon, sur le fondement de la convention des Nations unies sur le droit de la mer. L'équipe de visite a trouvé 150 ballots, soit 3 328 kg de drogue ; le navire était suivi depuis des semaines par les centres de fusion de l'information maritime de Polynésie et de Nouvelle-Calédonie. La saisie intervient quelques jours après l'interception d'un semi-submersible chargé de cocaïne dans l'Atlantique.
+La frégate de surveillance Vendémiaire a navigué du 20 au 22 novembre avec la frégate philippine Diego Silang et le garde-côtes BRP Sarangani, ancien patrouilleur taïwanais, lors de la troisième activité de coopération maritime franco-philippine (hélicoptères, visites et inspections de navires). L'exercice suit la ratification de l'accord sur les forces en visite entre Paris et Manille. La mer de Sulu, point de passage de la première chaîne d'îles, voit transiter de plus en plus de navires chinois, dont le groupe aéronaval du Liaoning en octobre.
 
-[Zone Militaire](https://www.opex360.com/2026/11/25/une-fregate-francaise-intercepte-un-importante-cargaison-de-methamphetamines-pres-de-latoll-de-clipperton/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/french-navy-trains-with-philippine-coast-guard-ship-from-taiwan/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Mer d'Azov : la Crimée de plus en plus isolée par les frappes sur les ponts { #mer-dazov-la-crimee-de-plus-en-plus-isolee-par-les-frappes-sur-les-ponts data-fav="2026/11/2026-11-26/#mer-dazov-la-crimee-de-plus-en-plus-isolee-par-les-frappes-sur-les-ponts" }
+### Taïwan reçoit sa douzième et dernière corvette lance-missiles Tuo Chiang { #taiwan-recoit-sa-douzieme-et-derniere-corvette-lance-missiles-tuo-chiang data-fav="2026/11/2026-11-27/#taiwan-recoit-sa-douzieme-et-derniere-corvette-lance-missiles-tuo-chiang" }
 
-L'attaque ukrainienne du 17 novembre contre le pont de Kertch a coupé la liaison routière entre la Crimée et la Russie, et ses débris bloquent le chenal de navigation qui passe dessous. Avec la frappe d'octobre contre un pont sur le Don, à Rostov, qui a quasiment mis à l'arrêt le port d'Azov, les deux extrémités de la mer d'Azov sont obstruées. Le ravitaillement russe de la péninsule dépend désormais de routes terrestres sous menace aérienne constante.
+Le chantier Lungteh a livré le 19 novembre le ROCS Bao Jiang, bouclant un programme lancé il y a une décennie. Ces catamarans furtifs de 600 tonnes, rapides de plus de 40 nœuds, emportent un canon de 76 mm, 16 missiles sol-air Sky Bow 2N et des missiles antinavires Hsiung Feng II et III, avec pour mission de frapper une force de débarquement. Ils illustrent le virage asymétrique d'une marine dont les destroyers et frégates datent de la guerre froide.
 
-[Naval News](https://www.navalnews.com/naval-news/2026/11/kerch-bridge-attack-sea-of-azov-crimea/){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [marine](themes/marine.md){ .tag }
+[USNI News](https://news.usni.org/2026/11/26/taiwan-navy-receives-last-tuo-chiang-class-missile-corvettes){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Pologne : quille de la troisième frégate Miecznik et accord sur le missile CAMM-MR { #pologne-quille-de-la-troisieme-fregate-miecznik-et-accord-sur-le-missile-camm-mr data-fav="2026/11/2026-11-26/#pologne-quille-de-la-troisieme-fregate-miecznik-et-accord-sur-le-missile-camm-mr" }
+### Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés { #armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres data-fav="2026/11/2026-11-27/#armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres" }
 
-Le chantier PGZ de Gdynia a posé le 24 novembre la quille de l'ORP Huragan, dernière des trois frégates du programme Miecznik (plus de 15 milliards de zlotys), dérivé de l'Arrowhead 140 britannique : environ 140 m et 7 000 t à pleine charge. Les trois coques sont désormais en construction simultanée ; la tête de série Wicher a été lancée en août. Varsovie et Londres ont en parallèle signé un accord pour codévelopper le missile antiaérien CAMM-MR.
+La DGA a livré le 26 novembre aux forces les premiers drones intercepteurs GOBI Zephyr de la start-up française Harmattan AI, deux mois seulement après la commande, pour renforcer la défense sol-air de très courte portée. Guidés automatiquement, ils détruisent leur cible par impact direct à 350 km/h dans un rayon de 10 km, de jour comme de nuit, après autorisation humaine de la mission. Le contrat à bons de commande, issu du centre expert référent antidrone, vise notamment les menaces de type Shahed ou Lancet.
 
-[Naval News](https://www.navalnews.com/naval-news/2026/11/poland-lays-keel-third-miecznik-frigate-huragan/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
-{ .actu-foot }
-
-</section>
-
-<section class="actu" markdown>
-
-### Méditerranée : l'OTAN n'attend pas de renfort naval russe après l'attaque de Benghazi { #mediterranee-lotan-nattend-pas-de-renfort-naval-russe-apres-lattaque-de-benghazi data-fav="2026/11/2026-11-26/#mediterranee-lotan-nattend-pas-de-renfort-naval-russe-apres-lattaque-de-benghazi" }
-
-Selon un responsable de l'Alliance, Moscou ne devrait pas renforcer sa présence navale en Méditerranée après le naufrage de sa corvette, faute de bâtiments disponibles, la flotte de surface russe ayant de « sérieux problèmes de génération de forces ». En Méditerranée, les navires alliés déployés sont 5 à 6 fois plus nombreux que les russes. L'OTAN craint surtout une extension du conflit aux navires marchands ; le SBU affirme que sept drones navals ont été lancés depuis un « navire-mère » près de la cible.
-
-[Breaking Defense](https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
-{ .actu-foot }
-
-</section>
-
-<section class="actu" markdown>
-
-### Espace : manœuvre conjointe franco-américaine autour d'un satellite « compétiteur » { #espace-manuvre-conjointe-franco-americaine-autour-dun-satellite-competiteur data-fav="2026/11/2026-11-26/#espace-manuvre-conjointe-franco-americaine-autour-dun-satellite-competiteur" }
-
-Le chef d'état-major de l'armée de l'Air et de l'Espace, le général Jérôme Bellanger, a révélé que deux satellites, l'un français, l'autre américain, ont récemment manœuvré de concert près du satellite d'un compétiteur avant de regagner leur orbite. Cette opération de signalement stratégique répond aux manœuvres d'approche russes, comme celle de Cosmos 2612, passé à moins de 100 m d'un satellite ICEYE utilisé par l'Ukraine. Elle intervient alors que le renseignement américain alerte sur un satellite russe conçu pour emporter une arme nucléaire.
-
-[Zone Militaire](https://www.opex360.com/2026/11/25/la-france-et-les-etats-unis-ont-de-nouveau-mene-une-operation-conjointe-de-signalement-strategique-dans-lespace/){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/26/les-forces-francaises-ont-recu-leurs-premiers-drones-intercepteurs-gobi-zephyr/){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [industrie](themes/industrie.md){ .tag }
 { .actu-foot }
 
 </section>
@@ -138,6 +116,13 @@ Le chef d'état-major de l'armée de l'Air et de l'Espace, le général Jérôme
 ## Veilles précédentes
 
 <div class="cartes" markdown>
+
+- [**Jeudi 26 novembre 2026**](2026/11/2026-11-26.md) <span class="carte-meta">10 actus · 4 min</span>
+
+    - Négociations Russie-Ukraine : Kaja Kallas mise sur la touche
+    - La Pologne va créer une zone d'exclusion aérienne à sa frontière avec l'Ukraine
+    - RDC : le chef de l'armée ougandaise menace d'avancer en territoire congolais
+    - *et 7 autres…*
 
 - [**Mercredi 25 novembre 2026**](2026/11/2026-11-25.md) <span class="carte-meta">10 actus · 4 min</span>
 
@@ -174,16 +159,9 @@ Le chef d'état-major de l'armée de l'Air et de l'Espace, le général Jérôme
     - Royaume-Uni et Union européenne : nouveaux accords post-Brexit
     - *et 6 autres…*
 
-- [**Vendredi 20 novembre 2026**](2026/11/2026-11-20.md) <span class="carte-meta">9 actus · 4 min</span>
-
-    - Rohingya : la CIJ reconnaît la Birmanie coupable de génocide
-    - Ukraine : la coalition des volontaires se réunit à Berlin
-    - Groenland : le Danemark ratifie l'accord renforçant la présence militaire américaine
-    - *et 6 autres…*
-
 </div>
 
-[Les 15 veilles dans les archives →](archives.md){ .lien-suite }
+[Les 16 veilles dans les archives →](archives.md){ .lien-suite }
 
 <p class="a-propos" markdown>
 Zeraq est une veille automatisée : les résumés sont rédigés par un assistant IA à partir des articles cités sous chaque actu. [Voir les sources suivies](sources.md).

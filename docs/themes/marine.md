@@ -8,12 +8,16 @@ search:
 
 # marine
 
-51 actus sur ce thème · [tous les thèmes](../tags.md)
+55 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Iran : le blocus maritime américain asphyxie l'économie](../2026/11/2026-11-27.md#iran-le-blocus-maritime-americain-asphyxie-leconomie) <span class="carte-meta">27 nov.</span>
+- [Royaume-Uni : contrat record de 8 milliards de livres pour la disponibilité des sous-marins](../2026/11/2026-11-27.md#royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins) <span class="carte-meta">27 nov.</span>
+- [Marine nationale : patrouille conjointe avec les Philippines en mer de Sulu](../2026/11/2026-11-27.md#marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu) <span class="carte-meta">27 nov.</span>
+- [Taïwan reçoit sa douzième et dernière corvette lance-missiles Tuo Chiang](../2026/11/2026-11-27.md#taiwan-recoit-sa-douzieme-et-derniere-corvette-lance-missiles-tuo-chiang) <span class="carte-meta">27 nov.</span>
 - [Pacifique : la Marine nationale saisit 3,3 tonnes de méthamphétamine près de Clipperton](../2026/11/2026-11-26.md#pacifique-la-marine-nationale-saisit-33-tonnes-de-methamphetamine-pres-de-clipperton) <span class="carte-meta">26 nov.</span>
 - [Mer d'Azov : la Crimée de plus en plus isolée par les frappes sur les ponts](../2026/11/2026-11-26.md#mer-dazov-la-crimee-de-plus-en-plus-isolee-par-les-frappes-sur-les-ponts) <span class="carte-meta">26 nov.</span>
 - [Pologne : quille de la troisième frégate Miecznik et accord sur le missile CAMM-MR](../2026/11/2026-11-26.md#pologne-quille-de-la-troisieme-fregate-miecznik-et-accord-sur-le-missile-camm-mr) <span class="carte-meta">26 nov.</span>

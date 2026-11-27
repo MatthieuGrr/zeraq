@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-15 veilles et 138 actus, de la plus récente à la plus ancienne.
+16 veilles et 146 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Vendredi 27 novembre 2026**](2026/11/2026-11-27.md) <span class="carte-meta">8 actus</span>  
+Iran : le blocus maritime américain asphyxie l'économie · Nouveaux droits de douane américains : levée de boucliers · Soudan : un général transfuge des FSR accuse ses anciens chefs de… · Hongrie-Ukraine : rapprochement affiché en Transcarpatie · Royaume-Uni : contrat record de 8 milliards de livres pour la… · Marine nationale : patrouille conjointe avec les Philippines en mer… · Taïwan reçoit sa douzième et dernière corvette lance-missiles Tuo… · Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés
 
 [**Jeudi 26 novembre 2026**](2026/11/2026-11-26.md) <span class="carte-meta">10 actus</span>  
 Négociations Russie-Ukraine : Kaja Kallas mise sur la touche · La Pologne va créer une zone d'exclusion aérienne à sa frontière… · RDC : le chef de l'armée ougandaise menace d'avancer en territoire… · Pacifique : les Îles Salomon s'engagent auprès de l'Australie à… · Libye : Khalifa Haftar reçu pour la première fois par Erdogan · Pacifique : la Marine nationale saisit 3,3 tonnes de méthamphétamine… · Mer d'Azov : la Crimée de plus en plus isolée par les frappes sur… · Pologne : quille de la troisième frégate Miecznik et accord sur le… · Méditerranée : l'OTAN n'attend pas de renfort naval russe après… · Espace : manœuvre conjointe franco-américaine autour d'un satellite…

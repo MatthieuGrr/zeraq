@@ -8,12 +8,13 @@ search:
 
 # Afrique
 
-25 actus sur ce thème · [tous les thèmes](../tags.md)
+26 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Soudan : un général transfuge des FSR accuse ses anciens chefs de massacres à El-Fasher](../2026/11/2026-11-27.md#soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher) <span class="carte-meta">27 nov.</span>
 - [RDC : le chef de l'armée ougandaise menace d'avancer en territoire congolais](../2026/11/2026-11-26.md#rdc-le-chef-de-larmee-ougandaise-menace-davancer-en-territoire-congolais) <span class="carte-meta">26 nov.</span>
 - [Libye : Khalifa Haftar reçu pour la première fois par Erdogan](../2026/11/2026-11-26.md#libye-khalifa-haftar-recu-pour-la-premiere-fois-par-erdogan) <span class="carte-meta">26 nov.</span>
 - [Libye : après l'attaque ukrainienne de Benghazi, appels au départ des forces étrangères](../2026/11/2026-11-25.md#libye-apres-lattaque-ukrainienne-de-benghazi-appels-au-depart-des-forces-etrangeres) <span class="carte-meta">25 nov.</span>

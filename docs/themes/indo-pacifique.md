@@ -8,12 +8,14 @@ search:
 
 # Indo-Pacifique
 
-13 actus sur ce thème · [tous les thèmes](../tags.md)
+15 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Nouveaux droits de douane américains : levée de boucliers](../2026/11/2026-11-27.md#nouveaux-droits-de-douane-americains-levee-de-boucliers) <span class="carte-meta">27 nov.</span>
+- [Marine nationale : patrouille conjointe avec les Philippines en mer de Sulu](../2026/11/2026-11-27.md#marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu) <span class="carte-meta">27 nov.</span>
 - [Pacifique : les Îles Salomon s'engagent auprès de l'Australie à refuser toute base étrangère](../2026/11/2026-11-26.md#pacifique-les-iles-salomon-sengagent-aupres-de-laustralie-a-refuser-toute-base-etrangere) <span class="carte-meta">26 nov.</span>
 - [Pacifique : la Marine nationale saisit 3,3 tonnes de méthamphétamine près de Clipperton](../2026/11/2026-11-26.md#pacifique-la-marine-nationale-saisit-33-tonnes-de-methamphetamine-pres-de-clipperton) <span class="carte-meta">26 nov.</span>
 - [La France préside pour la première fois le symposium des marines du Pacifique](../2026/11/2026-11-25.md#la-france-preside-pour-la-premiere-fois-le-symposium-des-marines-du-pacifique) <span class="carte-meta">25 nov.</span>

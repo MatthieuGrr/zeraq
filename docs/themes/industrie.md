@@ -8,12 +8,14 @@ search:
 
 # industrie
 
-9 actus sur ce thème · [tous les thèmes](../tags.md)
+11 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Royaume-Uni : contrat record de 8 milliards de livres pour la disponibilité des sous-marins](../2026/11/2026-11-27.md#royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins) <span class="carte-meta">27 nov.</span>
+- [Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés](../2026/11/2026-11-27.md#armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres) <span class="carte-meta">27 nov.</span>
 - [RDC : suspension des exportations de cobalt](../2026/11/2026-11-25.md#rdc-suspension-des-exportations-de-cobalt) <span class="carte-meta">25 nov.</span>
 - [Thaïlande : l'appel d'offres pour une nouvelle frégate est annulé](../2026/11/2026-11-24.md#thailande-lappel-doffres-pour-une-nouvelle-fregate-est-annule) <span class="carte-meta">24 nov.</span>
 - [Obus de 155 mm : objectif 150 000 par an en 2029](../2026/11/2026-11-21.md#obus-de-155-mm-objectif-150-000-par-an-en-2029) <span class="carte-meta">21 nov.</span>

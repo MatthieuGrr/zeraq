@@ -8,12 +8,13 @@ search:
 
 # Russie-Ukraine
 
-35 actus sur ce thème · [tous les thèmes](../tags.md)
+36 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Hongrie-Ukraine : rapprochement affiché en Transcarpatie](../2026/11/2026-11-27.md#hongrie-ukraine-rapprochement-affiche-en-transcarpatie) <span class="carte-meta">27 nov.</span>
 - [Négociations Russie-Ukraine : Kaja Kallas mise sur la touche](../2026/11/2026-11-26.md#negociations-russie-ukraine-kaja-kallas-mise-sur-la-touche) <span class="carte-meta">26 nov.</span>
 - [La Pologne va créer une zone d'exclusion aérienne à sa frontière avec l'Ukraine](../2026/11/2026-11-26.md#la-pologne-va-creer-une-zone-dexclusion-aerienne-a-sa-frontiere-avec-lukraine) <span class="carte-meta">26 nov.</span>
 - [Mer d'Azov : la Crimée de plus en plus isolée par les frappes sur les ponts](../2026/11/2026-11-26.md#mer-dazov-la-crimee-de-plus-en-plus-isolee-par-les-frappes-sur-les-ponts) <span class="carte-meta">26 nov.</span>

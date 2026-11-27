@@ -8,12 +8,13 @@ search:
 
 # Moyen-Orient
 
-19 actus sur ce thème · [tous les thèmes](../tags.md)
+20 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Iran : le blocus maritime américain asphyxie l'économie](../2026/11/2026-11-27.md#iran-le-blocus-maritime-americain-asphyxie-leconomie) <span class="carte-meta">27 nov.</span>
 - [Libye : Khalifa Haftar reçu pour la première fois par Erdogan](../2026/11/2026-11-26.md#libye-khalifa-haftar-recu-pour-la-premiere-fois-par-erdogan) <span class="carte-meta">26 nov.</span>
 - [Ormuz : les Émirats organisent le convoyage du pétrole du Golfe](../2026/11/2026-11-25.md#ormuz-les-emirats-organisent-le-convoyage-du-petrole-du-golfe) <span class="carte-meta">25 nov.</span>
 - [Gaz : les prix s'envolent en Europe avec le premier froid](../2026/11/2026-11-24.md#gaz-les-prix-senvolent-en-europe-avec-le-premier-froid) <span class="carte-meta">24 nov.</span>

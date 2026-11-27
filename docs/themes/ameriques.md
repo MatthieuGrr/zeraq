@@ -8,12 +8,13 @@ search:
 
 # Amériques
 
-25 actus sur ce thème · [tous les thèmes](../tags.md)
+26 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Nouveaux droits de douane américains : levée de boucliers](../2026/11/2026-11-27.md#nouveaux-droits-de-douane-americains-levee-de-boucliers) <span class="carte-meta">27 nov.</span>
 - [Espace : manœuvre conjointe franco-américaine autour d'un satellite « compétiteur »](../2026/11/2026-11-26.md#espace-manuvre-conjointe-franco-americaine-autour-dun-satellite-competiteur) <span class="carte-meta">26 nov.</span>
 - [Espace : les satellites patrouilleurs français YODA lancés par des Américains ?](../2026/11/2026-11-25.md#espace-les-satellites-patrouilleurs-francais-yoda-lances-par-des-americains) <span class="carte-meta">25 nov.</span>
 - [Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel](../2026/11/2026-11-22.md#golfe-bahrein-accuse-liran-davoir-frappe-un-site-industriel) <span class="carte-meta">22 nov.</span>

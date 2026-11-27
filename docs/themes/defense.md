@@ -8,12 +8,15 @@ search:
 
 # défense
 
-58 actus sur ce thème · [tous les thèmes](../tags.md)
+61 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Soudan : un général transfuge des FSR accuse ses anciens chefs de massacres à El-Fasher](../2026/11/2026-11-27.md#soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher) <span class="carte-meta">27 nov.</span>
+- [Taïwan reçoit sa douzième et dernière corvette lance-missiles Tuo Chiang](../2026/11/2026-11-27.md#taiwan-recoit-sa-douzieme-et-derniere-corvette-lance-missiles-tuo-chiang) <span class="carte-meta">27 nov.</span>
+- [Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés](../2026/11/2026-11-27.md#armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres) <span class="carte-meta">27 nov.</span>
 - [La Pologne va créer une zone d'exclusion aérienne à sa frontière avec l'Ukraine](../2026/11/2026-11-26.md#la-pologne-va-creer-une-zone-dexclusion-aerienne-a-sa-frontiere-avec-lukraine) <span class="carte-meta">26 nov.</span>
 - [RDC : le chef de l'armée ougandaise menace d'avancer en territoire congolais](../2026/11/2026-11-26.md#rdc-le-chef-de-larmee-ougandaise-menace-davancer-en-territoire-congolais) <span class="carte-meta">26 nov.</span>
 - [Pacifique : les Îles Salomon s'engagent auprès de l'Australie à refuser toute base étrangère](../2026/11/2026-11-26.md#pacifique-les-iles-salomon-sengagent-aupres-de-laustralie-a-refuser-toute-base-etrangere) <span class="carte-meta">26 nov.</span>
