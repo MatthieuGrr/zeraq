@@ -8,12 +8,13 @@ search:
 
 # Amériques
 
-26 actus sur ce thème · [tous les thèmes](../tags.md)
+27 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Le futur porte-avions France Libre vu par l'US Navy](../2026/11/2026-11-28.md#le-futur-porte-avions-france-libre-vu-par-lus-navy) <span class="carte-meta">28 nov.</span>
 - [Nouveaux droits de douane américains : levée de boucliers](../2026/11/2026-11-27.md#nouveaux-droits-de-douane-americains-levee-de-boucliers) <span class="carte-meta">27 nov.</span>
 - [Espace : manœuvre conjointe franco-américaine autour d'un satellite « compétiteur »](../2026/11/2026-11-26.md#espace-manuvre-conjointe-franco-americaine-autour-dun-satellite-competiteur) <span class="carte-meta">26 nov.</span>
 - [Espace : les satellites patrouilleurs français YODA lancés par des Américains ?](../2026/11/2026-11-25.md#espace-les-satellites-patrouilleurs-francais-yoda-lances-par-des-americains) <span class="carte-meta">25 nov.</span>

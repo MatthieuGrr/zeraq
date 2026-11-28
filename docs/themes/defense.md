@@ -8,12 +8,17 @@ search:
 
 # défense
 
-61 actus sur ce thème · [tous les thèmes](../tags.md)
+66 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [UE : pas d'accord sur le budget 2028-2034](../2026/11/2026-11-28.md#ue-pas-daccord-sur-le-budget-2028-2034) <span class="carte-meta">28 nov.</span>
+- [RDC : l'Ouganda annonce un retrait de Lubero](../2026/11/2026-11-28.md#rdc-louganda-annonce-un-retrait-de-lubero) <span class="carte-meta">28 nov.</span>
+- [Pays-Bas : deux NH90 NFH de plus pour la marine](../2026/11/2026-11-28.md#pays-bas-deux-nh90-nfh-de-plus-pour-la-marine) <span class="carte-meta">28 nov.</span>
+- [Thales rachète Lumibird](../2026/11/2026-11-28.md#thales-rachete-lumibird) <span class="carte-meta">28 nov.</span>
+- [Lutte antidrone : la DGA élargit son pacte industriel](../2026/11/2026-11-28.md#lutte-antidrone-la-dga-elargit-son-pacte-industriel) <span class="carte-meta">28 nov.</span>
 - [Soudan : un général transfuge des FSR accuse ses anciens chefs de massacres à El-Fasher](../2026/11/2026-11-27.md#soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher) <span class="carte-meta">27 nov.</span>
 - [Taïwan reçoit sa douzième et dernière corvette lance-missiles Tuo Chiang](../2026/11/2026-11-27.md#taiwan-recoit-sa-douzieme-et-derniere-corvette-lance-missiles-tuo-chiang) <span class="carte-meta">27 nov.</span>
 - [Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés](../2026/11/2026-11-27.md#armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres) <span class="carte-meta">27 nov.</span>

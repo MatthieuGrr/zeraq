@@ -8,12 +8,13 @@ search:
 
 # industrie
 
-11 actus sur ce thème · [tous les thèmes](../tags.md)
+12 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Thales rachète Lumibird](../2026/11/2026-11-28.md#thales-rachete-lumibird) <span class="carte-meta">28 nov.</span>
 - [Royaume-Uni : contrat record de 8 milliards de livres pour la disponibilité des sous-marins](../2026/11/2026-11-27.md#royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins) <span class="carte-meta">27 nov.</span>
 - [Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés](../2026/11/2026-11-27.md#armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres) <span class="carte-meta">27 nov.</span>
 - [RDC : suspension des exportations de cobalt](../2026/11/2026-11-25.md#rdc-suspension-des-exportations-de-cobalt) <span class="carte-meta">25 nov.</span>

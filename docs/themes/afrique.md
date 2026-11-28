@@ -8,12 +8,13 @@ search:
 
 # Afrique
 
-26 actus sur ce thème · [tous les thèmes](../tags.md)
+27 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [RDC : l'Ouganda annonce un retrait de Lubero](../2026/11/2026-11-28.md#rdc-louganda-annonce-un-retrait-de-lubero) <span class="carte-meta">28 nov.</span>
 - [Soudan : un général transfuge des FSR accuse ses anciens chefs de massacres à El-Fasher](../2026/11/2026-11-27.md#soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher) <span class="carte-meta">27 nov.</span>
 - [RDC : le chef de l'armée ougandaise menace d'avancer en territoire congolais](../2026/11/2026-11-26.md#rdc-le-chef-de-larmee-ougandaise-menace-davancer-en-territoire-congolais) <span class="carte-meta">26 nov.</span>
 - [Libye : Khalifa Haftar reçu pour la première fois par Erdogan](../2026/11/2026-11-26.md#libye-khalifa-haftar-recu-pour-la-premiere-fois-par-erdogan) <span class="carte-meta">26 nov.</span>

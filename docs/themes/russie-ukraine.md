@@ -8,12 +8,15 @@ search:
 
 # Russie-Ukraine
 
-36 actus sur ce thème · [tous les thèmes](../tags.md)
+39 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [L'Ukraine étend sa guerre navale loin de la mer Noire](../2026/11/2026-11-28.md#lukraine-etend-sa-guerre-navale-loin-de-la-mer-noire) <span class="carte-meta">28 nov.</span>
+- [Semaine record d'actions hostiles contre l'Europe](../2026/11/2026-11-28.md#semaine-record-dactions-hostiles-contre-leurope) <span class="carte-meta">28 nov.</span>
+- [Lutte antidrone : la DGA élargit son pacte industriel](../2026/11/2026-11-28.md#lutte-antidrone-la-dga-elargit-son-pacte-industriel) <span class="carte-meta">28 nov.</span>
 - [Hongrie-Ukraine : rapprochement affiché en Transcarpatie](../2026/11/2026-11-27.md#hongrie-ukraine-rapprochement-affiche-en-transcarpatie) <span class="carte-meta">27 nov.</span>
 - [Négociations Russie-Ukraine : Kaja Kallas mise sur la touche](../2026/11/2026-11-26.md#negociations-russie-ukraine-kaja-kallas-mise-sur-la-touche) <span class="carte-meta">26 nov.</span>
 - [La Pologne va créer une zone d'exclusion aérienne à sa frontière avec l'Ukraine](../2026/11/2026-11-26.md#la-pologne-va-creer-une-zone-dexclusion-aerienne-a-sa-frontiere-avec-lukraine) <span class="carte-meta">26 nov.</span>

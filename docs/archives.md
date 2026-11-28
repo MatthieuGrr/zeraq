@@ -6,12 +6,15 @@ hide:
 
 # Archives
 
-16 veilles et 146 actus, de la plus récente à la plus ancienne.
+17 veilles et 156 actus, de la plus récente à la plus ancienne.
 { .veille-meta }
 
 ## Novembre 2026
 
 <div class="archives" markdown>
+
+[**Samedi 28 novembre 2026**](2026/11/2026-11-28.md) <span class="carte-meta">10 actus</span>  
+L'Ukraine étend sa guerre navale loin de la mer Noire · UE : pas d'accord sur le budget 2028-2034 · Semaine record d'actions hostiles contre l'Europe · Taïwan : élections locales sous le regard de Pékin · RDC : l'Ouganda annonce un retrait de Lubero · Le futur porte-avions France Libre vu par l'US Navy · Italie : un troisième navire logistique LSS commandé · Pays-Bas : deux NH90 NFH de plus pour la marine · Thales rachète Lumibird · Lutte antidrone : la DGA élargit son pacte industriel
 
 [**Vendredi 27 novembre 2026**](2026/11/2026-11-27.md) <span class="carte-meta">8 actus</span>  
 Iran : le blocus maritime américain asphyxie l'économie · Nouveaux droits de douane américains : levée de boucliers · Soudan : un général transfuge des FSR accuse ses anciens chefs de… · Hongrie-Ukraine : rapprochement affiché en Transcarpatie · Royaume-Uni : contrat record de 8 milliards de livres pour la… · Marine nationale : patrouille conjointe avec les Philippines en mer… · Taïwan reçoit sa douzième et dernière corvette lance-missiles Tuo… · Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés

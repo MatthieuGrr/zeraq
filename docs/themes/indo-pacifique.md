@@ -8,12 +8,13 @@ search:
 
 # Indo-Pacifique
 
-15 actus sur ce thème · [tous les thèmes](../tags.md)
+16 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [Taïwan : élections locales sous le regard de Pékin](../2026/11/2026-11-28.md#taiwan-elections-locales-sous-le-regard-de-pekin) <span class="carte-meta">28 nov.</span>
 - [Nouveaux droits de douane américains : levée de boucliers](../2026/11/2026-11-27.md#nouveaux-droits-de-douane-americains-levee-de-boucliers) <span class="carte-meta">27 nov.</span>
 - [Marine nationale : patrouille conjointe avec les Philippines en mer de Sulu](../2026/11/2026-11-27.md#marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu) <span class="carte-meta">27 nov.</span>
 - [Pacifique : les Îles Salomon s'engagent auprès de l'Australie à refuser toute base étrangère](../2026/11/2026-11-26.md#pacifique-les-iles-salomon-sengagent-aupres-de-laustralie-a-refuser-toute-base-etrangere) <span class="carte-meta">26 nov.</span>

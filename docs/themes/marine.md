@@ -8,12 +8,16 @@ search:
 
 # marine
 
-55 actus sur ce thème · [tous les thèmes](../tags.md)
+59 actus sur ce thème · [tous les thèmes](../tags.md)
 { .veille-meta }
 
 
 ## Novembre 2026
 
+- [L'Ukraine étend sa guerre navale loin de la mer Noire](../2026/11/2026-11-28.md#lukraine-etend-sa-guerre-navale-loin-de-la-mer-noire) <span class="carte-meta">28 nov.</span>
+- [Le futur porte-avions France Libre vu par l'US Navy](../2026/11/2026-11-28.md#le-futur-porte-avions-france-libre-vu-par-lus-navy) <span class="carte-meta">28 nov.</span>
+- [Italie : un troisième navire logistique LSS commandé](../2026/11/2026-11-28.md#italie-un-troisieme-navire-logistique-lss-commande) <span class="carte-meta">28 nov.</span>
+- [Pays-Bas : deux NH90 NFH de plus pour la marine](../2026/11/2026-11-28.md#pays-bas-deux-nh90-nfh-de-plus-pour-la-marine) <span class="carte-meta">28 nov.</span>
 - [Iran : le blocus maritime américain asphyxie l'économie](../2026/11/2026-11-27.md#iran-le-blocus-maritime-americain-asphyxie-leconomie) <span class="carte-meta">27 nov.</span>
 - [Royaume-Uni : contrat record de 8 milliards de livres pour la disponibilité des sous-marins](../2026/11/2026-11-27.md#royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins) <span class="carte-meta">27 nov.</span>
 - [Marine nationale : patrouille conjointe avec les Philippines en mer de Sulu](../2026/11/2026-11-27.md#marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu) <span class="carte-meta">27 nov.</span>

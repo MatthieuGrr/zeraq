@@ -15,100 +15,122 @@ search:
 *Zeraq*, le quart de minuit à quatre heures, celui qui demande le plus d'attention : chaque matin, l'essentiel en géopolitique, défense et affaires maritimes, résumé en quelques lignes et toujours sourcé.
 { .hero-baseline }
 
-[Lire la veille du jour](2026/11/2026-11-27.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
+[Lire la veille du jour](2026/11/2026-11-28.md){ .md-button .md-button--primary } [Archives](archives.md){ .md-button } [Thèmes](tags.md){ .md-button } [Flux RSS](feed.xml){ .md-button }
 { .hero-actions }
 
 </div>
 
-## [Vendredi 27 novembre 2026](2026/11/2026-11-27.md) { .jour }
+## [Samedi 28 novembre 2026](2026/11/2026-11-28.md) { .jour }
 
-**8 actus** · 4 min de lecture
+**10 actus** · 3 min de lecture
 { .veille-meta }
 
 <section class="actu" markdown>
 
-### Iran : le blocus maritime américain asphyxie l'économie { #iran-le-blocus-maritime-americain-asphyxie-leconomie data-fav="2026/11/2026-11-27/#iran-le-blocus-maritime-americain-asphyxie-leconomie" }
+### L'Ukraine étend sa guerre navale loin de la mer Noire { #lukraine-etend-sa-guerre-navale-loin-de-la-mer-noire data-fav="2026/11/2026-11-28/#lukraine-etend-sa-guerre-navale-loin-de-la-mer-noire" }
 
-Les ports iraniens sont soumis depuis avril à un blocus maritime américain, suspendu en juin puis rétabli le 14 juillet, qui entrave l'essentiel du commerce du pays : pénuries de carburant, flambée des prix (l'huile de cuisson a été multipliée par 41 depuis 2020) et manifestations, notamment de routiers dans le sud depuis le 22 novembre. Le 21 novembre, Téhéran a qualifié le blocus d'« acte de guerre » et les Gardiens de la révolution ont visé les radars de deux bases américaines à Bahreïn, troisième attaque en cinq jours. Des discussions indirectes se poursuivent via le Qatar et le Pakistan pour rétablir un cessez-le-feu et rouvrir le détroit d'Ormuz.
+En deux jours, des drones navals ont frappé le cargo Sparta II dans le golfe de Finlande (21 novembre), puis une corvette russe dans le port libyen de Benghazi et un autre cargo au large de la Libye (22 novembre). Kiev assume désormais cette extension du conflit sur de nouveaux fronts, en partie pour maintenir la mobilisation de ses soutiens occidentaux. Les Européens, eux, oscillent entre soutien et inquiétude face au risque d'escalade dans leur voisinage maritime immédiat.
 
-[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/26/le-blocus-maritime-americain-etouffe-leconomie-iranienne/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Moyen-Orient](themes/moyen-orient.md){ .tag }
+[Le Monde](https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html){ .src target="_blank" rel="noopener" } [RFI](https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261127-baltique-m%C3%A9diterran%C3%A9e-l-ukraine-va-t-elle-trop-loin-dans-sa-guerre-maritime-contre-la-russie){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Nouveaux droits de douane américains : levée de boucliers { #nouveaux-droits-de-douane-americains-levee-de-boucliers data-fav="2026/11/2026-11-27/#nouveaux-droits-de-douane-americains-levee-de-boucliers" }
+### UE : pas d'accord sur le budget 2028-2034 { #ue-pas-daccord-sur-le-budget-2028-2034 data-fav="2026/11/2026-11-28/#ue-pas-daccord-sur-le-budget-2028-2034" }
 
-Washington a annoncé le 25 novembre une nouvelle série de surtaxes contre ses principaux partenaires (UE, Chine, Japon, Inde, Brésil, Singapour…), accusés de subventions provoquant une surproduction. Elles s'ajoutent aux droits d'au moins 10 % imposés fin juillet à une soixantaine de pays et s'appuient sur une loi de 1974, l'administration cherchant à rétablir les droits annulés en février par la Cour suprême. Bruxelles « conteste fermement » l'argument, Pékin se réserve le droit de riposter et le Brésil, visé aussi sur l'aviation civile, refuse de « céder ».
+Réunis en sommet extraordinaire à Bruxelles le 26 novembre, les Vingt-Sept n'ont pas réussi à s'entendre sur le cadre financier pluriannuel, qui fixe pour sept ans les moyens consacrés à l'agriculture, à la défense, à la compétitivité ou au soutien à l'Ukraine. Les pays « frugaux », rebaptisés « sept raisonnables », ont durci leur position. La discussion est reportée au sommet du 17 décembre, sur fond de présidentielle française de 2027.
 
-[RFI](https://www.rfi.fr/fr/monde/20261126-l-annonce-de-nouveaux-droits-de-douane-am%C3%A9ricains-par-washington-suscite-l-indignation-des-pays-vis%C3%A9s){ .src target="_blank" rel="noopener" } [Amériques](themes/ameriques.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
+[RFI](https://www.rfi.fr/fr/europe/20261127-ue-faute-d-accord-la-question-du-budget-pour-2028-2034-report%C3%A9e-au-mois-de-d%C3%A9cembre){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Soudan : un général transfuge des FSR accuse ses anciens chefs de massacres à El-Fasher { #soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher data-fav="2026/11/2026-11-27/#soudan-un-general-transfuge-des-fsr-accuse-ses-anciens-chefs-de-massacres-a-el-fasher" }
+### Semaine record d'actions hostiles contre l'Europe { #semaine-record-dactions-hostiles-contre-leurope data-fav="2026/11/2026-11-28/#semaine-record-dactions-hostiles-contre-leurope" }
 
-Le général de division Ammar Rabih, passé des Forces de soutien rapide (FSR) à l'armée régulière, a affirmé le 23 novembre à Khartoum qu'il existe à El-Fasher « d'immenses fosses communes contenant les corps de milliers de civils ». Ce sont les premières accusations d'un responsable des FSR sur la prise de la capitale du Darfour du Nord en octobre 2025. Une mission d'enquête mandatée par l'ONU y avait relevé en février des « signes distinctifs d'un génocide » ; la guerre civile oppose armée et FSR depuis avril 2023.
+Du 21 au 27 novembre, Le Grand Continent a recensé 32 actions hostiles visant l'Europe (espionnage, incidents aériens, sabotages, désinformation, brouillage GPS, un drone marin chargé d'explosifs), dont 18 attribuées ou attribuables à la Russie. C'est trois fois la moyenne d'octobre. Le flanc est concentre 23 cas, avec la Pologne (6) et la Roumanie (5) en tête.
 
-[RFI](https://www.rfi.fr/fr/afrique/20261126-soudan-il-y-a-des-fosses-communes-avec-des-milliers-de-corps-%C3%A0-el-fasher-accuse-un-g%C3%A9n%C3%A9ral-ayant-d%C3%A9sert%C3%A9-les-fsr){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
+[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/27/leurope-fait-face-a-une-vague-daffaires-despionnage-russe/){ .src target="_blank" rel="noopener" } [Europe](themes/europe.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Hongrie-Ukraine : rapprochement affiché en Transcarpatie { #hongrie-ukraine-rapprochement-affiche-en-transcarpatie data-fav="2026/11/2026-11-27/#hongrie-ukraine-rapprochement-affiche-en-transcarpatie" }
+### Taïwan : élections locales sous le regard de Pékin { #taiwan-elections-locales-sous-le-regard-de-pekin data-fav="2026/11/2026-11-28/#taiwan-elections-locales-sous-le-regard-de-pekin" }
 
-Le Premier ministre hongrois Peter Magyar et Volodymyr Zelensky se sont rencontrés le 24 novembre en Transcarpatie, région ukrainienne abritant une minorité hongroise, pour tourner la page des tensions de l'ère Orban. Ils ont évoqué l'énergie, l'économie, les liaisons de transport et les droits de la communauté hongroise. Budapest refuse toujours de livrer des armes, mais se dit prête à fournir une aide humanitaire et à déployer des forces de maintien de la paix.
+Environ 20 millions d'électeurs taïwanais élisent ce samedi 28 novembre quelque 11 000 élus locaux. Le Kuomintang, qui s'est rapproché de Pékin ces derniers mois, devrait garder la majorité des exécutifs locaux mais se trouve en difficulté à Taipei et New Taipei.
 
-[Courrier international](https://www.courrierinternational.com/article/diplomatie-budapest-et-kiev-affichent-leur-rapprochement-en-transcarpatie_290313){ .src target="_blank" rel="noopener" } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
+[Le Grand Continent](https://legrandcontinent.eu/fr/2026/11/28/conquerir-par-le-bas-a-taiwan-la-chine-plane-sur-les-elections-locales/){ .src target="_blank" rel="noopener" } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Royaume-Uni : contrat record de 8 milliards de livres pour la disponibilité des sous-marins { #royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins data-fav="2026/11/2026-11-27/#royaume-uni-contrat-record-de-8-milliards-de-livres-pour-la-disponibilite-des-sous-marins" }
+### RDC : l'Ouganda annonce un retrait de Lubero { #rdc-louganda-annonce-un-retrait-de-lubero data-fav="2026/11/2026-11-28/#rdc-louganda-annonce-un-retrait-de-lubero" }
 
-Le ministère britannique de la Défense a notifié le 26 novembre à Babcock le contrat « Gateway » (environ 10 milliards d'euros sur cinq ans), consacré au maintien en condition des sous-marins de la Royal Navy et des bases de Devonport et Faslane. L'enjeu est critique : il est arrivé qu'aucun SNA Astute ne puisse prendre la mer, les patrouilles des SNLE Vanguard s'allongent (217 jours pour le HMS Vengeance) et le HMS Victorious est en cale sèche depuis l'été 2023. Le contrat suit les 8,4 milliards de livres engagés en juillet pour le programme Dreadnought, successeur des Vanguard.
+L'armée ougandaise annonce le désengagement de ses troupes de Lubero, dans l'est de la RDC, d'ici deux semaines, et accuse des milices alliées à Kinshasa de massacrer des civils. L'annonce suit les propos controversés de son chef d'état-major, Muhoozi Kainerugaba. Les deux ministres des Affaires étrangères se sont entretenus le 27 novembre pour tenter d'apaiser la crise, alors que les rebelles ADF restent actifs dans la zone.
 
-[Zone Militaire](https://www.opex360.com/2026/11/26/londres-investit-10-milliards-deuros-pour-ameliorer-la-disponibilite-de-ses-sous-marins-nucleaires/){ .src target="_blank" rel="noopener" } [Naval News](https://www.navalnews.com/naval-news/2026/11/uk-mod-awards-babcock-record-8-7b-gateway-submarine-support-deal/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [industrie](themes/industrie.md){ .tag }
+[RFI](https://www.rfi.fr/fr/afrique/20261128-rdc-l-arm%C3%A9e-ougandaise-annonce-son-retrait-dans-l-est-kinshasa-et-kampala-tentent-d-apaiser-les-tensions){ .src target="_blank" rel="noopener" } [Afrique](themes/afrique.md){ .tag } [défense](themes/defense.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Marine nationale : patrouille conjointe avec les Philippines en mer de Sulu { #marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu data-fav="2026/11/2026-11-27/#marine-nationale-patrouille-conjointe-avec-les-philippines-en-mer-de-sulu" }
+### Le futur porte-avions France Libre vu par l'US Navy { #le-futur-porte-avions-france-libre-vu-par-lus-navy data-fav="2026/11/2026-11-28/#le-futur-porte-avions-france-libre-vu-par-lus-navy" }
 
-La frégate de surveillance Vendémiaire a navigué du 20 au 22 novembre avec la frégate philippine Diego Silang et le garde-côtes BRP Sarangani, ancien patrouilleur taïwanais, lors de la troisième activité de coopération maritime franco-philippine (hélicoptères, visites et inspections de navires). L'exercice suit la ratification de l'accord sur les forces en visite entre Paris et Manille. La mer de Sulu, point de passage de la première chaîne d'îles, voit transiter de plus en plus de navires chinois, dont le groupe aéronaval du Liaoning en octobre.
+USNI News consacre une longue enquête au porte-avions de nouvelle génération (PANG), baptisé France Libre. Avec environ 80 000 tonnes, ce sera le plus gros navire de guerre de l'histoire de France, à propulsion nucléaire, et sa livraison à la Marine nationale est prévue en 2038, date du retrait du Charles de Gaulle (42 500 t). Le programme est la pièce centrale d'un effort de défense tourné vers le naval (budget proposé de 64,3 milliards d'euros), qui doit garantir une capacité autonome de projection de puissance et la composante aéronavale de la dissuasion.
 
-[Naval News](https://www.navalnews.com/naval-news/2026/11/french-navy-trains-with-philippine-coast-guard-ship-from-taiwan/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Indo-Pacifique](themes/indo-pacifique.md){ .tag }
+[USNI News](https://news.usni.org/2026/11/27/80000-tons-of-liberte){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [Amériques](themes/ameriques.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Taïwan reçoit sa douzième et dernière corvette lance-missiles Tuo Chiang { #taiwan-recoit-sa-douzieme-et-derniere-corvette-lance-missiles-tuo-chiang data-fav="2026/11/2026-11-27/#taiwan-recoit-sa-douzieme-et-derniere-corvette-lance-missiles-tuo-chiang" }
+### Italie : un troisième navire logistique LSS commandé { #italie-un-troisieme-navire-logistique-lss-commande data-fav="2026/11/2026-11-28/#italie-un-troisieme-navire-logistique-lss-commande" }
 
-Le chantier Lungteh a livré le 19 novembre le ROCS Bao Jiang, bouclant un programme lancé il y a une décennie. Ces catamarans furtifs de 600 tonnes, rapides de plus de 40 nœuds, emportent un canon de 76 mm, 16 missiles sol-air Sky Bow 2N et des missiles antinavires Hsiung Feng II et III, avec pour mission de frapper une force de débarquement. Ils illustrent le virage asymétrique d'une marine dont les destroyers et frégates datent de la guerre froide.
+Fincantieri et Leonardo ont signé avec l'OCCAR un avenant d'environ 500 millions d'euros pour construire un troisième Logistic Support Ship pour la marine italienne. Le navire rejoindra le Vulcano et l'Atlante, déjà livrés, et sera construit à Castellammare di Stabia pour une livraison d'ici 2030. Les ravitailleurs restent un maillon clé de l'endurance des flottes en haute mer.
 
-[USNI News](https://news.usni.org/2026/11/26/taiwan-navy-receives-last-tuo-chiang-class-missile-corvettes){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
+[Naval News](https://www.navalnews.com/naval-news/2026/11/fincantieri-signs-contract-to-construct-the-3rd-lss-for-the-italian-navy/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag }
 { .actu-foot }
 
 </section>
 
 <section class="actu" markdown>
 
-### Armées françaises : premiers drones intercepteurs GOBI Zephyr livrés { #armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres data-fav="2026/11/2026-11-27/#armees-francaises-premiers-drones-intercepteurs-gobi-zephyr-livres" }
+### Pays-Bas : deux NH90 NFH de plus pour la marine { #pays-bas-deux-nh90-nfh-de-plus-pour-la-marine data-fav="2026/11/2026-11-28/#pays-bas-deux-nh90-nfh-de-plus-pour-la-marine" }
 
-La DGA a livré le 26 novembre aux forces les premiers drones intercepteurs GOBI Zephyr de la start-up française Harmattan AI, deux mois seulement après la commande, pour renforcer la défense sol-air de très courte portée. Guidés automatiquement, ils détruisent leur cible par impact direct à 350 km/h dans un rayon de 10 km, de jour comme de nuit, après autorisation humaine de la mission. Le contrat à bons de commande, issu du centre expert référent antidrone, vise notamment les menaces de type Shahed ou Lancet.
+La Défense néerlandaise veut lever avant la fin de l'année une option sur deux hélicoptères NH90 NFH (NATO Frigate Helicopter) supplémentaires, après en avoir commandé trois il y a un an via la NAHEMA. La marine royale, qui en a reçu vingt depuis 2010, s'en dit désormais satisfaite, malgré des débuts marqués par la corrosion et de nombreux défauts. Ce choix contraste avec l'Australie et la Norvège, qui ont abandonné l'appareil.
 
-[Zone Militaire](https://www.opex360.com/2026/11/26/les-forces-francaises-ont-recu-leurs-premiers-drones-intercepteurs-gobi-zephyr/){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [industrie](themes/industrie.md){ .tag }
+[Zone Militaire](https://www.opex360.com/2026/11/27/le-ministere-neerlandais-de-la-defense-veut-commander-deux-helicopteres-nh90-nfh-supplementaires/){ .src target="_blank" rel="noopener" } [marine](themes/marine.md){ .tag } [défense](themes/defense.md){ .tag }
+{ .actu-foot }
+
+</section>
+
+<section class="actu" markdown>
+
+### Thales rachète Lumibird { #thales-rachete-lumibird data-fav="2026/11/2026-11-28/#thales-rachete-lumibird" }
+
+Quatre mois après avoir acquis Exail, le fabricant de drones navals, Thales va racheter le spécialiste français des lasers Lumibird. Le groupe réinvestit ainsi ses bénéfices pour rester dans la course aux technologies militaires, et confirme sa position dominante dans l'industrie de défense française.
+
+[Le Monde](https://www.lemonde.fr/economie/article/2026/11/27/thales-confirme-son-statut-de-nouvel-ogre-de-l-industrie-francaise-de-defense-en-rachetant-lumibird_6815892_3234.html){ .src target="_blank" rel="noopener" } [industrie](themes/industrie.md){ .tag } [défense](themes/defense.md){ .tag }
+{ .actu-foot }
+
+</section>
+
+<section class="actu" markdown>
+
+### Lutte antidrone : la DGA élargit son pacte industriel { #lutte-antidrone-la-dga-elargit-son-pacte-industriel data-fav="2026/11/2026-11-28/#lutte-antidrone-la-dga-elargit-son-pacte-industriel" }
+
+Le ministère des Armées ajoute un volet « lutte antidrone » au pacte « drones aériens de défense » lancé par la DGA en 2024. Le but est de structurer une filière qui va de la start-up au grand groupe et de donner aux industriels de la visibilité sur les besoins des trois armées, au lendemain de la livraison des premiers drones intercepteurs GOBI Zephyr. En Ukraine, un laser de conception nationale aurait abattu pour la première fois un drone russe Geran.
+
+[Zone Militaire](https://www.opex360.com/2026/11/27/le-ministere-des-armees-integre-un-volet-lutte-antidrone-au-pacte-drones-aeriens-de-defense-de-la-dga/){ .src target="_blank" rel="noopener" } [RFI](https://www.rfi.fr/fr/europe/20261127-en-ukraine-un-syst%C3%A8me-laser-abat-un-drone-russe-en-plein-vol-une-premi%C3%A8re-mondiale){ .src target="_blank" rel="noopener" } [défense](themes/defense.md){ .tag } [Russie-Ukraine](themes/russie-ukraine.md){ .tag }
 { .actu-foot }
 
 </section>
@@ -116,6 +138,13 @@ La DGA a livré le 26 novembre aux forces les premiers drones intercepteurs GOBI
 ## Veilles précédentes
 
 <div class="cartes" markdown>
+
+- [**Vendredi 27 novembre 2026**](2026/11/2026-11-27.md) <span class="carte-meta">8 actus · 4 min</span>
+
+    - Iran : le blocus maritime américain asphyxie l'économie
+    - Nouveaux droits de douane américains : levée de boucliers
+    - Soudan : un général transfuge des FSR accuse ses anciens chefs de massacres à El-Fasher
+    - *et 5 autres…*
 
 - [**Jeudi 26 novembre 2026**](2026/11/2026-11-26.md) <span class="carte-meta">10 actus · 4 min</span>
 
@@ -152,16 +181,9 @@ La DGA a livré le 26 novembre aux forces les premiers drones intercepteurs GOBI
     - Espagne : le PP et Vox pourraient obtenir la majorité absolue le 29 novembre
     - *et 7 autres…*
 
-- [**Samedi 21 novembre 2026**](2026/11/2026-11-21.md) <span class="carte-meta">9 actus · 4 min</span>
-
-    - Missiles russes tombés en Pologne, près d'un exercice de la Coalition des volontaires
-    - Le Danemark accuse Moscou d'un projet d'assassinat et expulse l'attaché militaire russe
-    - Royaume-Uni et Union européenne : nouveaux accords post-Brexit
-    - *et 6 autres…*
-
 </div>
 
-[Les 16 veilles dans les archives →](archives.md){ .lien-suite }
+[Les 17 veilles dans les archives →](archives.md){ .lien-suite }
 
 <p class="a-propos" markdown>
 Zeraq est une veille automatisée : les résumés sont rédigés par un assistant IA à partir des articles cités sous chaque actu. [Voir les sources suivies](sources.md).
